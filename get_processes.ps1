@@ -1,0 +1,1 @@
+Get-Process | Where-Object { $_.Name -like '*eikon*' -or $_.Name -like '*workspace*' -or $_.Name -like '*refinitiv*' -or $_.Name -like '*lseg*' } | Select-Object Id, ProcessName, MainWindowTitle | Format-List
