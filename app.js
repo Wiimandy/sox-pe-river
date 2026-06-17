@@ -801,6 +801,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Refresh Data click listener
     btnRefreshData.addEventListener('click', () => {
         const isLocalFile = window.location.protocol === 'file:';
+        const isLocalServer = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
         
         if (isLocalFile) {
             alert(
@@ -811,6 +812,18 @@ document.addEventListener('DOMContentLoaded', () => {
                 "2. 啟動後在瀏覽器中打開網頁：http://localhost:8000\n" +
                 "3. 之後您即可點擊此按鈕進行一鍵自動重新整理！\n\n" +
                 "（或者您也可以直接手動在終端機執行 query_all.py, plot_river.py, compile_data.py，然後重新整理本頁面）"
+            );
+            return;
+        }
+        
+        if (!isLocalServer) {
+            alert(
+                "💡 提示：GitHub Pages 線上版本數據更新說明\n\n" +
+                "由於本網頁目前託管在 GitHub Pages 靜態伺服器上，網頁端無法直接在雲端執行您本機電腦上的 Python 資料抓取腳本。\n\n" +
+                "若要更新網頁上的估值數據，請按照以下步驟操作：\n" +
+                "1. 開啟您電腦本機的專案資料夾。\n" +
+                "2. 滑鼠雙擊執行「update_and_push.bat」批次檔。\n" +
+                "3. 該腳本會自動幫您從 LSEG 抓取數據、編譯河流區間並推送到 GitHub，您的網站將在 1 分鐘內完成雲端更新！"
             );
             return;
         }
@@ -855,6 +868,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Export charts click listener
     btnExportCharts.addEventListener('click', () => {
         const isLocalFile = window.location.protocol === 'file:';
+        const isLocalServer = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
         
         if (isLocalFile) {
             alert(
@@ -864,6 +878,17 @@ document.addEventListener('DOMContentLoaded', () => {
                 "1. 在專案目錄下啟動本地端伺服器：python server.py\n" +
                 "2. 在瀏覽器打開網頁：http://localhost:8000\n" +
                 "3. 點擊此按鈕即可一鍵產出近 5 年估值折線圖並匯出至 OneDrive 目錄！"
+            );
+            return;
+        }
+        
+        if (!isLocalServer) {
+            alert(
+                "💡 提示：GitHub Pages 線上版本自動導出圖表說明\n\n" +
+                "由於本網頁目前託管在 GitHub Pages 靜態伺服器上，網頁端無法直接操作您本機電腦的 OneDrive 資料夾來自動產出圖片。\n\n" +
+                "若要導出近 5 年估值折線圖，請選用以下其中一種方式：\n" +
+                "1. 在本機電腦的專案目錄下執行：python generate_and_export_charts.py\n" +
+                "2. 或者在本機啟動本地端伺服器（python server.py），在瀏覽器開啟 http://localhost:8000 點選此按鈕！"
             );
             return;
         }
