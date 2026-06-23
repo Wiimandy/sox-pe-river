@@ -2,8 +2,8 @@
 
 document.addEventListener('DOMContentLoaded', () => {
     // --- 1. Validate Data Load ---
-    if (typeof SOX_DATA === 'undefined' || typeof SPX_DATA === 'undefined' || typeof IXIC_DATA === 'undefined' || typeof DJI_DATA === 'undefined') {
-        console.error("Error: SOX_DATA, SPX_DATA, IXIC_DATA, or DJI_DATA is not loaded. Please ensure data.js exists and is populated.");
+    if (typeof SOX_DATA === 'undefined' || typeof SOX_YF_DATA === 'undefined' || typeof SPX_DATA === 'undefined' || typeof IXIC_DATA === 'undefined' || typeof DJI_DATA === 'undefined') {
+        console.error("Error: SOX_DATA, SOX_YF_DATA, SPX_DATA, IXIC_DATA, or DJI_DATA is not loaded. Please ensure data.js exists and is populated.");
         return;
     }
 
@@ -22,6 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const btnResetZoom = document.getElementById('btn-reset-zoom');
     
     const btnSOX = document.getElementById('btn-sox');
+    const btnSOXYF = document.getElementById('btn-sox-yf');
     const btnSPX = document.getElementById('btn-spx');
     const btnIXIC = document.getElementById('btn-ixic');
     const btnDJI = document.getElementById('btn-dji');
@@ -60,6 +61,7 @@ document.addEventListener('DOMContentLoaded', () => {
         
         const datasetMap = {
             'SOX': SOX_DATA,
+            'SOX_YF': SOX_YF_DATA,
             'SPX': SPX_DATA,
             'IXIC': IXIC_DATA,
             'DJI': DJI_DATA
@@ -87,13 +89,21 @@ document.addEventListener('DOMContentLoaded', () => {
         const peShortLabel = currentMetric === 'trailing' ? 'PE' : 'Rolling 12M Fwd PE';
         
         if (indexName === 'SOX') {
-            appTitleIndex.textContent = 'SOX';
-            appSubtitleDesc.textContent = `費城半導體指數 20 年${peLabel}河流圖及估值分析儀表板`;
-            lblPrice.textContent = 'SOX 指數最新價格';
+            appTitleIndex.textContent = 'SOX (LSEG)';
+            appSubtitleDesc.textContent = `費城半導體指數 (LSEG) 20 年${peLabel}河流圖及估值分析儀表板`;
+            lblPrice.textContent = 'SOX 指數最新價格 (LSEG)';
             lblPe.textContent = `當前${peLabel}`;
             lblStats.textContent = `20 年歷史平均 ${peShortLabel}`;
-            chartPeTitle.textContent = `SOX 指數歷史${peLabel}走勢與估值區間`;
-            chartPeSubtitle.textContent = `呈現過去 20 年費半指數 ${peShortLabel} 值波動，並以橫線標示歷史均值與 ±1、±2 標準差估值邊界。`;
+            chartPeTitle.textContent = `SOX 指數 (LSEG) 歷史${peLabel}走勢與估值區間`;
+            chartPeSubtitle.textContent = `呈現過去 20 年費半指數 (LSEG) ${peShortLabel} 值波動，並以橫線標示歷史均值與 ±1、±2 標準差估值邊界。`;
+        } else if (indexName === 'SOX_YF') {
+            appTitleIndex.textContent = 'SOX (yfinance)';
+            appSubtitleDesc.textContent = `費城半導體指數 (yfinance) 5 年${peLabel}河流圖及估值分析儀表板`;
+            lblPrice.textContent = 'SOX 指數最新價格 (yfinance)';
+            lblPe.textContent = `當前${peLabel}`;
+            lblStats.textContent = `5 年歷史平均 ${peShortLabel}`;
+            chartPeTitle.textContent = `SOX 指數 (yfinance) 歷史${peLabel}走勢與估值區間`;
+            chartPeSubtitle.textContent = `呈現過去 5 年費半指數 (yfinance) ${peShortLabel} 值波動，並以橫線標示歷史均值與 ±1、±2 標準差估值邊界。`;
         } else if (indexName === 'SPX') {
             appTitleIndex.textContent = 'S&P 500';
             appSubtitleDesc.textContent = `標普 500 指數 20 年${peLabel}河流圖及估值分析儀表板`;
@@ -190,7 +200,8 @@ document.addEventListener('DOMContentLoaded', () => {
         let datasets = [];
         
         const labelMap = {
-            'SOX': '費半指數',
+            'SOX': '費半指數 (LSEG)',
+            'SOX_YF': '費半指數 (yfinance)',
             'SPX': '標普 500',
             'IXIC': '納斯達克',
             'DJI': '道瓊指數'
@@ -271,6 +282,7 @@ document.addEventListener('DOMContentLoaded', () => {
             
             const fixedLevelsMap = {
                 'SOX': [15, 20, 25, 30, 35, 40],
+                'SOX_YF': [15, 20, 25, 30, 35, 40],
                 'SPX': [12, 15, 18, 21, 24, 27],
                 'IXIC': [15, 20, 25, 30, 35, 40],
                 'DJI': [10, 13, 16, 19, 22, 25]
@@ -745,15 +757,26 @@ document.addEventListener('DOMContentLoaded', () => {
     
     btnSOX.addEventListener('click', () => {
         btnSOX.classList.add('active');
+        btnSOXYF.classList.remove('active');
         btnSPX.classList.remove('active');
         btnIXIC.classList.remove('active');
         btnDJI.classList.remove('active');
         updateDashboard('SOX');
     });
     
+    btnSOXYF.addEventListener('click', () => {
+        btnSOXYF.classList.add('active');
+        btnSOX.classList.remove('active');
+        btnSPX.classList.remove('active');
+        btnIXIC.classList.remove('active');
+        btnDJI.classList.remove('active');
+        updateDashboard('SOX_YF');
+    });
+    
     btnSPX.addEventListener('click', () => {
         btnSPX.classList.add('active');
         btnSOX.classList.remove('active');
+        btnSOXYF.classList.remove('active');
         btnIXIC.classList.remove('active');
         btnDJI.classList.remove('active');
         updateDashboard('SPX');
@@ -762,6 +785,7 @@ document.addEventListener('DOMContentLoaded', () => {
     btnIXIC.addEventListener('click', () => {
         btnIXIC.classList.add('active');
         btnSOX.classList.remove('active');
+        btnSOXYF.classList.remove('active');
         btnSPX.classList.remove('active');
         btnDJI.classList.remove('active');
         updateDashboard('IXIC');
@@ -770,6 +794,7 @@ document.addEventListener('DOMContentLoaded', () => {
     btnDJI.addEventListener('click', () => {
         btnDJI.classList.add('active');
         btnSOX.classList.remove('active');
+        btnSOXYF.classList.remove('active');
         btnSPX.classList.remove('active');
         btnIXIC.classList.remove('active');
         updateDashboard('DJI');

@@ -73,6 +73,12 @@ class CustomHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
                 if not ok:
                     success = False
                     
+                # 1.5. Run query_yf_sox.py
+                if success:
+                    ok, out = run_script("query_yf_sox.py")
+                    if not ok:
+                        success = False
+                        
                 # 2. Run plot_river.py
                 if success:
                     ok, out = run_script("plot_river.py")

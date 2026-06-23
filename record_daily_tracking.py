@@ -136,24 +136,46 @@ def fetch_yfinance_bottomup():
     return yf_trail_pe, yf_fwd_pe, missing_trail, missing_fwd
 
 
-def fetch_invesco_api():
-    """Fetch latest fund characteristics from Invesco SOXQ API."""
-    print("[Invesco] Fetching SOXQ ETF stats via cache API...")
-    url = 'https://dng-api.invesco.com/cache/v1/accounts/en_US/shareclasses/46138G615?expand=nav&idType=cusip&variationType=fundCharacteristics&productType=ETF'
-    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+def fetch_soxx_pe_web():
+    """Fetch latest fund characteristics (PE) from iShares SOXX website."""
+    import re
+    import html
+    print("[iShares] Fetching SOXX ETF stats from iShares website...")
+    url = "https://www.ishares.com/us/products/239705/ishares-phlx-semiconductor-etf"
+    req = urllib.request.Request(url, headers={
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+    })
     
     try:
-        with urllib.request.urlopen(req, timeout=15) as response:
-            data = json.loads(response.read().decode('utf-8'))
+        with urllib.request.urlopen(req, timeout=20) as response:
+            content = response.read().decode('utf-8')
+            
+        decoded_text = html.unescape(content)
         
-        effective_date = data.get("effectiveDate")
-        invesco_pe = data.get("priceToEarningsRatio")
-        invesco_fwd_pe = data.get("forwardPriceToEarningsRatio")
-        
-        print(f"[Invesco] API Success. Effective Date: {effective_date}")
-        return effective_date, invesco_pe, invesco_fwd_pe
+        # Extract P/E Ratio
+        pe_match = re.search(r'"label"\s*:\s*"P/E Ratio"\s*,\s*"formattedValue"\s*:\s*"([^"]*?)"', decoded_text)
+        pe_val = None
+        if pe_match:
+            pe_val = float(pe_match.group(1).replace(',', ''))
+            
+        # Extract as-of date
+        date_match = re.search(r'"numHoldings"\s*:\s*\{[^}]*?"formattedAsOfDate"\s*:\s*"([^"]*?)"', decoded_text)
+        as_of_date = None
+        if date_match:
+            as_of_date = date_match.group(1)
+        else:
+            # Fallback date search
+            date_matches = re.findall(r'"formattedAsOfDate"\s*:\s*"([^"]*?)"', decoded_text)
+            if date_matches:
+                for d in date_matches:
+                    if any(m in d for m in ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']):
+                        as_of_date = d
+                        break
+                        
+        print(f"[iShares] Scraped successfully. PE={pe_val}, As-of={as_of_date}")
+        return as_of_date, pe_val, None  # Forward PE is None for SOXX
     except Exception as e:
-        print(f"[Invesco] Error fetching from API: {e}")
+        print(f"[iShares] Error fetching SOXX: {e}")
         return None, None, None
 
 
@@ -203,10 +225,10 @@ def main():
     except Exception as e:
         print(f"[yfinance] Error during calculations: {e}")
         
-    # 3. Fetch Invesco SOXQ
-    inv_date, inv_pe, inv_fwd_pe = fetch_invesco_api()
-    if inv_pe is not None:
-        print(f"[Invesco] SOXQ PE={inv_pe:.2f}x, FwdPE={inv_fwd_pe:.2f}x (as of {inv_date})")
+    # 3. Fetch SOXX from iShares
+    soxx_date, soxx_pe, soxx_fwd_pe = fetch_soxx_pe_web()
+    if soxx_pe is not None:
+        print(f"[iShares] SOXX PE={soxx_pe:.2f}x (as of {soxx_date})")
         
     # 4. Calculate metrics
     diff_pe_yf = (lseg_pe - yf_pe) if (lseg_pe is not None and yf_pe is not None) else None
@@ -214,8 +236,8 @@ def main():
     ratio_pe_yf = (lseg_pe / yf_pe) if (lseg_pe is not None and yf_pe is not None and yf_pe != 0) else None
     ratio_fwd_pe_yf = (lseg_fwd_pe / yf_fwd_pe) if (lseg_fwd_pe is not None and yf_fwd_pe is not None and yf_fwd_pe != 0) else None
     
-    diff_pe_inv = (lseg_pe - inv_pe) if (lseg_pe is not None and inv_pe is not None) else None
-    diff_fwd_pe_inv = (lseg_fwd_pe - inv_fwd_pe) if (lseg_fwd_pe is not None and inv_fwd_pe is not None) else None
+    diff_pe_soxx = (lseg_pe - soxx_pe) if (lseg_pe is not None and soxx_pe is not None) else None
+    diff_fwd_pe_soxx = (lseg_fwd_pe - soxx_fwd_pe) if (lseg_fwd_pe is not None and soxx_fwd_pe is not None) else None
     
     # 5. Append or Update in CSV
     new_data = {
@@ -225,15 +247,15 @@ def main():
         'LSEG_FwdPE': lseg_fwd_pe,
         'YF_PE': yf_pe,
         'YF_FwdPE': yf_fwd_pe,
-        'Invesco_AsOfDate': inv_date,
-        'Invesco_PE': inv_pe,
-        'Invesco_FwdPE': inv_fwd_pe,
+        'SOXX_AsOfDate': soxx_date,
+        'SOXX_PE': soxx_pe,
+        'SOXX_FwdPE': soxx_fwd_pe,
         'Diff_PE_YF': diff_pe_yf,
         'Diff_FwdPE_YF': diff_fwd_pe_yf,
         'Ratio_PE_YF': ratio_pe_yf,
         'Ratio_FwdPE_YF': ratio_fwd_pe_yf,
-        'Diff_PE_Invesco': diff_pe_inv,
-        'Diff_FwdPE_Invesco': diff_fwd_pe_inv,
+        'Diff_PE_SOXX': diff_pe_soxx,
+        'Diff_FwdPE_SOXX': diff_fwd_pe_soxx,
         'Missing_YF_Trail_Count': len(missing_t),
         'Missing_YF_Fwd_Count': len(missing_f),
         'Last_Updated_Time': datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
@@ -242,6 +264,17 @@ def main():
     if os.path.exists(CSV_FILE):
         print(f"\n[CSV] Loading existing log file: {CSV_FILE}")
         df_log = pd.read_csv(CSV_FILE)
+        # Rename Invesco columns if they exist
+        if 'Invesco_PE' in df_log.columns:
+            print("[CSV] Migrating old Invesco columns to SOXX columns...")
+            df_log = df_log.rename(columns={
+                'Invesco_AsOfDate': 'SOXX_AsOfDate',
+                'Invesco_PE': 'SOXX_PE',
+                'Invesco_FwdPE': 'SOXX_FwdPE',
+                'Diff_PE_Invesco': 'Diff_PE_SOXX',
+                'Diff_FwdPE_Invesco': 'Diff_FwdPE_SOXX'
+            })
+            
         # Check if row for today already exists
         if run_date in df_log['Date'].values:
             print(f"[CSV] Row for {run_date} already exists. Overwriting with new values.")
@@ -274,10 +307,10 @@ def main():
     yf_fwd_str = f"{yf_fwd_pe:.2f}x" if yf_fwd_pe is not None else "N/A"
     print(f"{'yfinance (BU)':<15} | {yf_pe_str:>12} | {yf_fwd_str:>12} | {run_date:>12}")
     
-    inv_pe_str = f"{inv_pe:.2f}x" if inv_pe is not None else "N/A"
-    inv_fwd_str = f"{inv_fwd_pe:.2f}x" if inv_fwd_pe is not None else "N/A"
-    inv_date_str = inv_date if inv_date is not None else "N/A"
-    print(f"{'Invesco SOXQ':<15} | {inv_pe_str:>12} | {inv_fwd_str:>12} | {inv_date_str:>12}")
+    soxx_pe_str = f"{soxx_pe:.2f}x" if soxx_pe is not None else "N/A"
+    soxx_fwd_str = f"{soxx_fwd_pe:.2f}x" if soxx_fwd_pe is not None else "N/A"
+    soxx_date_str = soxx_date if soxx_date is not None else "N/A"
+    print(f"{'iShares SOXX':<15} | {soxx_pe_str:>12} | {soxx_fwd_str:>12} | {soxx_date_str:>12}")
     
     print("-" * 70)
     ratio_pe_str = f"{ratio_pe_yf:.3f}" if ratio_pe_yf is not None else "N/A"

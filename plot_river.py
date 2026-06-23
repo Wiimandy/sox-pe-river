@@ -423,6 +423,7 @@ def main():
     
     indices = [
         {"name": "SOX",  "csv": f"sox_pe_data_{FREQ}.csv",  "fixed_bands": [15, 20, 25, 30, 35, 40], "min_val": 12.0, "footnote": None},
+        {"name": "SOX_YF", "csv": f"sox_yf_pe_data_{FREQ}.csv", "fixed_bands": [15, 20, 25, 30, 35, 40], "min_val": 12.0, "footnote": None},
         {"name": "SPX",  "csv": f"spx_pe_data_{FREQ}.csv",  "fixed_bands": [12, 15, 18, 21, 24, 27], "min_val": 12.0, "footnote": None},
         {"name": "IXIC", "csv": f"ixic_pe_data_{FREQ}.csv", "fixed_bands": [15, 20, 25, 30, 35, 40], "min_val": 21.0, "footnote": IXIC_FOOTNOTE},
         {"name": "DJI",  "csv": f"dji_pe_data_{FREQ}.csv",  "fixed_bands": [10, 13, 16, 19, 22, 25], "min_val": 12.0, "footnote": None}

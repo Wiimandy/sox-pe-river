@@ -1,5 +1,6 @@
 import os
 import sys
+import datetime
 import pandas as pd
 
 # ============================================================
@@ -11,7 +12,7 @@ FREQ = "W"
 
 # We start from 2006 to cover 20 years of history
 START_DATE = "2006-06-01"
-END_DATE   = "2026-06-08"
+END_DATE   = datetime.date.today().strftime("%Y-%m-%d")
 
 # Output CSV filenames will be suffixed with frequency, e.g.:
 #   sox_pe_data_W.csv  /  sox_pe_data_M.csv
