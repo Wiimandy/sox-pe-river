@@ -20,10 +20,20 @@ plt.rcParams['axes.unicode_minus'] = False
 # CJK-capable font for footnote text (Traditional Chinese support on Windows)
 _CJK_FONT = FontProperties(family='Microsoft JhengHei', size=7)
 
-def clean_pe_series(series, min_val=9.5, max_deviation=0.35):
+def clean_pe_series(series, dates=None, index_name=None, min_val=9.5, max_deviation=0.35):
     s = series.copy()
-    # 1. Absolute lower bound (anything below min_val is an index PE calculation error)
-    s[s < min_val] = np.nan
+    if index_name == 'IXIC' and dates is not None:
+        # Date-based hybrid filtering for Nasdaq index
+        dates_dt = pd.to_datetime(dates)
+        is_early = dates_dt < '2023-12-01'
+        # Early data lower bound is 14.0 (retains historical 17-21 range)
+        s[is_early & (s < 14.0)] = np.nan
+        # Recent data lower bound is 21.0 (filters out LSEG database errors)
+        s[(~is_early) & (s < 21.0)] = np.nan
+    else:
+        # Standard absolute lower bound
+        s[s < min_val] = np.nan
+        
     s = s.interpolate(method='linear').ffill().bfill()
     
     # 2. Rolling median deviation filter (detect sudden spikes or drops)
@@ -36,9 +46,9 @@ def clean_pe_series(series, min_val=9.5, max_deviation=0.35):
     return s
 
 def calculate_river_bands(df, index_name="SOX", fixed_pe_levels=[15, 20, 25, 30, 35, 40], min_val=12.0):
-    # Clean PE and Forward_PE columns using robust anomaly filtering with index-specific min_val
-    df['PE'] = clean_pe_series(df['PE'], min_val=min_val, max_deviation=0.35)
-    df['Forward_PE'] = clean_pe_series(df['Forward_PE'], min_val=min_val, max_deviation=0.35)
+    # Clean PE and Forward_PE columns using robust anomaly filtering with index-specific min_val and dates
+    df['PE'] = clean_pe_series(df['PE'], dates=df['Date'], index_name=index_name, min_val=min_val, max_deviation=0.35)
+    df['Forward_PE'] = clean_pe_series(df['Forward_PE'], dates=df['Date'], index_name=index_name, min_val=min_val, max_deviation=0.35)
     
     # Implied Trailing EPS = Price / PE
     df['EPS'] = df['Price'] / df['PE']
