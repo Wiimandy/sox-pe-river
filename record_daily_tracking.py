@@ -6,17 +6,57 @@ import datetime
 import pandas as pd
 import yfinance as yf
 
-# SOX (Philadelphia Semiconductor Index) - 30 components
-SOX_COMPONENTS = [
-    'NVDA', 'AVGO', 'AMD',  'QCOM', 'AMAT',
-    'LRCX', 'KLAC', 'MU',   'TXN',  'ADI',
-    'MCHP', 'ON',   'MRVL', 'NXPI', 'MPWR',
-    'SWKS', 'QRVO', 'TER',  'ENTG', 'STM',
-    'ASML', 'INTC', 'MKSI', 'WOLF', 'ACLS',
-    'CAMT', 'FORM', 'SITM', 'RMBS', 'COHU'
-]
+# Tickers are fetched dynamically from Cathay API (fallback list is in fetch_yfinance_bottomup)
 
 CSV_FILE = "sox_daily_tracking_log.csv"
+XLSX_FILE = "sox_daily_tracking_log.xlsx"
+
+def save_to_excel_preserve_sheets(df_log, xlsx_file):
+    import openpyxl
+    if os.path.exists(xlsx_file):
+        print(f"[Excel] Updating sheet 'Daily_Log' in existing file: {xlsx_file}")
+        book = openpyxl.load_workbook(xlsx_file)
+        if "Daily_Log" in book.sheetnames:
+            std = book["Daily_Log"]
+            book.remove(std)
+        sheet = book.create_sheet("Daily_Log", 0)
+        
+        # Write headers
+        headers = list(df_log.columns)
+        sheet.append(headers)
+        
+        # Write rows
+        for row in df_log.itertuples(index=False):
+            clean_row = []
+            for val in row:
+                if pd.isna(val):
+                    clean_row.append(None)
+                elif isinstance(val, (datetime.date, datetime.datetime)):
+                    clean_row.append(val.strftime('%Y-%m-%d'))
+                else:
+                    clean_row.append(val)
+            sheet.append(clean_row)
+            
+        book.save(xlsx_file)
+        book.close()
+        print(f"[Excel] Successfully saved log sheet to {xlsx_file}")
+    else:
+        print(f"[Excel] Creating new Excel file: {xlsx_file}")
+        metadata_data = [
+            {"項目 (Item)": "專案名稱 (Project)", "內容 (Content)": "SOX Index P/E River Dashboard (費城半導體本益比河流圖及每日追蹤日誌)"},
+            {"項目 (Item)": "開發歷程主要分期 (Development Phases)", "內容 (Content)": "分為以下兩個階段："},
+            {"項目 (Item)": "  階段一：等股數相加估算期 (Phase 1: Simple Sum)", "內容 (Content)": "2026-06-29 及以前。本益比計算採用「成份股股價加總 / EPS加總」，權重等同於每股 1 股。"},
+            {"項目 (Item)": "  階段二：動態加權本益比期 (Phase 2: Weighted)", "內容 (Content)": "2026-06-30 起。串接國泰美國費城半導體 ETF (00830) 官網成份股及權重 API，採動態加權倒數法（加權盈餘殖利率倒數）計算本益比。股價基準對齊真實費半指數 (^SOX)。"},
+            {"項目 (Item)": "數據基準對齊資訊 (Data Reference)", "內容 (Content)": "真實費半指數收盤價 (^SOX) 及成分股週頻/日頻 historical/forward EPS"},
+            {"項目 (Item)": "國泰 00830 權重數據 API 來源", "內容 (Content)": "https://cwapi.cathaysite.com.tw/api/ETF/GetIndexStockWeights?FundCode=BO&status=1"},
+            {"項目 (Item)": "iShares SOXX 基金指標數據來源", "內容 (Content)": "https://www.ishares.com/us/products/239705/ishares-phlx-semiconductor-etf (擷取 Trailing P/E)"},
+            {"項目 (Item)": "更新記錄時間 (Update Cron)", "內容 (Content)": "每天早上 10:00 自動執行 daily update & publish"},
+        ]
+        df_meta = pd.DataFrame(metadata_data)
+        with pd.ExcelWriter(xlsx_file, engine='openpyxl') as writer:
+            df_log.to_excel(writer, sheet_name="Daily_Log", index=False)
+            df_meta.to_excel(writer, sheet_name="Metadata_DevNotes", index=False)
+        print(f"[Excel] Successfully created Excel workbook: {xlsx_file}")
 
 # Other indices to track with Rolling 12M Forward PE (simple LSEG-only log)
 OTHER_INDICES = [
@@ -83,26 +123,91 @@ def fetch_lseg_data():
         return None
 
 
+def fetch_cathay_weights():
+    print("[Cathay API] Fetching current index weights for 00830 (FundCode=BO)...")
+    url = "https://cwapi.cathaysite.com.tw/api/ETF/GetIndexStockWeights?FundCode=BO&status=1"
+    req = urllib.request.Request(url, headers={
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'application/json, text/plain, */*',
+        'Referer': 'https://www.cathaysite.com.tw/'
+    })
+    try:
+        with urllib.request.urlopen(req, timeout=20) as response:
+            content = response.read().decode('utf-8')
+        data = json.loads(content)
+        if not data.get('success'):
+            raise ValueError(f"API returned failure: {data.get('returnMessage')}")
+        
+        stock_weights = data.get('result', {}).get('stockWeights', [])
+        weights = {}
+        for sw in stock_weights:
+            ticker = sw['stockCode'].replace('.US', '')
+            weight = float(sw['weights']) / 100.0
+            weights[ticker] = weight
+        print(f"[Cathay API] Successfully fetched {len(weights)} components and weights.")
+        return weights
+    except Exception as e:
+        print(f"[Cathay API] Error fetching weights: {e}")
+        return None
+
 def fetch_yfinance_bottomup():
-    """Fetch prices and EPS for SOX 30 components from yfinance and compute bottom-up PE."""
-    print("[yfinance] Fetching data for 30 component stocks...")
+    """Fetch prices and EPS for SOX components from yfinance and compute weighted bottom-up PE."""
+    weights = fetch_cathay_weights()
+    if weights is None:
+        print("[yfinance] Warning: Using hardcoded tickers as fallback because Cathay API failed.")
+        fallback_tickers = [
+            'NVDA', 'AVGO', 'AMD',  'QCOM', 'AMAT',
+            'LRCX', 'KLAC', 'MU',   'TXN',  'ADI',
+            'MCHP', 'ON',   'MRVL', 'NXPI', 'MPWR',
+            'SWKS', 'QRVO', 'TER',  'ENTG', 'STM',
+            'ASML', 'INTC', 'MKSI', 'WOLF', 'ACLS',
+            'CAMT', 'FORM', 'SITM', 'RMBS', 'COHU'
+        ]
+        weights = {t: 1.0 / len(fallback_tickers) for t in fallback_tickers}
+        
+    tickers = list(weights.keys())
+    print(f"[yfinance] Fetching data for {len(tickers)} component stocks...")
     
     rows = []
     missing_fwd = []
     missing_trail = []
     
-    for tkr in SOX_COMPONENTS:
+    # Calculate rolling weights based on day of year
+    today = datetime.datetime.now()
+    day_of_year = today.timetuple().tm_yday
+    is_leap = (today.year % 4 == 0 and (today.year % 100 != 0 or today.year % 400 == 0))
+    days_in_year = 366 if is_leap else 365
+    weight_y2 = day_of_year / days_in_year
+    weight_y1 = 1.0 - weight_y2
+    
+    for tkr in tickers:
         try:
-            info = yf.Ticker(tkr).info
+            t = yf.Ticker(tkr)
+            info = t.info
             price = info.get('currentPrice') or info.get('regularMarketPrice')
-            fwd_eps = info.get('forwardEps')
+            
+            # Fetch 0y and +1y estimates for rolling forward EPS
+            df_est = t.earnings_estimate
+            fwd_eps = None
+            if df_est is not None and not df_est.empty and 'avg' in df_est.columns:
+                if '0y' in df_est.index and '+1y' in df_est.index:
+                    eps_y1 = df_est.loc['0y', 'avg']
+                    eps_y2 = df_est.loc['+1y', 'avg']
+                    if pd.notna(eps_y1) and pd.notna(eps_y2):
+                        fwd_eps = weight_y1 * eps_y1 + weight_y2 * eps_y2
+            
+            # Fallback
+            if fwd_eps is None:
+                fwd_eps = info.get('forwardEps')
+                
             trail_eps = info.get('trailingEps')
             
             rows.append({
                 'Ticker': tkr,
                 'Price': price,
                 'Trail_EPS': trail_eps,
-                'Fwd_EPS': fwd_eps
+                'Fwd_EPS': fwd_eps,
+                'Weight': weights[tkr]
             })
             
             if fwd_eps is None:
@@ -119,17 +224,30 @@ def fetch_yfinance_bottomup():
         print("[yfinance] Error: Could not fetch data for any components.")
         return None, None, [], []
         
-    # Trailing PE
+    # Trailing PE: weighted harmonic mean
     df_trail = df.dropna(subset=['Trail_EPS'])
     if not df_trail.empty:
-        yf_trail_pe = df_trail['Price'].sum() / df_trail['Trail_EPS'].sum()
+        sum_trail_weight = df_trail['Weight'].sum()
+        if sum_trail_weight > 0:
+            # Re-normalize weights
+            df_trail['Norm_Weight'] = df_trail['Weight'] / sum_trail_weight
+            sum_trail_yield = (df_trail['Norm_Weight'] * (df_trail['Trail_EPS'] / df_trail['Price'])).sum()
+            yf_trail_pe = 1.0 / sum_trail_yield if sum_trail_yield > 0 else None
+        else:
+            yf_trail_pe = None
     else:
         yf_trail_pe = None
         
-    # Forward PE
+    # Forward PE: weighted harmonic mean
     df_fwd = df.dropna(subset=['Fwd_EPS'])
     if not df_fwd.empty:
-        yf_fwd_pe = df_fwd['Price'].sum() / df_fwd['Fwd_EPS'].sum()
+        sum_fwd_weight = df_fwd['Weight'].sum()
+        if sum_fwd_weight > 0:
+            df_fwd['Norm_Weight'] = df_fwd['Weight'] / sum_fwd_weight
+            sum_fwd_yield = (df_fwd['Norm_Weight'] * (df_fwd['Fwd_EPS'] / df_fwd['Price'])).sum()
+            yf_fwd_pe = 1.0 / sum_fwd_yield if sum_fwd_yield > 0 else None
+        else:
+            yf_fwd_pe = None
     else:
         yf_fwd_pe = None
         
@@ -291,6 +409,11 @@ def main():
         
     df_log.to_csv(CSV_FILE, index=False)
     print(f"[CSV] Successfully saved log file to {os.path.abspath(CSV_FILE)}")
+    
+    try:
+        save_to_excel_preserve_sheets(df_log, XLSX_FILE)
+    except Exception as ex:
+        print(f"[Excel] Error saving Excel log file: {ex}")
     
     # 6. Display comparison table
     print("\n" + "=" * 70)
