@@ -132,17 +132,13 @@ def main():
                     sum_trail_yield += weight * (trail_eps / price)
                     sum_trail_weight += weight
                 
-            # Forward EPS: sum of EPS Estimate of the next 4 earnings releases after/on 'date'
-            fwd_releases = df_e[df_e['Earnings Date'] > date].head(4) if df_e is not None else pd.DataFrame()
-            if len(fwd_releases) == 4 and fwd_releases['EPS Estimate'].notna().all():
-                fwd_eps = fwd_releases['EPS Estimate'].sum()
-                if price > 0:
-                    sum_fwd_yield += weight * (fwd_eps / price)
-                    sum_fwd_weight += weight
-            elif tkr in annual_estimates:
+            # Rolling 12M Forward EPS:
+            # Use yfinance earnings_estimate 0y/+1y annual consensus and
+            # interpolate by calendar-year progress, matching the project note.
+            if tkr in annual_estimates:
                 eps_0y, eps_1y = annual_estimates[tkr]
                 days_in_year = 366 if calendar.isleap(date.year) else 365
-                year_progress = (date.dayofyear - 1) / days_in_year
+                year_progress = date.dayofyear / days_in_year
                 fwd_eps = eps_0y * (1 - year_progress) + eps_1y * year_progress
                 if fwd_eps > 0 and price > 0:
                     sum_fwd_yield += weight * (fwd_eps / price)
