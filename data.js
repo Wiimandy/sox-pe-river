@@ -30,7 +30,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 314.26094678218726,
     "SD_fwd_mean": 423.0980132273354,
     "SD_fwd_plus_1": 531.9350796724835,
-    "SD_fwd_plus_2": 640.7721461176316
+    "SD_fwd_plus_2": 640.7721461176316,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -63,7 +64,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 316.96074084299795,
     "SD_fwd_mean": 426.7328189992522,
     "SD_fwd_plus_1": 536.5048971555066,
-    "SD_fwd_plus_2": 646.2769753117608
+    "SD_fwd_plus_2": 646.2769753117608,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -96,7 +98,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 317.8145545819246,
     "SD_fwd_mean": 427.88233153113055,
     "SD_fwd_plus_1": 537.9501084803366,
-    "SD_fwd_plus_2": 648.0178854295425
+    "SD_fwd_plus_2": 648.0178854295425,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -129,7 +132,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 319.0724805770988,
     "SD_fwd_mean": 429.5759113245947,
     "SD_fwd_plus_1": 540.0793420720906,
-    "SD_fwd_plus_2": 650.5827728195866
+    "SD_fwd_plus_2": 650.5827728195866,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -162,7 +166,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 318.52726141730113,
     "SD_fwd_mean": 428.8418680219003,
     "SD_fwd_plus_1": 539.1564746264995,
-    "SD_fwd_plus_2": 649.4710812310987
+    "SD_fwd_plus_2": 649.4710812310987,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -195,7 +200,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 317.2627147217586,
     "SD_fwd_mean": 427.1393746004442,
     "SD_fwd_plus_1": 537.0160344791298,
-    "SD_fwd_plus_2": 646.8926943578155
+    "SD_fwd_plus_2": 646.8926943578155,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -228,7 +234,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 318.23786697158806,
     "SD_fwd_mean": 428.4522484516866,
     "SD_fwd_plus_1": 538.6666299317851,
-    "SD_fwd_plus_2": 648.8810114118837
+    "SD_fwd_plus_2": 648.8810114118837,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -261,7 +268,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 318.5560712120711,
     "SD_fwd_mean": 428.8806554278872,
     "SD_fwd_plus_1": 539.2052396437033,
-    "SD_fwd_plus_2": 649.5298238595193
+    "SD_fwd_plus_2": 649.5298238595193,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -294,7 +302,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 315.8147701240882,
     "SD_fwd_mean": 425.1899676225476,
     "SD_fwd_plus_1": 534.565165121007,
-    "SD_fwd_plus_2": 643.9403626194664
+    "SD_fwd_plus_2": 643.9403626194664,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -327,7 +336,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 317.5100398238895,
     "SD_fwd_mean": 427.4723550754421,
     "SD_fwd_plus_1": 537.4346703269947,
-    "SD_fwd_plus_2": 647.3969855785474
+    "SD_fwd_plus_2": 647.3969855785474,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -360,7 +370,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 317.8750625332798,
     "SD_fwd_mean": 427.9637950227447,
     "SD_fwd_plus_1": 538.0525275122096,
-    "SD_fwd_plus_2": 648.1412600016745
+    "SD_fwd_plus_2": 648.1412600016745,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -393,7 +404,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 314.9951840817149,
     "SD_fwd_mean": 424.0865367643782,
     "SD_fwd_plus_1": 533.1778894470415,
-    "SD_fwd_plus_2": 642.2692421297047
+    "SD_fwd_plus_2": 642.2692421297047,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -426,7 +438,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 313.9709653038581,
     "SD_fwd_mean": 422.7076033192317,
     "SD_fwd_plus_1": 531.4442413346054,
-    "SD_fwd_plus_2": 640.180879349979
+    "SD_fwd_plus_2": 640.180879349979,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -459,7 +472,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 315.5453657946199,
     "SD_fwd_mean": 424.8272612865552,
     "SD_fwd_plus_1": 534.1091567784904,
-    "SD_fwd_plus_2": 643.3910522704256
+    "SD_fwd_plus_2": 643.3910522704256,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -492,7 +506,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 317.0451719577689,
     "SD_fwd_mean": 426.8464908928806,
     "SD_fwd_plus_1": 536.6478098279923,
-    "SD_fwd_plus_2": 646.449128763104
+    "SD_fwd_plus_2": 646.449128763104,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -525,7 +540,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 320.3313894838525,
     "SD_fwd_mean": 431.2708144385055,
     "SD_fwd_plus_1": 542.2102393931585,
-    "SD_fwd_plus_2": 653.1496643478115
+    "SD_fwd_plus_2": 653.1496643478115,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -558,7 +574,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 321.90404162094217,
     "SD_fwd_mean": 433.3881185499882,
     "SD_fwd_plus_1": 544.8721954790342,
-    "SD_fwd_plus_2": 656.3562724080801
+    "SD_fwd_plus_2": 656.3562724080801,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -591,7 +608,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 322.8363647200711,
     "SD_fwd_mean": 434.6433303571391,
     "SD_fwd_plus_1": 546.4502959942071,
-    "SD_fwd_plus_2": 658.257261631275
+    "SD_fwd_plus_2": 658.257261631275,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -624,7 +642,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 323.4944909578697,
     "SD_fwd_mean": 435.5293835130164,
     "SD_fwd_plus_1": 547.564276068163,
-    "SD_fwd_plus_2": 659.5991686233098
+    "SD_fwd_plus_2": 659.5991686233098,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -657,7 +676,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 322.8128003024668,
     "SD_fwd_mean": 434.6116049443146,
     "SD_fwd_plus_1": 546.4104095861625,
-    "SD_fwd_plus_2": 658.2092142280103
+    "SD_fwd_plus_2": 658.2092142280103,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -690,7 +710,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 320.7767032381984,
     "SD_fwd_mean": 431.8703523914575,
     "SD_fwd_plus_1": 542.9640015447167,
-    "SD_fwd_plus_2": 654.0576506979758
+    "SD_fwd_plus_2": 654.0576506979758,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -723,7 +744,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 322.3034276545235,
     "SD_fwd_mean": 433.9258227701569,
     "SD_fwd_plus_1": 545.5482178857903,
-    "SD_fwd_plus_2": 657.1706130014237
+    "SD_fwd_plus_2": 657.1706130014237,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -756,7 +778,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 320.12805474320146,
     "SD_fwd_mean": 430.9970593770815,
     "SD_fwd_plus_1": 541.8660640109614,
-    "SD_fwd_plus_2": 652.7350686448414
+    "SD_fwd_plus_2": 652.7350686448414,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -789,7 +812,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 317.65212039827696,
     "SD_fwd_mean": 427.66364199593625,
     "SD_fwd_plus_1": 537.6751635935956,
-    "SD_fwd_plus_2": 647.6866851912548
+    "SD_fwd_plus_2": 647.6866851912548,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -822,7 +846,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 317.28803596130075,
     "SD_fwd_mean": 427.17346527016446,
     "SD_fwd_plus_1": 537.0588945790282,
-    "SD_fwd_plus_2": 646.944323887892
+    "SD_fwd_plus_2": 646.944323887892,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -855,7 +880,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 317.48192620513817,
     "SD_fwd_mean": 427.43450495006033,
     "SD_fwd_plus_1": 537.3870836949825,
-    "SD_fwd_plus_2": 647.3396624399046
+    "SD_fwd_plus_2": 647.3396624399046,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -888,7 +914,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 325.85829154250496,
     "SD_fwd_mean": 438.71183217953165,
     "SD_fwd_plus_1": 551.5653728165584,
-    "SD_fwd_plus_2": 664.418913453585
+    "SD_fwd_plus_2": 664.418913453585,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -921,7 +948,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 324.4966291653184,
     "SD_fwd_mean": 436.878589288956,
     "SD_fwd_plus_1": 549.2605494125935,
-    "SD_fwd_plus_2": 661.6425095362309
+    "SD_fwd_plus_2": 661.6425095362309,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -954,7 +982,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 322.53765866619733,
     "SD_fwd_mean": 434.24117431698505,
     "SD_fwd_plus_1": 545.9446899677728,
-    "SD_fwd_plus_2": 657.6482056185605
+    "SD_fwd_plus_2": 657.6482056185605,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -987,7 +1016,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 323.62832648395704,
     "SD_fwd_mean": 435.7095699019603,
     "SD_fwd_plus_1": 547.7908133199636,
-    "SD_fwd_plus_2": 659.8720567379669
+    "SD_fwd_plus_2": 659.8720567379669,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1020,7 +1050,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 323.81593710340417,
     "SD_fwd_mean": 435.96215515367936,
     "SD_fwd_plus_1": 548.1083732039546,
-    "SD_fwd_plus_2": 660.2545912542297
+    "SD_fwd_plus_2": 660.2545912542297,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1053,7 +1084,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 322.97297086196875,
     "SD_fwd_mean": 434.827246901092,
     "SD_fwd_plus_1": 546.6815229402151,
-    "SD_fwd_plus_2": 658.5357989793383
+    "SD_fwd_plus_2": 658.5357989793383,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1086,7 +1118,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 315.0568426987376,
     "SD_fwd_mean": 424.1695494283052,
     "SD_fwd_plus_1": 533.2822561578729,
-    "SD_fwd_plus_2": 642.3949628874406
+    "SD_fwd_plus_2": 642.3949628874406,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1119,7 +1152,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 312.14227552435506,
     "SD_fwd_mean": 420.2455888040997,
     "SD_fwd_plus_1": 528.3489020838445,
-    "SD_fwd_plus_2": 636.4522153635891
+    "SD_fwd_plus_2": 636.4522153635891,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1152,7 +1186,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 293.5795758276324,
     "SD_fwd_mean": 395.2541240922516,
     "SD_fwd_plus_1": 496.9286723568708,
-    "SD_fwd_plus_2": 598.60322062149
+    "SD_fwd_plus_2": 598.60322062149,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1185,7 +1220,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 284.7172063024171,
     "SD_fwd_mean": 383.3224762785513,
     "SD_fwd_plus_1": 481.9277462546855,
-    "SD_fwd_plus_2": 580.5330162308196
+    "SD_fwd_plus_2": 580.5330162308196,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1218,7 +1254,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 289.1226222817275,
     "SD_fwd_mean": 389.2536069754179,
     "SD_fwd_plus_1": 489.3845916691082,
-    "SD_fwd_plus_2": 589.5155763627986
+    "SD_fwd_plus_2": 589.5155763627986,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1251,7 +1288,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 287.37388376108976,
     "SD_fwd_mean": 386.8992330027309,
     "SD_fwd_plus_1": 486.42458224437206,
-    "SD_fwd_plus_2": 585.9499314860132
+    "SD_fwd_plus_2": 585.9499314860132,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1284,7 +1322,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 290.44926863568253,
     "SD_fwd_mean": 391.0397068467541,
     "SD_fwd_plus_1": 491.6301450578256,
-    "SD_fwd_plus_2": 592.2205832688971
+    "SD_fwd_plus_2": 592.2205832688971,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1317,7 +1356,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 287.12673182025827,
     "SD_fwd_mean": 386.5664856594743,
     "SD_fwd_plus_1": 486.0062394986904,
-    "SD_fwd_plus_2": 585.4459933379064
+    "SD_fwd_plus_2": 585.4459933379064,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1350,7 +1390,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 288.39090396578126,
     "SD_fwd_mean": 388.2684748141077,
     "SD_fwd_plus_1": 488.14604566243423,
-    "SD_fwd_plus_2": 588.0236165107607
+    "SD_fwd_plus_2": 588.0236165107607,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1383,7 +1424,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 288.34367496369487,
     "SD_fwd_mean": 388.204889131082,
     "SD_fwd_plus_1": 488.06610329846905,
-    "SD_fwd_plus_2": 587.9273174658562
+    "SD_fwd_plus_2": 587.9273174658562,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1416,7 +1458,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 287.3083787336292,
     "SD_fwd_mean": 386.8110418123881,
     "SD_fwd_plus_1": 486.31370489114704,
-    "SD_fwd_plus_2": 585.816367969906
+    "SD_fwd_plus_2": 585.816367969906,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1449,7 +1492,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 287.7590513291136,
     "SD_fwd_mean": 387.41779451811846,
     "SD_fwd_plus_1": 487.0765377071233,
-    "SD_fwd_plus_2": 586.7352808961281
+    "SD_fwd_plus_2": 586.7352808961281,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1482,7 +1526,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 287.12897777639307,
     "SD_fwd_mean": 386.5695094509704,
     "SD_fwd_plus_1": 486.0100411255477,
-    "SD_fwd_plus_2": 585.450572800125
+    "SD_fwd_plus_2": 585.450572800125,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1515,7 +1560,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 289.6059363518474,
     "SD_fwd_mean": 389.9043057813827,
     "SD_fwd_plus_1": 490.202675210918,
-    "SD_fwd_plus_2": 590.5010446404533
+    "SD_fwd_plus_2": 590.5010446404533,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1548,7 +1594,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 293.497381736198,
     "SD_fwd_mean": 395.1434639636514,
     "SD_fwd_plus_1": 496.7895461911049,
-    "SD_fwd_plus_2": 598.4356284185583
+    "SD_fwd_plus_2": 598.4356284185583,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1581,7 +1628,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 295.37376314834336,
     "SD_fwd_mean": 397.6696870138405,
     "SD_fwd_plus_1": 499.9656108793377,
-    "SD_fwd_plus_2": 602.2615347448349
+    "SD_fwd_plus_2": 602.2615347448349,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1614,7 +1662,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 296.1675068125763,
     "SD_fwd_mean": 398.7383255792984,
     "SD_fwd_plus_1": 501.3091443460205,
-    "SD_fwd_plus_2": 603.8799631127425
+    "SD_fwd_plus_2": 603.8799631127425,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1647,7 +1696,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 298.20988016738283,
     "SD_fwd_mean": 401.48802807187695,
     "SD_fwd_plus_1": 504.76617597637113,
-    "SD_fwd_plus_2": 608.0443238808652
+    "SD_fwd_plus_2": 608.0443238808652,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1680,7 +1730,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 299.8791122544969,
     "SD_fwd_mean": 403.7353603825085,
     "SD_fwd_plus_1": 507.5916085105201,
-    "SD_fwd_plus_2": 611.4478566385318
+    "SD_fwd_plus_2": 611.4478566385318,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1713,7 +1764,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 300.5381119702996,
     "SD_fwd_mean": 404.6225895254499,
     "SD_fwd_plus_1": 508.7070670806002,
-    "SD_fwd_plus_2": 612.7915446357505
+    "SD_fwd_plus_2": 612.7915446357505,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1746,7 +1798,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 298.3300412192321,
     "SD_fwd_mean": 401.6498041462677,
     "SD_fwd_plus_1": 504.9695670733033,
-    "SD_fwd_plus_2": 608.289330000339
+    "SD_fwd_plus_2": 608.289330000339,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1779,7 +1832,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 300.23587307571,
     "SD_fwd_mean": 404.2156771262789,
     "SD_fwd_plus_1": 508.1954811768479,
-    "SD_fwd_plus_2": 612.1752852274168
+    "SD_fwd_plus_2": 612.1752852274168,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1812,7 +1866,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 301.1220605543014,
     "SD_fwd_mean": 405.4087752995586,
     "SD_fwd_plus_1": 509.6954900448158,
-    "SD_fwd_plus_2": 613.9822047900731
+    "SD_fwd_plus_2": 613.9822047900731,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1845,7 +1900,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 301.92666533280976,
     "SD_fwd_mean": 406.49203647695225,
     "SD_fwd_plus_1": 511.0574076210947,
-    "SD_fwd_plus_2": 615.6227787652372
+    "SD_fwd_plus_2": 615.6227787652372,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1878,7 +1934,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 300.9717488574279,
     "SD_fwd_mean": 405.2064065962144,
     "SD_fwd_plus_1": 509.441064335001,
-    "SD_fwd_plus_2": 613.6757220737876
+    "SD_fwd_plus_2": 613.6757220737876,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1911,7 +1968,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 300.9274217826396,
     "SD_fwd_mean": 405.1467278564056,
     "SD_fwd_plus_1": 509.3660339301716,
-    "SD_fwd_plus_2": 613.5853400039375
+    "SD_fwd_plus_2": 613.5853400039375,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1944,7 +2002,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 302.62110480591286,
     "SD_fwd_mean": 407.4269791237717,
     "SD_fwd_plus_1": 512.2328534416307,
-    "SD_fwd_plus_2": 617.0387277594896
+    "SD_fwd_plus_2": 617.0387277594896,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -1977,7 +2036,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 303.1298991305647,
     "SD_fwd_mean": 408.1119826856389,
     "SD_fwd_plus_1": 513.0940662407131,
-    "SD_fwd_plus_2": 618.0761497957874
+    "SD_fwd_plus_2": 618.0761497957874,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2010,7 +2070,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 308.00573399894546,
     "SD_fwd_mean": 414.6764510574162,
     "SD_fwd_plus_1": 521.3471681158869,
-    "SD_fwd_plus_2": 628.0178851743577
+    "SD_fwd_plus_2": 628.0178851743577,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2043,7 +2104,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 309.0430581276511,
     "SD_fwd_mean": 416.0730285909025,
     "SD_fwd_plus_1": 523.1029990541539,
-    "SD_fwd_plus_2": 630.1329695174053
+    "SD_fwd_plus_2": 630.1329695174053,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2076,7 +2138,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 311.8187152523778,
     "SD_fwd_mean": 419.809970857821,
     "SD_fwd_plus_1": 527.8012264632641,
-    "SD_fwd_plus_2": 635.7924820687073
+    "SD_fwd_plus_2": 635.7924820687073,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2109,7 +2172,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 312.03330845263486,
     "SD_fwd_mean": 420.0988834879474,
     "SD_fwd_plus_1": 528.1644585232599,
-    "SD_fwd_plus_2": 636.2300335585724
+    "SD_fwd_plus_2": 636.2300335585724,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2142,7 +2206,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 308.9257434496693,
     "SD_fwd_mean": 415.9150846666423,
     "SD_fwd_plus_1": 522.9044258836153,
-    "SD_fwd_plus_2": 629.8937671005883
+    "SD_fwd_plus_2": 629.8937671005883,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2175,7 +2240,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 310.02970471179515,
     "SD_fwd_mean": 417.4013775753476,
     "SD_fwd_plus_1": 524.7730504389001,
-    "SD_fwd_plus_2": 632.1447233024527
+    "SD_fwd_plus_2": 632.1447233024527,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2208,7 +2274,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 311.89961188267773,
     "SD_fwd_mean": 419.9188841794002,
     "SD_fwd_plus_1": 527.9381564761227,
-    "SD_fwd_plus_2": 635.9574287728452
+    "SD_fwd_plus_2": 635.9574287728452,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2241,7 +2308,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 313.63581949554293,
     "SD_fwd_mean": 422.2563874519993,
     "SD_fwd_plus_1": 530.8769554084556,
-    "SD_fwd_plus_2": 639.497523364912
+    "SD_fwd_plus_2": 639.497523364912,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2274,7 +2342,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 314.89739337544387,
     "SD_fwd_mean": 423.9548784913442,
     "SD_fwd_plus_1": 533.0123636072444,
-    "SD_fwd_plus_2": 642.0698487231448
+    "SD_fwd_plus_2": 642.0698487231448,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2307,7 +2376,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 320.52830182251523,
     "SD_fwd_mean": 431.5359228464105,
     "SD_fwd_plus_1": 542.5435438703058,
-    "SD_fwd_plus_2": 653.5511648942012
+    "SD_fwd_plus_2": 653.5511648942012,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2340,7 +2410,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 315.9906713107347,
     "SD_fwd_mean": 425.4267881481537,
     "SD_fwd_plus_1": 534.8629049855729,
-    "SD_fwd_plus_2": 644.2990218229919
+    "SD_fwd_plus_2": 644.2990218229919,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2373,7 +2444,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 316.70690713849353,
     "SD_fwd_mean": 426.391075816825,
     "SD_fwd_plus_1": 536.0752444951564,
-    "SD_fwd_plus_2": 645.7594131734879
+    "SD_fwd_plus_2": 645.7594131734879,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2406,7 +2478,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 319.5666567319,
     "SD_fwd_mean": 430.2412340489789,
     "SD_fwd_plus_1": 540.9158113660579,
-    "SD_fwd_plus_2": 651.5903886831369
+    "SD_fwd_plus_2": 651.5903886831369,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2439,7 +2512,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 314.2187175720426,
     "SD_fwd_mean": 423.04115889944217,
     "SD_fwd_plus_1": 531.8636002268418,
-    "SD_fwd_plus_2": 640.6860415542413
+    "SD_fwd_plus_2": 640.6860415542413,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2472,7 +2546,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 315.2630615278719,
     "SD_fwd_mean": 424.44718741606727,
     "SD_fwd_plus_1": 533.6313133042627,
-    "SD_fwd_plus_2": 642.815439192458
+    "SD_fwd_plus_2": 642.815439192458,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2505,7 +2580,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 321.9090432045739,
     "SD_fwd_mean": 433.3948523173215,
     "SD_fwd_plus_1": 544.880661430069,
-    "SD_fwd_plus_2": 656.3664705428167
+    "SD_fwd_plus_2": 656.3664705428167,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2538,7 +2614,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 320.89271295122563,
     "SD_fwd_mean": 432.0265394061009,
     "SD_fwd_plus_1": 543.1603658609762,
-    "SD_fwd_plus_2": 654.2941923158514
+    "SD_fwd_plus_2": 654.2941923158514,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2571,7 +2648,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 320.2669481348814,
     "SD_fwd_mean": 431.184055307285,
     "SD_fwd_plus_1": 542.1011624796886,
-    "SD_fwd_plus_2": 653.0182696520922
+    "SD_fwd_plus_2": 653.0182696520922,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2604,7 +2682,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 318.1792184996492,
     "SD_fwd_mean": 428.37328842750856,
     "SD_fwd_plus_1": 538.5673583553679,
-    "SD_fwd_plus_2": 648.7614282832271
+    "SD_fwd_plus_2": 648.7614282832271,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2637,7 +2716,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 317.7702047939785,
     "SD_fwd_mean": 427.822622211983,
     "SD_fwd_plus_1": 537.8750396299874,
-    "SD_fwd_plus_2": 647.9274570479919
+    "SD_fwd_plus_2": 647.9274570479919,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2670,7 +2750,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 316.57477785699746,
     "SD_fwd_mean": 426.2131865911272,
     "SD_fwd_plus_1": 535.8515953252569,
-    "SD_fwd_plus_2": 645.4900040593866
+    "SD_fwd_plus_2": 645.4900040593866,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2703,7 +2784,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 319.69979236255466,
     "SD_fwd_mean": 430.4204781497701,
     "SD_fwd_plus_1": 541.1411639369857,
-    "SD_fwd_plus_2": 651.8618497242012
+    "SD_fwd_plus_2": 651.8618497242012,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2736,7 +2818,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 320.1336748859049,
     "SD_fwd_mean": 431.0046259272247,
     "SD_fwd_plus_1": 541.8755769685445,
-    "SD_fwd_plus_2": 652.7465280098642
+    "SD_fwd_plus_2": 652.7465280098642,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2769,7 +2852,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 320.3041364474915,
     "SD_fwd_mean": 431.234122938474,
     "SD_fwd_plus_1": 542.1641094294565,
-    "SD_fwd_plus_2": 653.0940959204391
+    "SD_fwd_plus_2": 653.0940959204391,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2802,7 +2886,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 319.78232379154514,
     "SD_fwd_mean": 430.5315924450469,
     "SD_fwd_plus_1": 541.2808610985486,
-    "SD_fwd_plus_2": 652.0301297520504
+    "SD_fwd_plus_2": 652.0301297520504,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2835,7 +2920,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 317.84838173182044,
     "SD_fwd_mean": 427.9278739380399,
     "SD_fwd_plus_1": 538.0073661442593,
-    "SD_fwd_plus_2": 648.0868583504788
+    "SD_fwd_plus_2": 648.0868583504788,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2868,7 +2954,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 314.53476017591424,
     "SD_fwd_mean": 423.46665560580186,
     "SD_fwd_plus_1": 532.3985510356895,
-    "SD_fwd_plus_2": 641.3304464655771
+    "SD_fwd_plus_2": 641.3304464655771,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2901,7 +2988,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 312.2353542709352,
     "SD_fwd_mean": 420.37090323834616,
     "SD_fwd_plus_1": 528.5064522057571,
-    "SD_fwd_plus_2": 636.6420011731681
+    "SD_fwd_plus_2": 636.6420011731681,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2934,7 +3022,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 307.6948151668129,
     "SD_fwd_mean": 414.2578526235439,
     "SD_fwd_plus_1": 520.8208900802749,
-    "SD_fwd_plus_2": 627.383927537006
+    "SD_fwd_plus_2": 627.383927537006,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -2967,7 +3056,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 307.2890219664669,
     "SD_fwd_mean": 413.7115222614498,
     "SD_fwd_plus_1": 520.1340225564327,
-    "SD_fwd_plus_2": 626.5565228514156
+    "SD_fwd_plus_2": 626.5565228514156,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3000,7 +3090,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 318.9547996388465,
     "SD_fwd_mean": 429.4174742942252,
     "SD_fwd_plus_1": 539.880148949604,
-    "SD_fwd_plus_2": 650.3428236049826
+    "SD_fwd_plus_2": 650.3428236049826,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3033,7 +3124,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 319.6364961684178,
     "SD_fwd_mean": 430.3352607714788,
     "SD_fwd_plus_1": 541.0340253745397,
-    "SD_fwd_plus_2": 651.7327899776006
+    "SD_fwd_plus_2": 651.7327899776006,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3066,7 +3158,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 318.81203044774446,
     "SD_fwd_mean": 429.2252602704216,
     "SD_fwd_plus_1": 539.6384900930987,
-    "SD_fwd_plus_2": 650.0517199157758
+    "SD_fwd_plus_2": 650.0517199157758,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3099,7 +3192,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 315.05915071358936,
     "SD_fwd_mean": 424.1726567711307,
     "SD_fwd_plus_1": 533.286162828672,
-    "SD_fwd_plus_2": 642.3996688862132
+    "SD_fwd_plus_2": 642.3996688862132,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3132,7 +3226,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 315.0339343909868,
     "SD_fwd_mean": 424.1387073539241,
     "SD_fwd_plus_1": 533.2434803168613,
-    "SD_fwd_plus_2": 642.3482532797987
+    "SD_fwd_plus_2": 642.3482532797987,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3165,7 +3260,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 314.06262746235205,
     "SD_fwd_mean": 422.8310105626198,
     "SD_fwd_plus_1": 531.5993936628876,
-    "SD_fwd_plus_2": 640.3677767631553
+    "SD_fwd_plus_2": 640.3677767631553,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3198,7 +3294,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 313.8839856015207,
     "SD_fwd_mean": 422.5905001932248,
     "SD_fwd_plus_1": 531.297014784929,
-    "SD_fwd_plus_2": 640.0035293766332
+    "SD_fwd_plus_2": 640.0035293766332,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3231,7 +3328,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 310.9507163857777,
     "SD_fwd_mean": 418.6413605048566,
     "SD_fwd_plus_1": 526.3320046239354,
-    "SD_fwd_plus_2": 634.0226487430143
+    "SD_fwd_plus_2": 634.0226487430143,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3264,7 +3362,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 308.4854452128644,
     "SD_fwd_mean": 415.32229924062256,
     "SD_fwd_plus_1": 522.1591532683807,
-    "SD_fwd_plus_2": 628.9960072961388
+    "SD_fwd_plus_2": 628.9960072961388,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3297,7 +3396,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 301.5402232666685,
     "SD_fwd_mean": 405.97175907027474,
     "SD_fwd_plus_1": 510.40329487388095,
-    "SD_fwd_plus_2": 614.8348306774873
+    "SD_fwd_plus_2": 614.8348306774873,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3330,7 +3430,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 302.8775276677652,
     "SD_fwd_mean": 407.7722081587717,
     "SD_fwd_plus_1": 512.6668886497782,
-    "SD_fwd_plus_2": 617.5615691407849
+    "SD_fwd_plus_2": 617.5615691407849,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3363,7 +3464,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 304.722034011786,
     "SD_fwd_mean": 410.2555169425428,
     "SD_fwd_plus_1": 515.7889998732995,
-    "SD_fwd_plus_2": 621.3224828040563
+    "SD_fwd_plus_2": 621.3224828040563,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3396,7 +3498,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 298.1912894043345,
     "SD_fwd_mean": 401.46299882471584,
     "SD_fwd_plus_1": 504.7347082450971,
-    "SD_fwd_plus_2": 608.0064176654784
+    "SD_fwd_plus_2": 608.0064176654784,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3429,7 +3532,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 302.2043704873159,
     "SD_fwd_mean": 406.8659184382256,
     "SD_fwd_plus_1": 511.5274663891352,
-    "SD_fwd_plus_2": 616.1890143400448
+    "SD_fwd_plus_2": 616.1890143400448,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3462,7 +3566,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 300.4574707356591,
     "SD_fwd_mean": 404.5140200499553,
     "SD_fwd_plus_1": 508.5705693642514,
-    "SD_fwd_plus_2": 612.6271186785476
+    "SD_fwd_plus_2": 612.6271186785476,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3495,7 +3600,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 305.07248376497205,
     "SD_fwd_mean": 410.7273369247177,
     "SD_fwd_plus_1": 516.3821900844633,
-    "SD_fwd_plus_2": 622.0370432442089
+    "SD_fwd_plus_2": 622.0370432442089,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3528,7 +3634,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 306.1712532981236,
     "SD_fwd_mean": 412.2066400682716,
     "SD_fwd_plus_1": 518.2420268384196,
-    "SD_fwd_plus_2": 624.2774136085677
+    "SD_fwd_plus_2": 624.2774136085677,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3561,7 +3668,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 306.570047651491,
     "SD_fwd_mean": 412.7435476933638,
     "SD_fwd_plus_1": 518.9170477352366,
-    "SD_fwd_plus_2": 625.0905477771094
+    "SD_fwd_plus_2": 625.0905477771094,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3594,7 +3702,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 306.7339007181529,
     "SD_fwd_mean": 412.96414750914016,
     "SD_fwd_plus_1": 519.1943943001274,
-    "SD_fwd_plus_2": 625.4246410911147
+    "SD_fwd_plus_2": 625.4246410911147,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3627,7 +3736,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 308.57055669933885,
     "SD_fwd_mean": 415.4368871370789,
     "SD_fwd_plus_1": 522.3032175748191,
-    "SD_fwd_plus_2": 629.1695480125592
+    "SD_fwd_plus_2": 629.1695480125592,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3660,7 +3770,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 308.1188110252998,
     "SD_fwd_mean": 414.8286897166644,
     "SD_fwd_plus_1": 521.5385684080289,
-    "SD_fwd_plus_2": 628.2484470993935
+    "SD_fwd_plus_2": 628.2484470993935,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3693,7 +3804,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 307.5771332492398,
     "SD_fwd_mean": 414.0994142746884,
     "SD_fwd_plus_1": 520.6216953001369,
-    "SD_fwd_plus_2": 627.1439763255855
+    "SD_fwd_plus_2": 627.1439763255855,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3726,7 +3838,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 292.6148525168836,
     "SD_fwd_mean": 393.9552910037903,
     "SD_fwd_plus_1": 495.2957294906968,
-    "SD_fwd_plus_2": 596.6361679776035
+    "SD_fwd_plus_2": 596.6361679776035,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3759,7 +3872,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 284.0026720122536,
     "SD_fwd_mean": 382.3604794359702,
     "SD_fwd_plus_1": 480.7182868596869,
-    "SD_fwd_plus_2": 579.0760942834036
+    "SD_fwd_plus_2": 579.0760942834036,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3792,7 +3906,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 285.2455296158425,
     "SD_fwd_mean": 384.033772246252,
     "SD_fwd_plus_1": 482.8220148766615,
-    "SD_fwd_plus_2": 581.6102575070709
+    "SD_fwd_plus_2": 581.6102575070709,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3825,7 +3940,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 285.5193260300817,
     "SD_fwd_mean": 384.40239176477473,
     "SD_fwd_plus_1": 483.28545749946784,
-    "SD_fwd_plus_2": 582.1685232341608
+    "SD_fwd_plus_2": 582.1685232341608,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3858,7 +3974,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 285.7182095447719,
     "SD_fwd_mean": 384.6701540202848,
     "SD_fwd_plus_1": 483.6220984957976,
-    "SD_fwd_plus_2": 582.5740429713104
+    "SD_fwd_plus_2": 582.5740429713104,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3891,7 +4008,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 285.7275378134767,
     "SD_fwd_mean": 384.6827129207662,
     "SD_fwd_plus_1": 483.6378880280557,
-    "SD_fwd_plus_2": 582.5930631353452
+    "SD_fwd_plus_2": 582.5930631353452,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3924,7 +4042,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 288.77524772367303,
     "SD_fwd_mean": 388.7859272116309,
     "SD_fwd_plus_1": 488.7966066995887,
-    "SD_fwd_plus_2": 588.8072861875465
+    "SD_fwd_plus_2": 588.8072861875465,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3957,7 +4076,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 287.78381676108404,
     "SD_fwd_mean": 387.45113688907065,
     "SD_fwd_plus_1": 487.11845701705727,
-    "SD_fwd_plus_2": 586.7857771450439
+    "SD_fwd_plus_2": 586.7857771450439,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -3990,7 +4110,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 287.20002582194775,
     "SD_fwd_mean": 386.6651633565087,
     "SD_fwd_plus_1": 486.1303008910696,
-    "SD_fwd_plus_2": 585.5954384256305
+    "SD_fwd_plus_2": 585.5954384256305,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4023,7 +4144,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 282.0939649664143,
     "SD_fwd_mean": 379.7907355107496,
     "SD_fwd_plus_1": 477.4875060550849,
-    "SD_fwd_plus_2": 575.1842765994202
+    "SD_fwd_plus_2": 575.1842765994202,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4056,7 +4178,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 276.8136149149158,
     "SD_fwd_mean": 372.6816574060421,
     "SD_fwd_plus_1": 468.54969989716847,
-    "SD_fwd_plus_2": 564.4177423882949
+    "SD_fwd_plus_2": 564.4177423882949,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4089,7 +4212,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 268.8322118125969,
     "SD_fwd_mean": 361.9360785171128,
     "SD_fwd_plus_1": 455.0399452216287,
-    "SD_fwd_plus_2": 548.1438119261446
+    "SD_fwd_plus_2": 548.1438119261446,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4122,7 +4246,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 253.70343181536757,
     "SD_fwd_mean": 341.5677927822084,
     "SD_fwd_plus_1": 429.4321537490492,
-    "SD_fwd_plus_2": 517.29651471589
+    "SD_fwd_plus_2": 517.29651471589,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4155,7 +4280,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 211.78542071810548,
     "SD_fwd_mean": 285.13244058432514,
     "SD_fwd_plus_1": 358.4794604505448,
-    "SD_fwd_plus_2": 431.8264803167645
+    "SD_fwd_plus_2": 431.8264803167645,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4188,7 +4314,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 225.3653875057821,
     "SD_fwd_mean": 303.41551720071897,
     "SD_fwd_plus_1": 381.4656468956558,
-    "SD_fwd_plus_2": 459.5157765905927
+    "SD_fwd_plus_2": 459.5157765905927,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4221,7 +4348,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 221.85648396630447,
     "SD_fwd_mean": 298.6913854517354,
     "SD_fwd_plus_1": 375.52628693716633,
-    "SD_fwd_plus_2": 452.36118842259725
+    "SD_fwd_plus_2": 452.36118842259725,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4254,7 +4382,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 192.9153922695164,
     "SD_fwd_mean": 259.7272108607765,
     "SD_fwd_plus_1": 326.53902945203674,
-    "SD_fwd_plus_2": 393.3508480432969
+    "SD_fwd_plus_2": 393.3508480432969,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4287,7 +4416,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 195.3193408832972,
     "SD_fwd_mean": 262.9637119049111,
     "SD_fwd_plus_1": 330.60808292652507,
-    "SD_fwd_plus_2": 398.252453948139
+    "SD_fwd_plus_2": 398.252453948139,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4320,7 +4450,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 197.1886646566623,
     "SD_fwd_mean": 265.48043306510533,
     "SD_fwd_plus_1": 333.7722014735484,
-    "SD_fwd_plus_2": 402.06396988199145
+    "SD_fwd_plus_2": 402.06396988199145,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4353,7 +4484,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 183.30473982966956,
     "SD_fwd_mean": 246.78812951849335,
     "SD_fwd_plus_1": 310.2715192073172,
-    "SD_fwd_plus_2": 373.7549088961411
+    "SD_fwd_plus_2": 373.7549088961411,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4386,7 +4518,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 144.16869037508226,
     "SD_fwd_mean": 194.0982075305756,
     "SD_fwd_plus_1": 244.027724686069,
-    "SD_fwd_plus_2": 293.9572418415624
+    "SD_fwd_plus_2": 293.9572418415624,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4419,7 +4552,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 141.07890895018656,
     "SD_fwd_mean": 189.9383512214614,
     "SD_fwd_plus_1": 238.79779349273628,
-    "SD_fwd_plus_2": 287.6572357640111
+    "SD_fwd_plus_2": 287.6572357640111,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4452,7 +4586,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 139.7020254662439,
     "SD_fwd_mean": 188.0846157431379,
     "SD_fwd_plus_1": 236.4672060200319,
-    "SD_fwd_plus_2": 284.8497962969259
+    "SD_fwd_plus_2": 284.8497962969259,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4485,7 +4620,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 138.9851051342209,
     "SD_fwd_mean": 187.1194065078604,
     "SD_fwd_plus_1": 235.2537078815,
-    "SD_fwd_plus_2": 283.3880092551395
+    "SD_fwd_plus_2": 283.3880092551395,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4518,7 +4654,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 132.91891326172205,
     "SD_fwd_mean": 178.9523283029794,
     "SD_fwd_plus_1": 224.9857433442368,
-    "SD_fwd_plus_2": 271.0191583854941
+    "SD_fwd_plus_2": 271.0191583854941,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4551,7 +4688,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 113.2384206929012,
     "SD_fwd_mean": 152.45594881178323,
     "SD_fwd_plus_1": 191.6734769306653,
-    "SD_fwd_plus_2": 230.8910050495473
+    "SD_fwd_plus_2": 230.8910050495473,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4584,7 +4722,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 105.5476301491951,
     "SD_fwd_mean": 142.10162947141376,
     "SD_fwd_plus_1": 178.6556287936324,
-    "SD_fwd_plus_2": 215.20962811585105
+    "SD_fwd_plus_2": 215.20962811585105,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4617,7 +4756,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 90.13111239532589,
     "SD_fwd_mean": 121.34595461160734,
     "SD_fwd_plus_1": 152.56079682788877,
-    "SD_fwd_plus_2": 183.77563904417025
+    "SD_fwd_plus_2": 183.77563904417025,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4650,7 +4790,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 88.56238238369143,
     "SD_fwd_mean": 119.2339309637162,
     "SD_fwd_plus_1": 149.90547954374097,
-    "SD_fwd_plus_2": 180.57702812376576
+    "SD_fwd_plus_2": 180.57702812376576,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4683,7 +4824,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 87.75620287574581,
     "SD_fwd_mean": 118.14854968548568,
     "SD_fwd_plus_1": 148.54089649522555,
-    "SD_fwd_plus_2": 178.93324330496546
+    "SD_fwd_plus_2": 178.93324330496546,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4716,7 +4858,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 86.43329132517253,
     "SD_fwd_mean": 116.36747808096658,
     "SD_fwd_plus_1": 146.3016648367606,
-    "SD_fwd_plus_2": 176.23585159255467
+    "SD_fwd_plus_2": 176.23585159255467,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4749,7 +4892,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 86.84237833748074,
     "SD_fwd_mean": 116.9182429912011,
     "SD_fwd_plus_1": 146.99410764492146,
-    "SD_fwd_plus_2": 177.06997229864183
+    "SD_fwd_plus_2": 177.06997229864183,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4782,7 +4926,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 97.0439124607486,
     "SD_fwd_mean": 130.65284432687727,
     "SD_fwd_plus_1": 164.26177619300597,
-    "SD_fwd_plus_2": 197.87070805913467
+    "SD_fwd_plus_2": 197.87070805913467,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4815,7 +4960,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 104.59975236305462,
     "SD_fwd_mean": 140.8254759683941,
     "SD_fwd_plus_1": 177.05119957373356,
-    "SD_fwd_plus_2": 213.27692317907304
+    "SD_fwd_plus_2": 213.27692317907304,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4848,7 +4994,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 105.01865601613792,
     "SD_fwd_mean": 141.38945728763852,
     "SD_fwd_plus_1": 177.7602585591391,
-    "SD_fwd_plus_2": 214.13105983063969
+    "SD_fwd_plus_2": 214.13105983063969,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4881,7 +5028,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 107.87088958462417,
     "SD_fwd_mean": 145.22949649213837,
     "SD_fwd_plus_1": 182.5881033996526,
-    "SD_fwd_plus_2": 219.9467103071668
+    "SD_fwd_plus_2": 219.9467103071668,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4914,7 +5062,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 107.39502303755098,
     "SD_fwd_mean": 144.58882448790249,
     "SD_fwd_plus_1": 181.782625938254,
-    "SD_fwd_plus_2": 218.97642738860543
+    "SD_fwd_plus_2": 218.97642738860543,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4947,7 +5096,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 107.085697713909,
     "SD_fwd_mean": 144.17237143761452,
     "SD_fwd_plus_1": 181.25904516132,
-    "SD_fwd_plus_2": 218.34571888502555
+    "SD_fwd_plus_2": 218.34571888502555,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -4980,7 +5130,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 105.69848807710692,
     "SD_fwd_mean": 142.30473358038,
     "SD_fwd_plus_1": 178.91097908365307,
-    "SD_fwd_plus_2": 215.51722458692612
+    "SD_fwd_plus_2": 215.51722458692612,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5013,7 +5164,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 114.0445401298576,
     "SD_fwd_mean": 153.5412492148161,
     "SD_fwd_plus_1": 193.03795829977457,
-    "SD_fwd_plus_2": 232.53466738473307
+    "SD_fwd_plus_2": 232.53466738473307,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5046,7 +5198,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 118.57754539366552,
     "SD_fwd_mean": 159.64415681661706,
     "SD_fwd_plus_1": 200.7107682395686,
-    "SD_fwd_plus_2": 241.77737966252013
+    "SD_fwd_plus_2": 241.77737966252013,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5079,7 +5232,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 120.59643676707628,
     "SD_fwd_mean": 162.36224488246867,
     "SD_fwd_plus_1": 204.1280529978611,
-    "SD_fwd_plus_2": 245.8938611132535
+    "SD_fwd_plus_2": 245.8938611132535,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5112,7 +5266,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 121.84450557509024,
     "SD_fwd_mean": 164.04255367822788,
     "SD_fwd_plus_1": 206.2406017813655,
-    "SD_fwd_plus_2": 248.43864988450315
+    "SD_fwd_plus_2": 248.43864988450315,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5145,7 +5300,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 121.1088166078726,
     "SD_fwd_mean": 163.05207572170727,
     "SD_fwd_plus_1": 204.99533483554197,
-    "SD_fwd_plus_2": 246.93859394937655
+    "SD_fwd_plus_2": 246.93859394937655,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5178,7 +5334,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 120.65103923928876,
     "SD_fwd_mean": 162.43575766777326,
     "SD_fwd_plus_1": 204.22047609625773,
-    "SD_fwd_plus_2": 246.00519452474225
+    "SD_fwd_plus_2": 246.00519452474225,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5211,7 +5368,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 124.150690745973,
     "SD_fwd_mean": 167.14743315474496,
     "SD_fwd_plus_1": 210.1441755635169,
-    "SD_fwd_plus_2": 253.1409179722889
+    "SD_fwd_plus_2": 253.1409179722889,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5244,7 +5402,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 128.05155609747817,
     "SD_fwd_mean": 172.3992736935985,
     "SD_fwd_plus_1": 216.74699128971884,
-    "SD_fwd_plus_2": 261.0947088858392
+    "SD_fwd_plus_2": 261.0947088858392,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5277,7 +5436,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 127.86883059909634,
     "SD_fwd_mean": 172.1532654125094,
     "SD_fwd_plus_1": 216.4377002259224,
-    "SD_fwd_plus_2": 260.72213503933546
+    "SD_fwd_plus_2": 260.72213503933546,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5310,7 +5470,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 129.77565632818292,
     "SD_fwd_mean": 174.72047647009734,
     "SD_fwd_plus_1": 219.66529661201176,
-    "SD_fwd_plus_2": 264.6101167539262
+    "SD_fwd_plus_2": 264.6101167539262,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5343,7 +5504,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 130.46810264143028,
     "SD_fwd_mean": 175.65273567188933,
     "SD_fwd_plus_1": 220.8373687023484,
-    "SD_fwd_plus_2": 266.0220017328074
+    "SD_fwd_plus_2": 266.0220017328074,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5376,7 +5538,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 133.79443027893356,
     "SD_fwd_mean": 180.1310605454736,
     "SD_fwd_plus_1": 226.46769081201364,
-    "SD_fwd_plus_2": 272.8043210785537
+    "SD_fwd_plus_2": 272.8043210785537,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5409,7 +5572,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 141.18427880758418,
     "SD_fwd_mean": 190.08021351066876,
     "SD_fwd_plus_1": 238.97614821375328,
-    "SD_fwd_plus_2": 287.8720829168378
+    "SD_fwd_plus_2": 287.8720829168378,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5442,7 +5606,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 142.1962785673762,
     "SD_fwd_mean": 191.44269616127727,
     "SD_fwd_plus_1": 240.68911375517837,
-    "SD_fwd_plus_2": 289.9355313490794
+    "SD_fwd_plus_2": 289.9355313490794,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5475,7 +5640,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 145.24200652071917,
     "SD_fwd_mean": 195.54324209001948,
     "SD_fwd_plus_1": 245.84447765931975,
-    "SD_fwd_plus_2": 296.1457132286201
+    "SD_fwd_plus_2": 296.1457132286201,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5508,7 +5674,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 146.4285944912708,
     "SD_fwd_mean": 197.14077757128248,
     "SD_fwd_plus_1": 247.85296065129413,
-    "SD_fwd_plus_2": 298.5651437313058
+    "SD_fwd_plus_2": 298.5651437313058,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5541,7 +5708,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 148.30454421383442,
     "SD_fwd_mean": 199.6664194261107,
     "SD_fwd_plus_1": 251.028294638387,
-    "SD_fwd_plus_2": 302.39016985066326
+    "SD_fwd_plus_2": 302.39016985066326,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5574,7 +5742,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 151.70351760994686,
     "SD_fwd_mean": 204.2425492495357,
     "SD_fwd_plus_1": 256.78158088912454,
-    "SD_fwd_plus_2": 309.3206125287134
+    "SD_fwd_plus_2": 309.3206125287134,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5607,7 +5776,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 155.92156786964833,
     "SD_fwd_mean": 209.92142440995983,
     "SD_fwd_plus_1": 263.9212809502713,
-    "SD_fwd_plus_2": 317.9211374905829
+    "SD_fwd_plus_2": 317.9211374905829,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5640,7 +5810,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 160.9469218790539,
     "SD_fwd_mean": 216.687194445704,
     "SD_fwd_plus_1": 272.42746701235416,
-    "SD_fwd_plus_2": 328.16773957900426
+    "SD_fwd_plus_2": 328.16773957900426,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5673,7 +5844,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 166.26463180636534,
     "SD_fwd_mean": 223.8465711617812,
     "SD_fwd_plus_1": 281.42851051719697,
-    "SD_fwd_plus_2": 339.0104498726128
+    "SD_fwd_plus_2": 339.0104498726128,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5706,7 +5878,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 168.58283601714737,
     "SD_fwd_mean": 226.96763219682265,
     "SD_fwd_plus_1": 285.35242837649787,
-    "SD_fwd_plus_2": 343.73722455617315
+    "SD_fwd_plus_2": 343.73722455617315,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5739,7 +5912,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 174.2151716940325,
     "SD_fwd_mean": 234.55059806999304,
     "SD_fwd_plus_1": 294.8860244459535,
-    "SD_fwd_plus_2": 355.22145082191406
+    "SD_fwd_plus_2": 355.22145082191406,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5772,7 +5946,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 175.63204890348285,
     "SD_fwd_mean": 236.45817818277436,
     "SD_fwd_plus_1": 297.28430746206584,
-    "SD_fwd_plus_2": 358.1104367413573
+    "SD_fwd_plus_2": 358.1104367413573,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5805,7 +5980,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 181.310816572926,
     "SD_fwd_mean": 244.10365670348372,
     "SD_fwd_plus_1": 306.8964968340415,
-    "SD_fwd_plus_2": 369.6893369645993
+    "SD_fwd_plus_2": 369.6893369645993,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5838,7 +6014,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 189.64701925794256,
     "SD_fwd_mean": 255.32691186771984,
     "SD_fwd_plus_1": 321.00680447749704,
-    "SD_fwd_plus_2": 386.68669708727424
+    "SD_fwd_plus_2": 386.68669708727424,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5871,7 +6048,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 218.4142468062645,
     "SD_fwd_mean": 294.0570084526753,
     "SD_fwd_plus_1": 369.6997700990861,
-    "SD_fwd_plus_2": 445.3425317454969
+    "SD_fwd_plus_2": 445.3425317454969,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5904,7 +6082,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 226.88903454542185,
     "SD_fwd_mean": 305.4668444239456,
     "SD_fwd_plus_1": 384.0446543024694,
-    "SD_fwd_plus_2": 462.6224641809931
+    "SD_fwd_plus_2": 462.6224641809931,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5937,7 +6116,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 227.29795869473884,
     "SD_fwd_mean": 306.0173900673297,
     "SD_fwd_plus_1": 384.73682143992056,
-    "SD_fwd_plus_2": 463.4562528125114
+    "SD_fwd_plus_2": 463.4562528125114,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -5970,7 +6150,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 232.5537688431564,
     "SD_fwd_mean": 313.09342943672925,
     "SD_fwd_plus_1": 393.6330900303021,
-    "SD_fwd_plus_2": 474.172750623875
+    "SD_fwd_plus_2": 474.172750623875,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6003,7 +6184,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 236.9451568984341,
     "SD_fwd_mean": 319.0056739600235,
     "SD_fwd_plus_1": 401.0661910216129,
-    "SD_fwd_plus_2": 483.1267080832023
+    "SD_fwd_plus_2": 483.1267080832023,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6036,7 +6218,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 238.1833684036724,
     "SD_fwd_mean": 320.6727116024215,
     "SD_fwd_plus_1": 403.1620548011706,
-    "SD_fwd_plus_2": 485.6513979999197
+    "SD_fwd_plus_2": 485.6513979999197,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6069,7 +6252,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 245.59033398747812,
     "SD_fwd_mean": 330.6449097219783,
     "SD_fwd_plus_1": 415.6994854564785,
-    "SD_fwd_plus_2": 500.7540611909787
+    "SD_fwd_plus_2": 500.7540611909787,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6102,7 +6286,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 253.02126270490407,
     "SD_fwd_mean": 340.6493700565167,
     "SD_fwd_plus_1": 428.2774774081293,
-    "SD_fwd_plus_2": 515.9055847597419
+    "SD_fwd_plus_2": 515.9055847597419,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6135,7 +6320,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 257.2626830455222,
     "SD_fwd_mean": 346.3597089890259,
     "SD_fwd_plus_1": 435.4567349325296,
-    "SD_fwd_plus_2": 524.5537608760333
+    "SD_fwd_plus_2": 524.5537608760333,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6168,7 +6354,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 270.76167358506933,
     "SD_fwd_mean": 364.5337650922029,
     "SD_fwd_plus_1": 458.3058565993365,
-    "SD_fwd_plus_2": 552.07794810647
+    "SD_fwd_plus_2": 552.07794810647,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6201,7 +6388,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 271.55424911287986,
     "SD_fwd_mean": 365.60083096399785,
     "SD_fwd_plus_1": 459.64741281511584,
-    "SD_fwd_plus_2": 553.6939946662338
+    "SD_fwd_plus_2": 553.6939946662338,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6234,7 +6422,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 272.63148579856494,
     "SD_fwd_mean": 367.0511438525568,
     "SD_fwd_plus_1": 461.4708019065487,
-    "SD_fwd_plus_2": 555.8904599605406
+    "SD_fwd_plus_2": 555.8904599605406,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6267,7 +6456,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 277.6392901095669,
     "SD_fwd_mean": 373.7932862546312,
     "SD_fwd_plus_1": 469.9472823996954,
-    "SD_fwd_plus_2": 566.1012785447597
+    "SD_fwd_plus_2": 566.1012785447597,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6300,7 +6490,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 283.0631875467687,
     "SD_fwd_mean": 381.0956260875836,
     "SD_fwd_plus_1": 479.1280646283985,
-    "SD_fwd_plus_2": 577.1605031692135
+    "SD_fwd_plus_2": 577.1605031692135,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6333,7 +6524,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 310.9667096898502,
     "SD_fwd_mean": 418.6628927227388,
     "SD_fwd_plus_1": 526.3590757556274,
-    "SD_fwd_plus_2": 634.055258788516
+    "SD_fwd_plus_2": 634.055258788516,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6366,7 +6558,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 318.750421230199,
     "SD_fwd_mean": 429.1423141143469,
     "SD_fwd_plus_1": 539.5342069984947,
-    "SD_fwd_plus_2": 649.9260998826426
+    "SD_fwd_plus_2": 649.9260998826426,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6399,7 +6592,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 320.6131642657586,
     "SD_fwd_mean": 431.6501754492284,
     "SD_fwd_plus_1": 542.6871866326983,
-    "SD_fwd_plus_2": 653.7241978161682
+    "SD_fwd_plus_2": 653.7241978161682,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6432,7 +6626,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 322.6830233771352,
     "SD_fwd_mean": 434.43688275935096,
     "SD_fwd_plus_1": 546.1907421415667,
-    "SD_fwd_plus_2": 657.9446015237825
+    "SD_fwd_plus_2": 657.9446015237825,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6465,7 +6660,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 323.4035471004657,
     "SD_fwd_mean": 435.4069433378153,
     "SD_fwd_plus_1": 547.4103395751649,
-    "SD_fwd_plus_2": 659.4137358125146
+    "SD_fwd_plus_2": 659.4137358125146,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6498,7 +6694,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 328.90337443008843,
     "SD_fwd_mean": 442.8115096387932,
     "SD_fwd_plus_1": 556.7196448474979,
-    "SD_fwd_plus_2": 670.6277800562027
+    "SD_fwd_plus_2": 670.6277800562027,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6531,7 +6728,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 333.9996296063434,
     "SD_fwd_mean": 449.6727358333017,
     "SD_fwd_plus_1": 565.3458420602601,
-    "SD_fwd_plus_2": 681.0189482872184
+    "SD_fwd_plus_2": 681.0189482872184,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6564,7 +6762,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 333.73208940527013,
     "SD_fwd_mean": 449.31253922379113,
     "SD_fwd_plus_1": 564.8929890423121,
-    "SD_fwd_plus_2": 680.4734388608331
+    "SD_fwd_plus_2": 680.4734388608331,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6597,7 +6796,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 335.0941895676918,
     "SD_fwd_mean": 451.1463715164707,
     "SD_fwd_plus_1": 567.1985534652497,
-    "SD_fwd_plus_2": 683.2507354140286
+    "SD_fwd_plus_2": 683.2507354140286,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6630,7 +6830,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 339.01976359812096,
     "SD_fwd_mean": 456.4314780181149,
     "SD_fwd_plus_1": 573.843192438109,
-    "SD_fwd_plus_2": 691.2549068581029
+    "SD_fwd_plus_2": 691.2549068581029,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6663,7 +6864,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 348.28067615368417,
     "SD_fwd_mean": 468.8996950939281,
     "SD_fwd_plus_1": 589.5187140341719,
-    "SD_fwd_plus_2": 710.1377329744159
+    "SD_fwd_plus_2": 710.1377329744159,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6696,7 +6898,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 358.46713922027146,
     "SD_fwd_mean": 482.614005858332,
     "SD_fwd_plus_1": 606.7608724963926,
-    "SD_fwd_plus_2": 730.9077391344531
+    "SD_fwd_plus_2": 730.9077391344531,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6729,7 +6932,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 378.5295053603513,
     "SD_fwd_mean": 509.62451206797056,
     "SD_fwd_plus_1": 640.7195187755898,
-    "SD_fwd_plus_2": 771.814525483209
+    "SD_fwd_plus_2": 771.814525483209,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6762,7 +6966,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 391.3170136201326,
     "SD_fwd_mean": 526.84068033272,
     "SD_fwd_plus_1": 662.3643470453073,
-    "SD_fwd_plus_2": 797.8880137578947
+    "SD_fwd_plus_2": 797.8880137578947,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6795,7 +7000,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 361.39705235998485,
     "SD_fwd_mean": 486.5586271707618,
     "SD_fwd_plus_1": 611.7202019815388,
-    "SD_fwd_plus_2": 736.8817767923158
+    "SD_fwd_plus_2": 736.8817767923158,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6828,7 +7034,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 369.4101820678904,
     "SD_fwd_mean": 497.3469204469786,
     "SD_fwd_plus_1": 625.2836588260667,
-    "SD_fwd_plus_2": 753.2203972051549
+    "SD_fwd_plus_2": 753.2203972051549,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6861,7 +7068,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 365.0480980769797,
     "SD_fwd_mean": 491.4741287781994,
     "SD_fwd_plus_1": 617.9001594794191,
-    "SD_fwd_plus_2": 744.3261901806388
+    "SD_fwd_plus_2": 744.3261901806388,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6894,7 +7102,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 372.50696861086624,
     "SD_fwd_mean": 501.5162079360484,
     "SD_fwd_plus_1": 630.5254472612306,
-    "SD_fwd_plus_2": 759.5346865864128
+    "SD_fwd_plus_2": 759.5346865864128,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6927,7 +7136,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 365.5863566080993,
     "SD_fwd_mean": 492.1988007982236,
     "SD_fwd_plus_1": 618.8112449883479,
-    "SD_fwd_plus_2": 745.4236891784723
+    "SD_fwd_plus_2": 745.4236891784723,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6960,7 +7170,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 367.29117592027353,
     "SD_fwd_mean": 494.49404515256725,
     "SD_fwd_plus_1": 621.696914384861,
-    "SD_fwd_plus_2": 748.8997836171548
+    "SD_fwd_plus_2": 748.8997836171548,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -6993,7 +7204,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 390.7156402053466,
     "SD_fwd_mean": 526.0310350375951,
     "SD_fwd_plus_1": 661.3464298698435,
-    "SD_fwd_plus_2": 796.661824702092
+    "SD_fwd_plus_2": 796.661824702092,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7026,7 +7238,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 371.2026691529386,
     "SD_fwd_mean": 499.7601942953044,
     "SD_fwd_plus_1": 628.3177194376701,
-    "SD_fwd_plus_2": 756.8752445800359
+    "SD_fwd_plus_2": 756.8752445800359,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7059,7 +7272,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 350.17841756892346,
     "SD_fwd_mean": 471.4546756940581,
     "SD_fwd_plus_1": 592.7309338191927,
-    "SD_fwd_plus_2": 714.0071919443274
+    "SD_fwd_plus_2": 714.0071919443274,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7092,7 +7306,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 371.6599923937973,
     "SD_fwd_mean": 500.3759009447982,
     "SD_fwd_plus_1": 629.091809495799,
-    "SD_fwd_plus_2": 757.8077180467999
+    "SD_fwd_plus_2": 757.8077180467999,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7125,7 +7340,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 369.945554098388,
     "SD_fwd_mean": 498.0677062931372,
     "SD_fwd_plus_1": 626.1898584878865,
-    "SD_fwd_plus_2": 754.3120106826358
+    "SD_fwd_plus_2": 754.3120106826358,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7158,7 +7374,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 386.8722958123454,
     "SD_fwd_mean": 520.8566365210836,
     "SD_fwd_plus_1": 654.8409772298218,
-    "SD_fwd_plus_2": 788.82531793856
+    "SD_fwd_plus_2": 788.82531793856,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7191,7 +7408,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 370.8049378814926,
     "SD_fwd_mean": 499.2247179261588,
     "SD_fwd_plus_1": 627.644497970825,
-    "SD_fwd_plus_2": 756.0642780154911
+    "SD_fwd_plus_2": 756.0642780154911,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7224,7 +7442,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 374.5537222619479,
     "SD_fwd_mean": 504.27180773998674,
     "SD_fwd_plus_1": 633.9898932180255,
-    "SD_fwd_plus_2": 763.7079786960643
+    "SD_fwd_plus_2": 763.7079786960643,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7257,7 +7476,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 344.2369162745994,
     "SD_fwd_mean": 463.4554717873809,
     "SD_fwd_plus_1": 582.6740273001624,
-    "SD_fwd_plus_2": 701.8925828129439
+    "SD_fwd_plus_2": 701.8925828129439,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7290,7 +7510,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 350.3042627435987,
     "SD_fwd_mean": 471.6241044567616,
     "SD_fwd_plus_1": 592.9439461699245,
-    "SD_fwd_plus_2": 714.2637878830874
+    "SD_fwd_plus_2": 714.2637878830874,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7323,7 +7544,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 344.3416942047927,
     "SD_fwd_mean": 463.5965371489817,
     "SD_fwd_plus_1": 582.8513800931707,
-    "SD_fwd_plus_2": 702.1062230373598
+    "SD_fwd_plus_2": 702.1062230373598,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7356,7 +7578,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 352.3698626876227,
     "SD_fwd_mean": 474.4050775346693,
     "SD_fwd_plus_1": 596.440292381716,
-    "SD_fwd_plus_2": 718.4755072287625
+    "SD_fwd_plus_2": 718.4755072287625,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7389,7 +7612,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 339.92656255707857,
     "SD_fwd_mean": 457.6523259849401,
     "SD_fwd_plus_1": 575.3780894128016,
-    "SD_fwd_plus_2": 693.1038528406631
+    "SD_fwd_plus_2": 693.1038528406631,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7422,7 +7646,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 359.62295628014544,
     "SD_fwd_mean": 484.1701136302146,
     "SD_fwd_plus_1": 608.7172709802837,
-    "SD_fwd_plus_2": 733.2644283303529
+    "SD_fwd_plus_2": 733.2644283303529,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7455,7 +7680,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 372.93215706796695,
     "SD_fwd_mean": 502.0886506569418,
     "SD_fwd_plus_1": 631.2451442459167,
-    "SD_fwd_plus_2": 760.4016378348915
+    "SD_fwd_plus_2": 760.4016378348915,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7488,7 +7714,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 375.63440220711976,
     "SD_fwd_mean": 505.7267563819309,
     "SD_fwd_plus_1": 635.8191105567421,
-    "SD_fwd_plus_2": 765.9114647315532
+    "SD_fwd_plus_2": 765.9114647315532,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7521,7 +7748,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 378.5295731310179,
     "SD_fwd_mean": 509.6246033094521,
     "SD_fwd_plus_1": 640.7196334878863,
-    "SD_fwd_plus_2": 771.8146636663205
+    "SD_fwd_plus_2": 771.8146636663205,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7554,7 +7782,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 386.7190280716953,
     "SD_fwd_mean": 520.6502880160439,
     "SD_fwd_plus_1": 654.5815479603924,
-    "SD_fwd_plus_2": 788.5128079047408
+    "SD_fwd_plus_2": 788.5128079047408,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7587,7 +7816,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 387.18053948990575,
     "SD_fwd_mean": 521.2716333219939,
     "SD_fwd_plus_1": 655.3627271540822,
-    "SD_fwd_plus_2": 789.4538209861704
+    "SD_fwd_plus_2": 789.4538209861704,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7620,7 +7850,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 404.8983041262295,
     "SD_fwd_mean": 545.1255391070287,
     "SD_fwd_plus_1": 685.3527740878279,
-    "SD_fwd_plus_2": 825.5800090686272
+    "SD_fwd_plus_2": 825.5800090686272,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7653,7 +7884,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 426.6818339001621,
     "SD_fwd_mean": 574.4532944733911,
     "SD_fwd_plus_1": 722.2247550466201,
-    "SD_fwd_plus_2": 869.9962156198491
+    "SD_fwd_plus_2": 869.9962156198491,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7686,7 +7918,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 417.15067306635297,
     "SD_fwd_mean": 561.6212348305178,
     "SD_fwd_plus_1": 706.0917965946827,
-    "SD_fwd_plus_2": 850.5623583588475
+    "SD_fwd_plus_2": 850.5623583588475,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7719,7 +7952,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 422.7567520765877,
     "SD_fwd_mean": 569.1688506431492,
     "SD_fwd_plus_1": 715.5809492097109,
-    "SD_fwd_plus_2": 861.9930477762724
+    "SD_fwd_plus_2": 861.9930477762724,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7752,7 +7986,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 433.2613264150276,
     "SD_fwd_mean": 583.3114432175719,
     "SD_fwd_plus_1": 733.3615600201163,
-    "SD_fwd_plus_2": 883.4116768226605
+    "SD_fwd_plus_2": 883.4116768226605,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7785,7 +8020,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 451.9772755793715,
     "SD_fwd_mean": 608.5092318329869,
     "SD_fwd_plus_1": 765.0411880866021,
-    "SD_fwd_plus_2": 921.5731443402176
+    "SD_fwd_plus_2": 921.5731443402176,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7818,7 +8054,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 448.7582390085013,
     "SD_fwd_mean": 604.1753558245712,
     "SD_fwd_plus_1": 759.5924726406411,
-    "SD_fwd_plus_2": 915.0095894567108
+    "SD_fwd_plus_2": 915.0095894567108,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7851,7 +8088,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 448.7469895418191,
     "SD_fwd_mean": 604.1602103632854,
     "SD_fwd_plus_1": 759.5734311847516,
-    "SD_fwd_plus_2": 914.986652006218
+    "SD_fwd_plus_2": 914.986652006218,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7884,7 +8122,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 447.5985236932259,
     "SD_fwd_mean": 602.6139997259961,
     "SD_fwd_plus_1": 757.6294757587664,
-    "SD_fwd_plus_2": 912.6449517915364
+    "SD_fwd_plus_2": 912.6449517915364,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7917,7 +8156,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 440.71297956729984,
     "SD_fwd_mean": 593.3438054193276,
     "SD_fwd_plus_1": 745.9746312713555,
-    "SD_fwd_plus_2": 898.6054571233833
+    "SD_fwd_plus_2": 898.6054571233833,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7950,7 +8190,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 446.1435806145346,
     "SD_fwd_mean": 600.6551705037963,
     "SD_fwd_plus_1": 755.1667603930579,
-    "SD_fwd_plus_2": 909.6783502823196
+    "SD_fwd_plus_2": 909.6783502823196,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -7983,7 +8224,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 455.4523078385123,
     "SD_fwd_mean": 613.1877617610546,
     "SD_fwd_plus_1": 770.9232156835969,
-    "SD_fwd_plus_2": 928.6586696061393
+    "SD_fwd_plus_2": 928.6586696061393,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8016,7 +8258,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 454.2193419884853,
     "SD_fwd_mean": 611.5277864861594,
     "SD_fwd_plus_1": 768.8362309838335,
-    "SD_fwd_plus_2": 926.1446754815076
+    "SD_fwd_plus_2": 926.1446754815076,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8049,7 +8292,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 449.8747627922026,
     "SD_fwd_mean": 605.6785619958824,
     "SD_fwd_plus_1": 761.4823611995621,
-    "SD_fwd_plus_2": 917.286160403242
+    "SD_fwd_plus_2": 917.286160403242,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8082,7 +8326,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 455.6114278477431,
     "SD_fwd_mean": 613.401989333585,
     "SD_fwd_plus_1": 771.1925508194269,
-    "SD_fwd_plus_2": 928.9831123052688
+    "SD_fwd_plus_2": 928.9831123052688,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8115,7 +8360,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 459.9689207366476,
     "SD_fwd_mean": 619.2685998775466,
     "SD_fwd_plus_1": 778.5682790184457,
-    "SD_fwd_plus_2": 937.8679581593448
+    "SD_fwd_plus_2": 937.8679581593448,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8148,7 +8394,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 462.8234990675192,
     "SD_fwd_mean": 623.1117958990703,
     "SD_fwd_plus_1": 783.4000927306215,
-    "SD_fwd_plus_2": 943.6883895621726
+    "SD_fwd_plus_2": 943.6883895621726,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8181,7 +8428,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 473.99237702272046,
     "SD_fwd_mean": 638.1487584017624,
     "SD_fwd_plus_1": 802.3051397808043,
-    "SD_fwd_plus_2": 966.461521159846
+    "SD_fwd_plus_2": 966.461521159846,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8214,7 +8462,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 471.6283046303021,
     "SD_fwd_mean": 634.9659437930765,
     "SD_fwd_plus_1": 798.3035829558509,
-    "SD_fwd_plus_2": 961.6412221186253
+    "SD_fwd_plus_2": 961.6412221186253,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8247,7 +8496,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 476.8540034498445,
     "SD_fwd_mean": 642.0014434659176,
     "SD_fwd_plus_1": 807.1488834819908,
-    "SD_fwd_plus_2": 972.296323498064
+    "SD_fwd_plus_2": 972.296323498064,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8280,7 +8530,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 461.9341599538117,
     "SD_fwd_mean": 621.914454594184,
     "SD_fwd_plus_1": 781.8947492345562,
-    "SD_fwd_plus_2": 941.8750438749286
+    "SD_fwd_plus_2": 941.8750438749286,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8313,7 +8564,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 475.43818695537175,
     "SD_fwd_mean": 640.0952914224024,
     "SD_fwd_plus_1": 804.7523958894329,
-    "SD_fwd_plus_2": 969.4095003564636
+    "SD_fwd_plus_2": 969.4095003564636,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8346,7 +8598,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 477.49275522759393,
     "SD_fwd_mean": 642.861412262163,
     "SD_fwd_plus_1": 808.230069296732,
-    "SD_fwd_plus_2": 973.598726331301
+    "SD_fwd_plus_2": 973.598726331301,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8379,7 +8632,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 478.4467946843568,
     "SD_fwd_mean": 644.1458613890112,
     "SD_fwd_plus_1": 809.8449280936655,
-    "SD_fwd_plus_2": 975.54399479832
+    "SD_fwd_plus_2": 975.54399479832,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8412,7 +8666,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 480.0516728184566,
     "SD_fwd_mean": 646.3065522319629,
     "SD_fwd_plus_1": 812.5614316454692,
-    "SD_fwd_plus_2": 978.8163110589754
+    "SD_fwd_plus_2": 978.8163110589754,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8445,7 +8700,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 482.3718237814009,
     "SD_fwd_mean": 649.4302342320989,
     "SD_fwd_plus_1": 816.4886446827969,
-    "SD_fwd_plus_2": 983.547055133495
+    "SD_fwd_plus_2": 983.547055133495,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8478,7 +8734,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 484.1290951886414,
     "SD_fwd_mean": 651.7960962608287,
     "SD_fwd_plus_1": 819.463097333016,
-    "SD_fwd_plus_2": 987.1300984052034
+    "SD_fwd_plus_2": 987.1300984052034,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8511,7 +8768,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 484.4456010582587,
     "SD_fwd_mean": 652.2222166743928,
     "SD_fwd_plus_1": 819.9988322905269,
-    "SD_fwd_plus_2": 987.775447906661
+    "SD_fwd_plus_2": 987.775447906661,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8544,7 +8802,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 484.4626875016912,
     "SD_fwd_mean": 652.2452206153642,
     "SD_fwd_plus_1": 820.0277537290374,
-    "SD_fwd_plus_2": 987.8102868427104
+    "SD_fwd_plus_2": 987.8102868427104,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8577,7 +8836,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 480.07486535392405,
     "SD_fwd_mean": 646.3377769698072,
     "SD_fwd_plus_1": 812.6006885856904,
-    "SD_fwd_plus_2": 978.8636002015736
+    "SD_fwd_plus_2": 978.8636002015736,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8610,7 +8870,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 485.5984098327184,
     "SD_fwd_mean": 653.7742743102498,
     "SD_fwd_plus_1": 821.9501387877812,
-    "SD_fwd_plus_2": 990.1260032653124
+    "SD_fwd_plus_2": 990.1260032653124,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8643,7 +8904,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 468.9897746347299,
     "SD_fwd_mean": 631.4136194893472,
     "SD_fwd_plus_1": 793.8374643439645,
-    "SD_fwd_plus_2": 956.261309198582
+    "SD_fwd_plus_2": 956.261309198582,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8676,7 +8938,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 451.11245986906783,
     "SD_fwd_mean": 607.3449070494468,
     "SD_fwd_plus_1": 763.5773542298257,
-    "SD_fwd_plus_2": 919.8098014102046
+    "SD_fwd_plus_2": 919.8098014102046,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8709,7 +8972,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 434.52065787851234,
     "SD_fwd_mean": 585.0069152310397,
     "SD_fwd_plus_1": 735.493172583567,
-    "SD_fwd_plus_2": 885.9794299360942
+    "SD_fwd_plus_2": 885.9794299360942,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8742,7 +9006,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 439.0680810089533,
     "SD_fwd_mean": 591.1292339966835,
     "SD_fwd_plus_1": 743.1903869844137,
-    "SD_fwd_plus_2": 895.251539972144
+    "SD_fwd_plus_2": 895.251539972144,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8775,7 +9040,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 468.5639467552167,
     "SD_fwd_mean": 630.840315896764,
     "SD_fwd_plus_1": 793.1166850383112,
-    "SD_fwd_plus_2": 955.3930541798584
+    "SD_fwd_plus_2": 955.3930541798584,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8808,7 +9074,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 462.3598543700264,
     "SD_fwd_mean": 622.4875785015183,
     "SD_fwd_plus_1": 782.6153026330103,
-    "SD_fwd_plus_2": 942.7430267645022
+    "SD_fwd_plus_2": 942.7430267645022,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8841,7 +9108,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 435.5932222135428,
     "SD_fwd_mean": 586.450937607528,
     "SD_fwd_plus_1": 737.3086530015131,
-    "SD_fwd_plus_2": 888.1663683954982
+    "SD_fwd_plus_2": 888.1663683954982,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8874,7 +9142,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 455.9775748652401,
     "SD_fwd_mean": 613.8949429673036,
     "SD_fwd_plus_1": 771.8123110693671,
-    "SD_fwd_plus_2": 929.7296791714303
+    "SD_fwd_plus_2": 929.7296791714303,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8907,7 +9176,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 431.599058029179,
     "SD_fwd_mean": 581.0734863263181,
     "SD_fwd_plus_1": 730.5479146234571,
-    "SD_fwd_plus_2": 880.0223429205962
+    "SD_fwd_plus_2": 880.0223429205962,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8940,7 +9210,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 390.41560708089486,
     "SD_fwd_mean": 525.6270923264254,
     "SD_fwd_plus_1": 660.8385775719561,
-    "SD_fwd_plus_2": 796.0500628174866
+    "SD_fwd_plus_2": 796.0500628174866,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -8973,7 +9244,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 396.2067908867731,
     "SD_fwd_mean": 533.4239197324081,
     "SD_fwd_plus_1": 670.6410485780431,
-    "SD_fwd_plus_2": 807.858177423678
+    "SD_fwd_plus_2": 807.858177423678,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9006,7 +9278,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 363.3532797015019,
     "SD_fwd_mean": 489.1923489554496,
     "SD_fwd_plus_1": 615.0314182093973,
-    "SD_fwd_plus_2": 740.8704874633451
+    "SD_fwd_plus_2": 740.8704874633451,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9039,7 +9312,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 384.7999982454758,
     "SD_fwd_mean": 518.0666462523722,
     "SD_fwd_plus_1": 651.3332942592684,
-    "SD_fwd_plus_2": 784.5999422661647
+    "SD_fwd_plus_2": 784.5999422661647,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9072,7 +9346,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 379.77377419093614,
     "SD_fwd_mean": 511.2997048513297,
     "SD_fwd_plus_1": 642.8256355117232,
-    "SD_fwd_plus_2": 774.3515661721168
+    "SD_fwd_plus_2": 774.3515661721168,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9105,7 +9380,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 387.2695653309544,
     "SD_fwd_mean": 521.3914912198946,
     "SD_fwd_plus_1": 655.5134171088348,
-    "SD_fwd_plus_2": 789.6353429977751
+    "SD_fwd_plus_2": 789.6353429977751,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9138,7 +9414,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 424.2740627405722,
     "SD_fwd_mean": 571.2116470324361,
     "SD_fwd_plus_1": 718.1492313243,
-    "SD_fwd_plus_2": 865.0868156161639
+    "SD_fwd_plus_2": 865.0868156161639,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9171,7 +9448,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 399.6483321472829,
     "SD_fwd_mean": 538.057359823107,
     "SD_fwd_plus_1": 676.4663874989311,
-    "SD_fwd_plus_2": 814.8754151747553
+    "SD_fwd_plus_2": 814.8754151747553,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9204,7 +9482,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 375.9718963222851,
     "SD_fwd_mean": 506.1811338381961,
     "SD_fwd_plus_1": 636.390371354107,
-    "SD_fwd_plus_2": 766.599608870018
+    "SD_fwd_plus_2": 766.599608870018,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9237,7 +9516,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 395.6185434061483,
     "SD_fwd_mean": 532.6319462374933,
     "SD_fwd_plus_1": 669.6453490688382,
-    "SD_fwd_plus_2": 806.6587519001831
+    "SD_fwd_plus_2": 806.6587519001831,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9270,7 +9550,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 422.1367604485081,
     "SD_fwd_mean": 568.3341391438554,
     "SD_fwd_plus_1": 714.5315178392028,
-    "SD_fwd_plus_2": 860.7288965345502
+    "SD_fwd_plus_2": 860.7288965345502,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9303,7 +9584,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 412.317138826668,
     "SD_fwd_mean": 555.1137169393609,
     "SD_fwd_plus_1": 697.9102950520537,
-    "SD_fwd_plus_2": 840.7068731647466
+    "SD_fwd_plus_2": 840.7068731647466,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9336,7 +9618,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 403.6369381035736,
     "SD_fwd_mean": 543.4273279115154,
     "SD_fwd_plus_1": 683.217717719457,
-    "SD_fwd_plus_2": 823.0081075273987
+    "SD_fwd_plus_2": 823.0081075273987,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9369,7 +9652,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 399.8544018726562,
     "SD_fwd_mean": 538.3347970684424,
     "SD_fwd_plus_1": 676.8151922642287,
-    "SD_fwd_plus_2": 815.2955874600149
+    "SD_fwd_plus_2": 815.2955874600149,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9402,7 +9686,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 395.9067236136127,
     "SD_fwd_mean": 533.0199310459083,
     "SD_fwd_plus_1": 670.1331384782039,
-    "SD_fwd_plus_2": 807.2463459104995
+    "SD_fwd_plus_2": 807.2463459104995,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9435,7 +9720,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 391.9139325229423,
     "SD_fwd_mean": 527.6443283978792,
     "SD_fwd_plus_1": 663.3747242728161,
-    "SD_fwd_plus_2": 799.105120147753
+    "SD_fwd_plus_2": 799.105120147753,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9468,7 +9754,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 364.9969694585993,
     "SD_fwd_mean": 491.4052929362747,
     "SD_fwd_plus_1": 617.8136164139501,
-    "SD_fwd_plus_2": 744.2219398916255
+    "SD_fwd_plus_2": 744.2219398916255,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9501,7 +9788,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 399.1411376237565,
     "SD_fwd_mean": 537.3745101167688,
     "SD_fwd_plus_1": 675.607882609781,
-    "SD_fwd_plus_2": 813.8412551027932
+    "SD_fwd_plus_2": 813.8412551027932,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9534,7 +9822,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 395.5588771977714,
     "SD_fwd_mean": 532.5516160072194,
     "SD_fwd_plus_1": 669.5443548166674,
-    "SD_fwd_plus_2": 806.5370936261154
+    "SD_fwd_plus_2": 806.5370936261154,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9567,7 +9856,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 386.8854915397942,
     "SD_fwd_mean": 520.8744022858847,
     "SD_fwd_plus_1": 654.863313031975,
-    "SD_fwd_plus_2": 788.8522237780655
+    "SD_fwd_plus_2": 788.8522237780655,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9600,7 +9890,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 391.2805837316921,
     "SD_fwd_mean": 526.7916337885054,
     "SD_fwd_plus_1": 662.3026838453186,
-    "SD_fwd_plus_2": 797.8137339021318
+    "SD_fwd_plus_2": 797.8137339021318,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9633,7 +9924,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 389.1571537815864,
     "SD_fwd_mean": 523.9328026091422,
     "SD_fwd_plus_1": 658.7084514366978,
-    "SD_fwd_plus_2": 793.4841002642536
+    "SD_fwd_plus_2": 793.4841002642536,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9666,7 +9958,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 391.97360419003394,
     "SD_fwd_mean": 527.7246659773683,
     "SD_fwd_plus_1": 663.4757277647027,
-    "SD_fwd_plus_2": 799.2267895520371
+    "SD_fwd_plus_2": 799.2267895520371,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9699,7 +9992,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 392.1751501452711,
     "SD_fwd_mean": 527.996012748604,
     "SD_fwd_plus_1": 663.816875351937,
-    "SD_fwd_plus_2": 799.63773795527
+    "SD_fwd_plus_2": 799.63773795527,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9732,7 +10026,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 395.0991085935104,
     "SD_fwd_mean": 531.9326170988315,
     "SD_fwd_plus_1": 668.7661256041525,
-    "SD_fwd_plus_2": 805.5996341094736
+    "SD_fwd_plus_2": 805.5996341094736,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9765,7 +10060,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 394.83726418194993,
     "SD_fwd_mean": 531.5800888848097,
     "SD_fwd_plus_1": 668.3229135876695,
-    "SD_fwd_plus_2": 805.0657382905293
+    "SD_fwd_plus_2": 805.0657382905293,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9798,7 +10094,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 395.4607270285166,
     "SD_fwd_mean": 532.4194737794471,
     "SD_fwd_plus_1": 669.3782205303776,
-    "SD_fwd_plus_2": 806.3369672813081
+    "SD_fwd_plus_2": 806.3369672813081,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9831,7 +10128,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 395.6830687758504,
     "SD_fwd_mean": 532.7188184880965,
     "SD_fwd_plus_1": 669.7545682003428,
-    "SD_fwd_plus_2": 806.790317912589
+    "SD_fwd_plus_2": 806.790317912589,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9864,7 +10162,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 399.4251231739531,
     "SD_fwd_mean": 537.7568475446412,
     "SD_fwd_plus_1": 676.0885719153292,
-    "SD_fwd_plus_2": 814.4202962860173
+    "SD_fwd_plus_2": 814.4202962860173,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9897,7 +10196,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 402.51422686582447,
     "SD_fwd_mean": 541.9157914034524,
     "SD_fwd_plus_1": 681.3173559410805,
-    "SD_fwd_plus_2": 820.7189204787085
+    "SD_fwd_plus_2": 820.7189204787085,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9930,7 +10230,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 406.63093358253457,
     "SD_fwd_mean": 547.4582250106638,
     "SD_fwd_plus_1": 688.2855164387931,
-    "SD_fwd_plus_2": 829.1128078669225
+    "SD_fwd_plus_2": 829.1128078669225,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9963,7 +10264,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 405.5542194942755,
     "SD_fwd_mean": 546.0086157091555,
     "SD_fwd_plus_1": 686.4630119240354,
-    "SD_fwd_plus_2": 826.9174081389154
+    "SD_fwd_plus_2": 826.9174081389154,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -9996,7 +10298,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 407.2782621708631,
     "SD_fwd_mean": 548.3297409989896,
     "SD_fwd_plus_1": 689.3812198271161,
-    "SD_fwd_plus_2": 830.4326986552426
+    "SD_fwd_plus_2": 830.4326986552426,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10029,7 +10332,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 409.28565979027366,
     "SD_fwd_mean": 551.0323547129315,
     "SD_fwd_plus_1": 692.7790496355892,
-    "SD_fwd_plus_2": 834.525744558247
+    "SD_fwd_plus_2": 834.525744558247,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10062,7 +10366,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 409.668153305804,
     "SD_fwd_mean": 551.5473160791154,
     "SD_fwd_plus_1": 693.4264788524268,
-    "SD_fwd_plus_2": 835.3056416257383
+    "SD_fwd_plus_2": 835.3056416257383,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10095,7 +10400,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 408.4731881317156,
     "SD_fwd_mean": 549.9385021421324,
     "SD_fwd_plus_1": 691.4038161525492,
-    "SD_fwd_plus_2": 832.8691301629659
+    "SD_fwd_plus_2": 832.8691301629659,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10128,7 +10434,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 407.3933013610607,
     "SD_fwd_mean": 548.4846213724953,
     "SD_fwd_plus_1": 689.57594138393,
-    "SD_fwd_plus_2": 830.6672613953646
+    "SD_fwd_plus_2": 830.6672613953646,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10161,7 +10468,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 402.81010909948606,
     "SD_fwd_mean": 542.3141456580721,
     "SD_fwd_plus_1": 681.8181822166581,
-    "SD_fwd_plus_2": 821.3222187752442
+    "SD_fwd_plus_2": 821.3222187752442,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10194,7 +10502,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 404.4456332326428,
     "SD_fwd_mean": 544.5160960385105,
     "SD_fwd_plus_1": 684.5865588443783,
-    "SD_fwd_plus_2": 824.657021650246
+    "SD_fwd_plus_2": 824.657021650246,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10227,7 +10536,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 409.1041160138109,
     "SD_fwd_mean": 550.7879374160268,
     "SD_fwd_plus_1": 692.4717588182428,
-    "SD_fwd_plus_2": 834.1555802204588
+    "SD_fwd_plus_2": 834.1555802204588,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10260,7 +10570,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 410.8160401088815,
     "SD_fwd_mean": 553.0927471317641,
     "SD_fwd_plus_1": 695.3694541546466,
-    "SD_fwd_plus_2": 837.6461611775293
+    "SD_fwd_plus_2": 837.6461611775293,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10293,7 +10604,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 393.1377548195828,
     "SD_fwd_mean": 529.2919934595224,
     "SD_fwd_plus_1": 665.446232099462,
-    "SD_fwd_plus_2": 801.6004707394015
+    "SD_fwd_plus_2": 801.6004707394015,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10326,7 +10638,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 416.3781302768995,
     "SD_fwd_mean": 560.5811395762469,
     "SD_fwd_plus_1": 704.7841488755942,
-    "SD_fwd_plus_2": 848.9871581749416
+    "SD_fwd_plus_2": 848.9871581749416,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10359,7 +10672,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 394.7903586744648,
     "SD_fwd_mean": 531.5169387313159,
     "SD_fwd_plus_1": 668.2435187881671,
-    "SD_fwd_plus_2": 804.9700988450182
+    "SD_fwd_plus_2": 804.9700988450182,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10392,7 +10706,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 416.23987099243857,
     "SD_fwd_mean": 560.3949973617445,
     "SD_fwd_plus_1": 704.5501237310503,
-    "SD_fwd_plus_2": 848.7052501003562
+    "SD_fwd_plus_2": 848.7052501003562,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10425,7 +10740,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 418.5249065619079,
     "SD_fwd_mean": 563.4714025577942,
     "SD_fwd_plus_1": 708.4178985536807,
-    "SD_fwd_plus_2": 853.3643945495671
+    "SD_fwd_plus_2": 853.3643945495671,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10458,7 +10774,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 414.4250812580773,
     "SD_fwd_mean": 557.951696853375,
     "SD_fwd_plus_1": 701.4783124486726,
-    "SD_fwd_plus_2": 845.0049280439702
+    "SD_fwd_plus_2": 845.0049280439702,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10491,7 +10808,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 415.6134438761309,
     "SD_fwd_mean": 559.551621590573,
     "SD_fwd_plus_1": 703.4897993050149,
-    "SD_fwd_plus_2": 847.427977019457
+    "SD_fwd_plus_2": 847.427977019457,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10524,7 +10842,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 416.4144809844543,
     "SD_fwd_mean": 560.6300795170931,
     "SD_fwd_plus_1": 704.845678049732,
-    "SD_fwd_plus_2": 849.0612765823709
+    "SD_fwd_plus_2": 849.0612765823709,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10557,7 +10876,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 392.8575234207557,
     "SD_fwd_mean": 528.9147103471862,
     "SD_fwd_plus_1": 664.9718972736168,
-    "SD_fwd_plus_2": 801.0290842000475
+    "SD_fwd_plus_2": 801.0290842000475,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10590,7 +10910,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 399.1531050239095,
     "SD_fwd_mean": 537.3906221513058,
     "SD_fwd_plus_1": 675.6281392787023,
-    "SD_fwd_plus_2": 813.8656564060987
+    "SD_fwd_plus_2": 813.8656564060987,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10623,7 +10944,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 392.2667032373413,
     "SD_fwd_mean": 528.1192731529158,
     "SD_fwd_plus_1": 663.9718430684901,
-    "SD_fwd_plus_2": 799.8244129840646
+    "SD_fwd_plus_2": 799.8244129840646,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10656,7 +10978,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 395.2511683006799,
     "SD_fwd_mean": 532.1373391957197,
     "SD_fwd_plus_1": 669.0235100907596,
-    "SD_fwd_plus_2": 805.9096809857994
+    "SD_fwd_plus_2": 805.9096809857994,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10689,7 +11012,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 398.2997086839276,
     "SD_fwd_mean": 536.2416715749172,
     "SD_fwd_plus_1": 674.183634465907,
-    "SD_fwd_plus_2": 812.1255973568966
+    "SD_fwd_plus_2": 812.1255973568966,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10722,7 +11046,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 391.1927380262238,
     "SD_fwd_mean": 526.6733647390586,
     "SD_fwd_plus_1": 662.1539914518934,
-    "SD_fwd_plus_2": 797.6346181647281
+    "SD_fwd_plus_2": 797.6346181647281,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10755,7 +11080,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 389.42866116809495,
     "SD_fwd_mean": 524.2983403477143,
     "SD_fwd_plus_1": 659.1680195273336,
-    "SD_fwd_plus_2": 794.0376987069529
+    "SD_fwd_plus_2": 794.0376987069529,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10788,7 +11114,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 390.33589501111385,
     "SD_fwd_mean": 525.5197738107145,
     "SD_fwd_plus_1": 660.7036526103151,
-    "SD_fwd_plus_2": 795.8875314099157
+    "SD_fwd_plus_2": 795.8875314099157,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10821,7 +11148,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 389.7074893298919,
     "SD_fwd_mean": 524.6737342440798,
     "SD_fwd_plus_1": 659.6399791582678,
-    "SD_fwd_plus_2": 794.6062240724558
+    "SD_fwd_plus_2": 794.6062240724558,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10854,7 +11182,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 388.2630223274552,
     "SD_fwd_mean": 522.7290092467133,
     "SD_fwd_plus_1": 657.1949961659714,
-    "SD_fwd_plus_2": 791.6609830852295
+    "SD_fwd_plus_2": 791.6609830852295,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10887,7 +11216,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 392.3082604185527,
     "SD_fwd_mean": 528.175222710078,
     "SD_fwd_plus_1": 664.0421850016033,
-    "SD_fwd_plus_2": 799.9091472931286
+    "SD_fwd_plus_2": 799.9091472931286,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10920,7 +11250,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 403.3367720365604,
     "SD_fwd_mean": 543.0232062161792,
     "SD_fwd_plus_1": 682.709640395798,
-    "SD_fwd_plus_2": 822.3960745754168
+    "SD_fwd_plus_2": 822.3960745754168,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10953,7 +11284,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 399.343229068028,
     "SD_fwd_mean": 537.6465912946466,
     "SD_fwd_plus_1": 675.9499535212652,
-    "SD_fwd_plus_2": 814.2533157478838
+    "SD_fwd_plus_2": 814.2533157478838,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -10986,7 +11318,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 397.7907878437488,
     "SD_fwd_mean": 535.5564976817741,
     "SD_fwd_plus_1": 673.3222075197993,
-    "SD_fwd_plus_2": 811.0879173578245
+    "SD_fwd_plus_2": 811.0879173578245,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11019,7 +11352,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 387.67843567280266,
     "SD_fwd_mean": 521.9419644208281,
     "SD_fwd_plus_1": 656.2054931688535,
-    "SD_fwd_plus_2": 790.469021916879
+    "SD_fwd_plus_2": 790.469021916879,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11052,7 +11386,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 373.9217614055829,
     "SD_fwd_mean": 503.4209817448916,
     "SD_fwd_plus_1": 632.9202020842004,
-    "SD_fwd_plus_2": 762.419422423509
+    "SD_fwd_plus_2": 762.419422423509,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11085,7 +11420,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 374.1245257381103,
     "SD_fwd_mean": 503.69396885042966,
     "SD_fwd_plus_1": 633.2634119627489,
-    "SD_fwd_plus_2": 762.8328550750683
+    "SD_fwd_plus_2": 762.8328550750683,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11118,7 +11454,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 373.5892167122244,
     "SD_fwd_mean": 502.973267829084,
     "SD_fwd_plus_1": 632.3573189459436,
-    "SD_fwd_plus_2": 761.7413700628031
+    "SD_fwd_plus_2": 761.7413700628031,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11151,7 +11488,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 369.6524233890551,
     "SD_fwd_mean": 497.6730564901485,
     "SD_fwd_plus_1": 625.6936895912418,
-    "SD_fwd_plus_2": 753.7143226923351
+    "SD_fwd_plus_2": 753.7143226923351,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11184,7 +11522,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 369.307805207477,
     "SD_fwd_mean": 497.20908771057,
     "SD_fwd_plus_1": 625.1103702136629,
-    "SD_fwd_plus_2": 753.0116527167559
+    "SD_fwd_plus_2": 753.0116527167559,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11217,7 +11556,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 370.6045882520649,
     "SD_fwd_mean": 498.9549818007201,
     "SD_fwd_plus_1": 627.3053753493754,
-    "SD_fwd_plus_2": 755.6557688980306
+    "SD_fwd_plus_2": 755.6557688980306,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11250,7 +11590,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 369.8010946307913,
     "SD_fwd_mean": 497.8732166043678,
     "SD_fwd_plus_1": 625.9453385779444,
-    "SD_fwd_plus_2": 754.0174605515209
+    "SD_fwd_plus_2": 754.0174605515209,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11283,7 +11624,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 371.7885909711037,
     "SD_fwd_mean": 500.5490366879419,
     "SD_fwd_plus_1": 629.3094824047802,
-    "SD_fwd_plus_2": 758.0699281216183
+    "SD_fwd_plus_2": 758.0699281216183,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11316,7 +11658,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 373.3379058468372,
     "SD_fwd_mean": 502.63492121320144,
     "SD_fwd_plus_1": 631.9319365795657,
-    "SD_fwd_plus_2": 761.22895194593
+    "SD_fwd_plus_2": 761.22895194593,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11349,7 +11692,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 372.7282281033688,
     "SD_fwd_mean": 501.8140955757442,
     "SD_fwd_plus_1": 630.8999630481196,
-    "SD_fwd_plus_2": 759.9858305204951
+    "SD_fwd_plus_2": 759.9858305204951,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11382,7 +11726,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 373.0578270838796,
     "SD_fwd_mean": 502.2578435986653,
     "SD_fwd_plus_1": 631.457860113451,
-    "SD_fwd_plus_2": 760.6578766282366
+    "SD_fwd_plus_2": 760.6578766282366,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11415,7 +11760,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 373.2559994700653,
     "SD_fwd_mean": 502.524648442634,
     "SD_fwd_plus_1": 631.7932974152028,
-    "SD_fwd_plus_2": 761.0619463877715
+    "SD_fwd_plus_2": 761.0619463877715,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11448,7 +11794,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 371.6870689486909,
     "SD_fwd_mean": 500.4123548430564,
     "SD_fwd_plus_1": 629.1376407374219,
-    "SD_fwd_plus_2": 757.8629266317872
+    "SD_fwd_plus_2": 757.8629266317872,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11481,7 +11828,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 373.87724543269377,
     "SD_fwd_mean": 503.36104868646,
     "SD_fwd_plus_1": 632.8448519402261,
-    "SD_fwd_plus_2": 762.3286551939924
+    "SD_fwd_plus_2": 762.3286551939924,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11514,7 +11862,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 376.1233994862251,
     "SD_fwd_mean": 506.3851066458803,
     "SD_fwd_plus_1": 636.6468138055354,
-    "SD_fwd_plus_2": 766.9085209651906
+    "SD_fwd_plus_2": 766.9085209651906,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11547,7 +11896,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 374.9857144992292,
     "SD_fwd_mean": 504.8534105741754,
     "SD_fwd_plus_1": 634.7211066491217,
-    "SD_fwd_plus_2": 764.5888027240678
+    "SD_fwd_plus_2": 764.5888027240678,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11580,7 +11930,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 378.02479519467937,
     "SD_fwd_mean": 508.94500711981215,
     "SD_fwd_plus_1": 639.8652190449449,
-    "SD_fwd_plus_2": 770.7854309700776
+    "SD_fwd_plus_2": 770.7854309700776,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11613,7 +11964,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 378.1514594801301,
     "SD_fwd_mean": 509.1155386735092,
     "SD_fwd_plus_1": 640.0796178668883,
-    "SD_fwd_plus_2": 771.0436970602673
+    "SD_fwd_plus_2": 771.0436970602673,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11646,7 +11998,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 380.0875635097368,
     "SD_fwd_mean": 511.72216789904826,
     "SD_fwd_plus_1": 643.3567722883597,
-    "SD_fwd_plus_2": 774.9913766776712
+    "SD_fwd_plus_2": 774.9913766776712,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11679,7 +12032,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 381.662606731584,
     "SD_fwd_mean": 513.8426911926174,
     "SD_fwd_plus_1": 646.0227756536508,
-    "SD_fwd_plus_2": 778.2028601146842
+    "SD_fwd_plus_2": 778.2028601146842,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11712,7 +12066,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 382.9687199862632,
     "SD_fwd_mean": 515.6011467969903,
     "SD_fwd_plus_1": 648.2335736077173,
-    "SD_fwd_plus_2": 780.8660004184444
+    "SD_fwd_plus_2": 780.8660004184444,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11745,7 +12100,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 386.3319114602961,
     "SD_fwd_mean": 520.1291024508396,
     "SD_fwd_plus_1": 653.9262934413831,
-    "SD_fwd_plus_2": 787.7234844319265
+    "SD_fwd_plus_2": 787.7234844319265,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11778,7 +12134,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 387.4024605427176,
     "SD_fwd_mean": 521.5704116382291,
     "SD_fwd_plus_1": 655.7383627337405,
-    "SD_fwd_plus_2": 789.906313829252
+    "SD_fwd_plus_2": 789.906313829252,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11811,7 +12168,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 386.7066627033081,
     "SD_fwd_mean": 520.6336401861082,
     "SD_fwd_plus_1": 654.5606176689082,
-    "SD_fwd_plus_2": 788.4875951517083
+    "SD_fwd_plus_2": 788.4875951517083,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11844,7 +12202,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 389.6477364182075,
     "SD_fwd_mean": 524.593287282798,
     "SD_fwd_plus_1": 659.5388381473884,
-    "SD_fwd_plus_2": 794.4843890119788
+    "SD_fwd_plus_2": 794.4843890119788,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11877,7 +12236,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 389.964320143025,
     "SD_fwd_mean": 525.019512514924,
     "SD_fwd_plus_1": 660.074704886823,
-    "SD_fwd_plus_2": 795.129897258722
+    "SD_fwd_plus_2": 795.129897258722,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11910,7 +12270,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 390.529845237733,
     "SD_fwd_mean": 525.780894247052,
     "SD_fwd_plus_1": 661.0319432563708,
-    "SD_fwd_plus_2": 796.2829922656897
+    "SD_fwd_plus_2": 796.2829922656897,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11943,7 +12304,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 392.6775116018839,
     "SD_fwd_mean": 528.6723555662251,
     "SD_fwd_plus_1": 664.6671995305661,
-    "SD_fwd_plus_2": 800.6620434949072
+    "SD_fwd_plus_2": 800.6620434949072,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -11976,7 +12338,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 394.5289814148168,
     "SD_fwd_mean": 531.1650394565502,
     "SD_fwd_plus_1": 667.8010974982836,
-    "SD_fwd_plus_2": 804.437155540017
+    "SD_fwd_plus_2": 804.437155540017,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12009,7 +12372,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 397.14863342063,
     "SD_fwd_mean": 534.6919478120283,
     "SD_fwd_plus_1": 672.2352622034266,
-    "SD_fwd_plus_2": 809.7785765948249
+    "SD_fwd_plus_2": 809.7785765948249,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12042,7 +12406,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 399.05678282308304,
     "SD_fwd_mean": 537.2609409668742,
     "SD_fwd_plus_1": 675.4650991106653,
-    "SD_fwd_plus_2": 813.6692572544563
+    "SD_fwd_plus_2": 813.6692572544563,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12075,7 +12440,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 400.87060295812586,
     "SD_fwd_mean": 539.7029360774542,
     "SD_fwd_plus_1": 678.5352691967825,
-    "SD_fwd_plus_2": 817.3676023161108
+    "SD_fwd_plus_2": 817.3676023161108,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12108,7 +12474,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 402.3853260007067,
     "SD_fwd_mean": 541.7422486820516,
     "SD_fwd_plus_1": 681.0991713633964,
-    "SD_fwd_plus_2": 820.4560940447412
+    "SD_fwd_plus_2": 820.4560940447412,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12141,7 +12508,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 405.9156458824916,
     "SD_fwd_mean": 546.4952138319827,
     "SD_fwd_plus_1": 687.074781781474,
-    "SD_fwd_plus_2": 827.6543497309652
+    "SD_fwd_plus_2": 827.6543497309652,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12174,7 +12542,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 412.91108754803855,
     "SD_fwd_mean": 555.9133661689069,
     "SD_fwd_plus_1": 698.9156447897753,
-    "SD_fwd_plus_2": 841.9179234106437
+    "SD_fwd_plus_2": 841.9179234106437,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12207,7 +12576,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 414.5608132394423,
     "SD_fwd_mean": 558.1344364913571,
     "SD_fwd_plus_1": 701.708059743272,
-    "SD_fwd_plus_2": 845.2816829951868
+    "SD_fwd_plus_2": 845.2816829951868,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12240,7 +12610,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 415.5612706730567,
     "SD_fwd_mean": 559.4813793960195,
     "SD_fwd_plus_1": 703.4014881189825,
-    "SD_fwd_plus_2": 847.3215968419453
+    "SD_fwd_plus_2": 847.3215968419453,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12273,7 +12644,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 417.14397860839983,
     "SD_fwd_mean": 561.6122219006944,
     "SD_fwd_plus_1": 706.0804651929889,
-    "SD_fwd_plus_2": 850.5487084852834
+    "SD_fwd_plus_2": 850.5487084852834,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12306,7 +12678,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 424.15487359856905,
     "SD_fwd_mean": 571.0511794665608,
     "SD_fwd_plus_1": 717.9474853345525,
-    "SD_fwd_plus_2": 864.8437912025443
+    "SD_fwd_plus_2": 864.8437912025443,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12339,7 +12712,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 425.9191169497219,
     "SD_fwd_mean": 573.4264280119668,
     "SD_fwd_plus_1": 720.9337390742116,
-    "SD_fwd_plus_2": 868.4410501364566
+    "SD_fwd_plus_2": 868.4410501364566,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12372,7 +12746,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 429.65489695507176,
     "SD_fwd_mean": 578.4560096838296,
     "SD_fwd_plus_1": 727.2571224125874,
-    "SD_fwd_plus_2": 876.0582351413452
+    "SD_fwd_plus_2": 876.0582351413452,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12405,7 +12780,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 443.71019158673545,
     "SD_fwd_mean": 597.3790330339228,
     "SD_fwd_plus_1": 751.0478744811102,
-    "SD_fwd_plus_2": 904.7167159282976
+    "SD_fwd_plus_2": 904.7167159282976,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12438,7 +12814,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 442.88558905327096,
     "SD_fwd_mean": 596.2688483381042,
     "SD_fwd_plus_1": 749.6521076229375,
-    "SD_fwd_plus_2": 903.0353669077708
+    "SD_fwd_plus_2": 903.0353669077708,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12471,7 +12848,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 442.956554540393,
     "SD_fwd_mean": 596.3643910929914,
     "SD_fwd_plus_1": 749.7722276455899,
-    "SD_fwd_plus_2": 903.1800641981882
+    "SD_fwd_plus_2": 903.1800641981882,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12504,7 +12882,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 437.97803168681054,
     "SD_fwd_mean": 589.6616711090873,
     "SD_fwd_plus_1": 741.3453105313639,
-    "SD_fwd_plus_2": 893.0289499536406
+    "SD_fwd_plus_2": 893.0289499536406,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12537,7 +12916,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 432.5097681295144,
     "SD_fwd_mean": 582.2995999685743,
     "SD_fwd_plus_1": 732.0894318076341,
-    "SD_fwd_plus_2": 881.879263646694
+    "SD_fwd_plus_2": 881.879263646694,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12570,7 +12950,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 436.4556567415318,
     "SD_fwd_mean": 587.6120565409083,
     "SD_fwd_plus_1": 738.7684563402846,
-    "SD_fwd_plus_2": 889.9248561396611
+    "SD_fwd_plus_2": 889.9248561396611,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12603,7 +12984,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 443.6517121975879,
     "SD_fwd_mean": 597.3003006504802,
     "SD_fwd_plus_1": 750.9488891033725,
-    "SD_fwd_plus_2": 904.5974775562648
+    "SD_fwd_plus_2": 904.5974775562648,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12636,7 +13018,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 446.4806044346749,
     "SD_fwd_mean": 601.1089147891479,
     "SD_fwd_plus_1": 755.737225143621,
-    "SD_fwd_plus_2": 910.365535498094
+    "SD_fwd_plus_2": 910.365535498094,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12669,7 +13052,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 449.1289749482506,
     "SD_fwd_mean": 604.6744876484456,
     "SD_fwd_plus_1": 760.2200003486406,
-    "SD_fwd_plus_2": 915.7655130488356
+    "SD_fwd_plus_2": 915.7655130488356,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12702,7 +13086,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 454.38562703327807,
     "SD_fwd_mean": 611.751660539877,
     "SD_fwd_plus_1": 769.1176940464758,
-    "SD_fwd_plus_2": 926.4837275530748
+    "SD_fwd_plus_2": 926.4837275530748,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12735,7 +13120,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 456.5163494837784,
     "SD_fwd_mean": 614.6203098097793,
     "SD_fwd_plus_1": 772.7242701357803,
-    "SD_fwd_plus_2": 930.8282304617812
+    "SD_fwd_plus_2": 930.8282304617812,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12768,7 +13154,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 455.9337130060318,
     "SD_fwd_mean": 613.8358905598137,
     "SD_fwd_plus_1": 771.7380681135958,
-    "SD_fwd_plus_2": 929.6402456673776
+    "SD_fwd_plus_2": 929.6402456673776,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12801,7 +13188,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 456.46321729558485,
     "SD_fwd_mean": 614.5487765076199,
     "SD_fwd_plus_1": 772.6343357196548,
-    "SD_fwd_plus_2": 930.71989493169
+    "SD_fwd_plus_2": 930.71989493169,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12834,7 +13222,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 457.91267006842736,
     "SD_fwd_mean": 616.5002139825459,
     "SD_fwd_plus_1": 775.0877578966645,
-    "SD_fwd_plus_2": 933.6753018107833
+    "SD_fwd_plus_2": 933.6753018107833,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12867,7 +13256,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 461.0431912620165,
     "SD_fwd_mean": 620.714919344239,
     "SD_fwd_plus_1": 780.3866474264615,
-    "SD_fwd_plus_2": 940.058375508684
+    "SD_fwd_plus_2": 940.058375508684,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12900,7 +13290,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 463.43119281843417,
     "SD_fwd_mean": 623.929950433687,
     "SD_fwd_plus_1": 784.4287080489399,
-    "SD_fwd_plus_2": 944.9274656641928
+    "SD_fwd_plus_2": 944.9274656641928,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12933,7 +13324,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 463.1172618323658,
     "SD_fwd_mean": 623.5072966554941,
     "SD_fwd_plus_1": 783.8973314786223,
-    "SD_fwd_plus_2": 944.2873663017504
+    "SD_fwd_plus_2": 944.2873663017504,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12966,7 +13358,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 465.9809073281127,
     "SD_fwd_mean": 627.3627000463508,
     "SD_fwd_plus_1": 788.7444927645889,
-    "SD_fwd_plus_2": 950.126285482827
+    "SD_fwd_plus_2": 950.126285482827,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -12999,7 +13392,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 468.0712702560982,
     "SD_fwd_mean": 630.1770121993901,
     "SD_fwd_plus_1": 792.282754142682,
-    "SD_fwd_plus_2": 954.388496085974
+    "SD_fwd_plus_2": 954.388496085974,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13032,7 +13426,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 469.756348408751,
     "SD_fwd_mean": 632.4456784966833,
     "SD_fwd_plus_1": 795.1350085846155,
-    "SD_fwd_plus_2": 957.8243386725478
+    "SD_fwd_plus_2": 957.8243386725478,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13065,7 +13460,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 471.8075400420722,
     "SD_fwd_mean": 635.2072532761554,
     "SD_fwd_plus_1": 798.6069665102386,
-    "SD_fwd_plus_2": 962.006679744322
+    "SD_fwd_plus_2": 962.006679744322,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13098,7 +13494,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 472.2798207436567,
     "SD_fwd_mean": 635.8430975596149,
     "SD_fwd_plus_1": 799.406374375573,
-    "SD_fwd_plus_2": 962.9696511915312
+    "SD_fwd_plus_2": 962.9696511915312,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13131,7 +13528,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 474.3044055614413,
     "SD_fwd_mean": 638.5688508636314,
     "SD_fwd_plus_1": 802.8332961658214,
-    "SD_fwd_plus_2": 967.0977414680116
+    "SD_fwd_plus_2": 967.0977414680116,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13164,7 +13562,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 474.68744756157054,
     "SD_fwd_mean": 639.084550669467,
     "SD_fwd_plus_1": 803.4816537773635,
-    "SD_fwd_plus_2": 967.87875688526
+    "SD_fwd_plus_2": 967.87875688526,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13197,7 +13596,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 475.0309576718523,
     "SD_fwd_mean": 639.5470276226866,
     "SD_fwd_plus_1": 804.0630975735208,
-    "SD_fwd_plus_2": 968.5791675243552
+    "SD_fwd_plus_2": 968.5791675243552,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13230,7 +13630,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 477.0170915467438,
     "SD_fwd_mean": 642.2210133822106,
     "SD_fwd_plus_1": 807.4249352176773,
-    "SD_fwd_plus_2": 972.628857053144
+    "SD_fwd_plus_2": 972.628857053144,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13263,7 +13664,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 478.04287232015554,
     "SD_fwd_mean": 643.6020497842237,
     "SD_fwd_plus_1": 809.1612272482919,
-    "SD_fwd_plus_2": 974.72040471236
+    "SD_fwd_plus_2": 974.72040471236,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13296,7 +13698,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 480.3493853129179,
     "SD_fwd_mean": 646.7073706162047,
     "SD_fwd_plus_1": 813.0653559194915,
-    "SD_fwd_plus_2": 979.4233412227782
+    "SD_fwd_plus_2": 979.4233412227782,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13329,7 +13732,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 482.19564568549663,
     "SD_fwd_mean": 649.1930408960686,
     "SD_fwd_plus_1": 816.1904361066407,
-    "SD_fwd_plus_2": 983.1878313172128
+    "SD_fwd_plus_2": 983.1878313172128,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13362,7 +13766,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 483.8220635062543,
     "SD_fwd_mean": 651.3827312018038,
     "SD_fwd_plus_1": 818.9433988973534,
-    "SD_fwd_plus_2": 986.504066592903
+    "SD_fwd_plus_2": 986.504066592903,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13395,7 +13800,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 499.8974570977709,
     "SD_fwd_mean": 673.0254684240402,
     "SD_fwd_plus_1": 846.1534797503097,
-    "SD_fwd_plus_2": 1019.2814910765792
+    "SD_fwd_plus_2": 1019.2814910765792,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13428,7 +13834,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 501.5382025302277,
     "SD_fwd_mean": 675.2344483809594,
     "SD_fwd_plus_1": 848.9306942316912,
-    "SD_fwd_plus_2": 1022.626940082423
+    "SD_fwd_plus_2": 1022.626940082423,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13461,7 +13868,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 502.8883695260524,
     "SD_fwd_mean": 677.0522147286644,
     "SD_fwd_plus_1": 851.2160599312764,
-    "SD_fwd_plus_2": 1025.3799051338883
+    "SD_fwd_plus_2": 1025.3799051338883,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13494,7 +13902,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 503.7151473742428,
     "SD_fwd_mean": 678.1653281095395,
     "SD_fwd_plus_1": 852.6155088448362,
-    "SD_fwd_plus_2": 1027.0656895801328
+    "SD_fwd_plus_2": 1027.0656895801328,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13527,7 +13936,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 504.7389252274917,
     "SD_fwd_mean": 679.5436679259597,
     "SD_fwd_plus_1": 854.3484106244275,
-    "SD_fwd_plus_2": 1029.1531533228954
+    "SD_fwd_plus_2": 1029.1531533228954,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13560,7 +13970,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 505.0086087019605,
     "SD_fwd_mean": 679.9067500824169,
     "SD_fwd_plus_1": 854.8048914628733,
-    "SD_fwd_plus_2": 1029.7030328433298
+    "SD_fwd_plus_2": 1029.7030328433298,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13593,7 +14004,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 506.5483704021236,
     "SD_fwd_mean": 681.9797729089983,
     "SD_fwd_plus_1": 857.4111754158729,
-    "SD_fwd_plus_2": 1032.8425779227475
+    "SD_fwd_plus_2": 1032.8425779227475,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13626,7 +14038,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 514.8854984754535,
     "SD_fwd_mean": 693.2042739485516,
     "SD_fwd_plus_1": 871.5230494216498,
-    "SD_fwd_plus_2": 1049.841824894748
+    "SD_fwd_plus_2": 1049.841824894748,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13659,7 +14072,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 516.4674535866068,
     "SD_fwd_mean": 695.3341029056563,
     "SD_fwd_plus_1": 874.2007522247059,
-    "SD_fwd_plus_2": 1053.0674015437553
+    "SD_fwd_plus_2": 1053.0674015437553,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13692,7 +14106,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 521.0274169354046,
     "SD_fwd_mean": 701.4733049064797,
     "SD_fwd_plus_1": 881.9191928775547,
-    "SD_fwd_plus_2": 1062.3650808486298
+    "SD_fwd_plus_2": 1062.3650808486298,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13725,7 +14140,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 521.1075419919301,
     "SD_fwd_mean": 701.5811794374157,
     "SD_fwd_plus_1": 882.0548168829013,
-    "SD_fwd_plus_2": 1062.528454328387
+    "SD_fwd_plus_2": 1062.528454328387,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13758,7 +14174,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 521.4785405591562,
     "SD_fwd_mean": 702.080664843766,
     "SD_fwd_plus_1": 882.6827891283758,
-    "SD_fwd_plus_2": 1063.2849134129856
+    "SD_fwd_plus_2": 1063.2849134129856,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13791,7 +14208,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 524.5132837569424,
     "SD_fwd_mean": 706.166421698971,
     "SD_fwd_plus_1": 887.8195596409996,
-    "SD_fwd_plus_2": 1069.472697583028
+    "SD_fwd_plus_2": 1069.472697583028,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13824,7 +14242,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 526.3556740751891,
     "SD_fwd_mean": 708.6468816200052,
     "SD_fwd_plus_1": 890.9380891648211,
-    "SD_fwd_plus_2": 1073.229296709637
+    "SD_fwd_plus_2": 1073.229296709637,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13857,7 +14276,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 533.9003008833109,
     "SD_fwd_mean": 718.8044167695141,
     "SD_fwd_plus_1": 903.7085326557172,
-    "SD_fwd_plus_2": 1088.6126485419204
+    "SD_fwd_plus_2": 1088.6126485419204,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13890,7 +14310,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 536.6175163775929,
     "SD_fwd_mean": 722.4626774885529,
     "SD_fwd_plus_1": 908.3078385995128,
-    "SD_fwd_plus_2": 1094.1529997104728
+    "SD_fwd_plus_2": 1094.1529997104728,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13923,7 +14344,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 540.6009295771129,
     "SD_fwd_mean": 727.8256544280598,
     "SD_fwd_plus_1": 915.0503792790066,
-    "SD_fwd_plus_2": 1102.2751041299534
+    "SD_fwd_plus_2": 1102.2751041299534,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13956,7 +14378,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 540.7667162220788,
     "SD_fwd_mean": 728.048857472609,
     "SD_fwd_plus_1": 915.3309987231391,
-    "SD_fwd_plus_2": 1102.6131399736694
+    "SD_fwd_plus_2": 1102.6131399736694,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -13989,7 +14412,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 542.9394041067924,
     "SD_fwd_mean": 730.974005941733,
     "SD_fwd_plus_1": 919.0086077766738,
-    "SD_fwd_plus_2": 1107.0432096116144
+    "SD_fwd_plus_2": 1107.0432096116144,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14022,7 +14446,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 550.6829822947759,
     "SD_fwd_mean": 741.3993947154681,
     "SD_fwd_plus_1": 932.1158071361604,
-    "SD_fwd_plus_2": 1122.8322195568526
+    "SD_fwd_plus_2": 1122.8322195568526,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14055,7 +14480,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 560.6233707118997,
     "SD_fwd_mean": 754.7824085231243,
     "SD_fwd_plus_1": 948.9414463343488,
-    "SD_fwd_plus_2": 1143.1004841455735
+    "SD_fwd_plus_2": 1143.1004841455735,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14088,7 +14514,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 559.9332004559946,
     "SD_fwd_mean": 753.8532136388982,
     "SD_fwd_plus_1": 947.7732268218016,
-    "SD_fwd_plus_2": 1141.693240004705
+    "SD_fwd_plus_2": 1141.693240004705,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14121,7 +14548,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 562.9323011430655,
     "SD_fwd_mean": 757.8909840178181,
     "SD_fwd_plus_1": 952.8496668925708,
-    "SD_fwd_plus_2": 1147.8083497673233
+    "SD_fwd_plus_2": 1147.8083497673233,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14154,7 +14582,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 562.8349179540116,
     "SD_fwd_mean": 757.7598743962367,
     "SD_fwd_plus_1": 952.6848308384616,
-    "SD_fwd_plus_2": 1147.6097872806868
+    "SD_fwd_plus_2": 1147.6097872806868,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14187,7 +14616,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 563.443382279441,
     "SD_fwd_mean": 758.5790663761658,
     "SD_fwd_plus_1": 953.7147504728904,
-    "SD_fwd_plus_2": 1148.8504345696151
+    "SD_fwd_plus_2": 1148.8504345696151,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14220,7 +14650,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 567.6442861707714,
     "SD_fwd_mean": 764.2348569170525,
     "SD_fwd_plus_1": 960.8254276633338,
-    "SD_fwd_plus_2": 1157.415998409615
+    "SD_fwd_plus_2": 1157.415998409615,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14253,7 +14684,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 566.5460426265512,
     "SD_fwd_mean": 762.7562619266246,
     "SD_fwd_plus_1": 958.966481226698,
-    "SD_fwd_plus_2": 1155.1767005267714
+    "SD_fwd_plus_2": 1155.1767005267714,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14286,7 +14718,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 567.757946322237,
     "SD_fwd_mean": 764.3878806534112,
     "SD_fwd_plus_1": 961.0178149845856,
-    "SD_fwd_plus_2": 1157.6477493157597
+    "SD_fwd_plus_2": 1157.6477493157597,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14319,7 +14752,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 571.6998087575683,
     "SD_fwd_mean": 769.6949166751671,
     "SD_fwd_plus_1": 967.6900245927658,
-    "SD_fwd_plus_2": 1165.6851325103646
+    "SD_fwd_plus_2": 1165.6851325103646,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14352,7 +14786,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 579.2889834553679,
     "SD_fwd_mean": 779.9124278535435,
     "SD_fwd_plus_1": 980.5358722517192,
-    "SD_fwd_plus_2": 1181.159316649895
+    "SD_fwd_plus_2": 1181.159316649895,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14385,7 +14820,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 581.5542158691185,
     "SD_fwd_mean": 782.9621715253854,
     "SD_fwd_plus_1": 984.3701271816524,
-    "SD_fwd_plus_2": 1185.7780828379196
+    "SD_fwd_plus_2": 1185.7780828379196,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14418,7 +14854,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 582.5201623713006,
     "SD_fwd_mean": 784.26265142956,
     "SD_fwd_plus_1": 986.0051404878196,
-    "SD_fwd_plus_2": 1187.7476295460792
+    "SD_fwd_plus_2": 1187.7476295460792,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14451,7 +14888,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 585.474605248941,
     "SD_fwd_mean": 788.2402977916762,
     "SD_fwd_plus_1": 991.0059903344114,
-    "SD_fwd_plus_2": 1193.7716828771463
+    "SD_fwd_plus_2": 1193.7716828771463,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14484,7 +14922,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 585.3480323406307,
     "SD_fwd_mean": 788.069889261495,
     "SD_fwd_plus_1": 990.7917461823592,
-    "SD_fwd_plus_2": 1193.5136031032237
+    "SD_fwd_plus_2": 1193.5136031032237,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14517,7 +14956,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 588.0218769420112,
     "SD_fwd_mean": 791.6697585742634,
     "SD_fwd_plus_1": 995.3176402065156,
-    "SD_fwd_plus_2": 1198.9655218387677
+    "SD_fwd_plus_2": 1198.9655218387677,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14550,7 +14990,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 589.2808565940676,
     "SD_fwd_mean": 793.3647569344888,
     "SD_fwd_plus_1": 997.44865727491,
-    "SD_fwd_plus_2": 1201.5325576153311
+    "SD_fwd_plus_2": 1201.5325576153311,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14583,7 +15024,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 590.9664786194073,
     "SD_fwd_mean": 795.6341554622918,
     "SD_fwd_plus_1": 1000.3018323051764,
-    "SD_fwd_plus_2": 1204.9695091480608
+    "SD_fwd_plus_2": 1204.9695091480608,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14616,7 +15058,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 594.1061767350644,
     "SD_fwd_mean": 799.8612159623955,
     "SD_fwd_plus_1": 1005.6162551897264,
-    "SD_fwd_plus_2": 1211.3712944170577
+    "SD_fwd_plus_2": 1211.3712944170577,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14649,7 +15092,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 599.252377244253,
     "SD_fwd_mean": 806.7896849096245,
     "SD_fwd_plus_1": 1014.326992574996,
-    "SD_fwd_plus_2": 1221.8643002403674
+    "SD_fwd_plus_2": 1221.8643002403674,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14682,7 +15126,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 606.325874694018,
     "SD_fwd_mean": 816.3129258602046,
     "SD_fwd_plus_1": 1026.2999770263912,
-    "SD_fwd_plus_2": 1236.2870281925775
+    "SD_fwd_plus_2": 1236.2870281925775,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14715,7 +15160,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 609.105454938368,
     "SD_fwd_mean": 820.0551499291898,
     "SD_fwd_plus_1": 1031.0048449200117,
-    "SD_fwd_plus_2": 1241.9545399108338
+    "SD_fwd_plus_2": 1241.9545399108338,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14748,7 +15194,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 611.1088606876264,
     "SD_fwd_mean": 822.7523892803681,
     "SD_fwd_plus_1": 1034.39591787311,
-    "SD_fwd_plus_2": 1246.0394464658516
+    "SD_fwd_plus_2": 1246.0394464658516,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14781,7 +15228,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 613.2385810681897,
     "SD_fwd_mean": 825.6196894364089,
     "SD_fwd_plus_1": 1038.000797804628,
-    "SD_fwd_plus_2": 1250.3819061728475
+    "SD_fwd_plus_2": 1250.3819061728475,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14814,7 +15262,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 611.3397469267719,
     "SD_fwd_mean": 823.0632376694673,
     "SD_fwd_plus_1": 1034.7867284121626,
-    "SD_fwd_plus_2": 1246.510219154858
+    "SD_fwd_plus_2": 1246.510219154858,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14847,7 +15296,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 608.9439734967489,
     "SD_fwd_mean": 819.8377430963596,
     "SD_fwd_plus_1": 1030.7315126959704,
-    "SD_fwd_plus_2": 1241.6252822955812
+    "SD_fwd_plus_2": 1241.6252822955812,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14880,7 +15330,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 611.9730987292435,
     "SD_fwd_mean": 823.9159363329298,
     "SD_fwd_plus_1": 1035.8587739366162,
-    "SD_fwd_plus_2": 1247.8016115403027
+    "SD_fwd_plus_2": 1247.8016115403027,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14913,7 +15364,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 609.2998434658197,
     "SD_fwd_mean": 820.3168604617939,
     "SD_fwd_plus_1": 1031.333877457768,
-    "SD_fwd_plus_2": 1242.3508944537425
+    "SD_fwd_plus_2": 1242.3508944537425,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14946,7 +15398,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 604.9942507420893,
     "SD_fwd_mean": 814.5201245140753,
     "SD_fwd_plus_1": 1024.0459982860611,
-    "SD_fwd_plus_2": 1233.5718720580471
+    "SD_fwd_plus_2": 1233.5718720580471,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -14979,7 +15432,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 611.7312508769525,
     "SD_fwd_mean": 823.5903300275478,
     "SD_fwd_plus_1": 1035.449409178143,
-    "SD_fwd_plus_2": 1247.3084883287383
+    "SD_fwd_plus_2": 1247.3084883287383,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15012,7 +15466,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 612.4298877066167,
     "SD_fwd_mean": 824.5309236890417,
     "SD_fwd_plus_1": 1036.6319596714666,
-    "SD_fwd_plus_2": 1248.7329956538915
+    "SD_fwd_plus_2": 1248.7329956538915,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15045,7 +15500,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 614.1605523241876,
     "SD_fwd_mean": 826.8609642771412,
     "SD_fwd_plus_1": 1039.5613762300948,
-    "SD_fwd_plus_2": 1252.2617881830483
+    "SD_fwd_plus_2": 1252.2617881830483,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15078,7 +15534,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 619.7281014913111,
     "SD_fwd_mean": 834.3567063197823,
     "SD_fwd_plus_1": 1048.9853111482537,
-    "SD_fwd_plus_2": 1263.613915976725
+    "SD_fwd_plus_2": 1263.613915976725,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15111,7 +15568,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 620.8518528724971,
     "SD_fwd_mean": 835.8696432010896,
     "SD_fwd_plus_1": 1050.887433529682,
-    "SD_fwd_plus_2": 1265.9052238582744
+    "SD_fwd_plus_2": 1265.9052238582744,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15144,7 +15602,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 612.6888314468509,
     "SD_fwd_mean": 824.8795466507954,
     "SD_fwd_plus_1": 1037.07026185474,
-    "SD_fwd_plus_2": 1249.2609770586844
+    "SD_fwd_plus_2": 1249.2609770586844,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15177,7 +15636,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 611.8047354023195,
     "SD_fwd_mean": 823.6892642317628,
     "SD_fwd_plus_1": 1035.573793061206,
-    "SD_fwd_plus_2": 1247.4583218906494
+    "SD_fwd_plus_2": 1247.4583218906494,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15210,7 +15670,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 609.2067777371126,
     "SD_fwd_mean": 820.1915635538621,
     "SD_fwd_plus_1": 1031.1763493706117,
-    "SD_fwd_plus_2": 1242.1611351873612
+    "SD_fwd_plus_2": 1242.1611351873612,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15243,7 +15704,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 609.9381311927756,
     "SD_fwd_mean": 821.1762044939036,
     "SD_fwd_plus_1": 1032.4142777950317,
-    "SD_fwd_plus_2": 1243.6523510961597
+    "SD_fwd_plus_2": 1243.6523510961597,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15276,7 +15738,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 607.2203119257714,
     "SD_fwd_mean": 817.5171308993172,
     "SD_fwd_plus_1": 1027.813949872863,
-    "SD_fwd_plus_2": 1238.1107688464087
+    "SD_fwd_plus_2": 1238.1107688464087,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15309,7 +15772,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 600.7378979119359,
     "SD_fwd_mean": 808.7896815669894,
     "SD_fwd_plus_1": 1016.8414652220432,
-    "SD_fwd_plus_2": 1224.8932488770968
+    "SD_fwd_plus_2": 1224.8932488770968,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15342,7 +15806,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 594.3645061573994,
     "SD_fwd_mean": 800.2090118513445,
     "SD_fwd_plus_1": 1006.0535175452897,
-    "SD_fwd_plus_2": 1211.8980232392346
+    "SD_fwd_plus_2": 1211.8980232392346,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15375,7 +15840,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 595.9790883047709,
     "SD_fwd_mean": 802.3827674698518,
     "SD_fwd_plus_1": 1008.7864466349328,
-    "SD_fwd_plus_2": 1215.1901258000137
+    "SD_fwd_plus_2": 1215.1901258000137,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15408,7 +15874,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 593.5841513255244,
     "SD_fwd_mean": 799.1583990330503,
     "SD_fwd_plus_1": 1004.732646740576,
-    "SD_fwd_plus_2": 1210.306894448102
+    "SD_fwd_plus_2": 1210.306894448102,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15441,7 +15908,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 594.7738432826026,
     "SD_fwd_mean": 800.7601134953348,
     "SD_fwd_plus_1": 1006.7463837080672,
-    "SD_fwd_plus_2": 1212.7326539207995
+    "SD_fwd_plus_2": 1212.7326539207995,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15474,7 +15942,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 593.8597720820621,
     "SD_fwd_mean": 799.5294747129569,
     "SD_fwd_plus_1": 1005.1991773438516,
-    "SD_fwd_plus_2": 1210.8688799747465
+    "SD_fwd_plus_2": 1210.8688799747465,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15507,7 +15976,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 593.7836447722609,
     "SD_fwd_mean": 799.4269824565724,
     "SD_fwd_plus_1": 1005.0703201408838,
-    "SD_fwd_plus_2": 1210.7136578251957
+    "SD_fwd_plus_2": 1210.7136578251957,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15540,7 +16010,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 595.3250311905481,
     "SD_fwd_mean": 801.5021926851119,
     "SD_fwd_plus_1": 1007.6793541796758,
-    "SD_fwd_plus_2": 1213.8565156742395
+    "SD_fwd_plus_2": 1213.8565156742395,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15573,7 +16044,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 592.5476903906414,
     "SD_fwd_mean": 797.7629836407561,
     "SD_fwd_plus_1": 1002.978276890871,
-    "SD_fwd_plus_2": 1208.1935701409857
+    "SD_fwd_plus_2": 1208.1935701409857,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15606,7 +16078,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 583.4683493922573,
     "SD_fwd_mean": 785.5392212637776,
     "SD_fwd_plus_1": 987.6100931352976,
-    "SD_fwd_plus_2": 1189.680965006818
+    "SD_fwd_plus_2": 1189.680965006818,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15639,7 +16112,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 576.9449748997499,
     "SD_fwd_mean": 776.756625731057,
     "SD_fwd_plus_1": 976.568276562364,
-    "SD_fwd_plus_2": 1176.379927393671
+    "SD_fwd_plus_2": 1176.379927393671,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15672,7 +16146,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 575.3869196192871,
     "SD_fwd_mean": 774.6589737624876,
     "SD_fwd_plus_1": 973.931027905688,
-    "SD_fwd_plus_2": 1173.2030820488883
+    "SD_fwd_plus_2": 1173.2030820488883,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15705,7 +16180,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 577.0677317682153,
     "SD_fwd_mean": 776.9218966235733,
     "SD_fwd_plus_1": 976.7760614789312,
-    "SD_fwd_plus_2": 1176.630226334289
+    "SD_fwd_plus_2": 1176.630226334289,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15738,7 +16214,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 578.0421958416331,
     "SD_fwd_mean": 778.2338439642979,
     "SD_fwd_plus_1": 978.4254920869628,
-    "SD_fwd_plus_2": 1178.6171402096277
+    "SD_fwd_plus_2": 1178.6171402096277,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15771,7 +16248,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 570.5723578101924,
     "SD_fwd_mean": 768.1769989678273,
     "SD_fwd_plus_1": 965.7816401254624,
-    "SD_fwd_plus_2": 1163.386281283097
+    "SD_fwd_plus_2": 1163.386281283097,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15804,7 +16282,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 569.0416059522444,
     "SD_fwd_mean": 766.1161063355311,
     "SD_fwd_plus_1": 963.1906067188178,
-    "SD_fwd_plus_2": 1160.2651071021044
+    "SD_fwd_plus_2": 1160.2651071021044,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15837,7 +16316,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 562.7408906949249,
     "SD_fwd_mean": 757.6332829539459,
     "SD_fwd_plus_1": 952.525675212967,
-    "SD_fwd_plus_2": 1147.418067471988
+    "SD_fwd_plus_2": 1147.418067471988,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15870,7 +16350,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 561.091535677475,
     "SD_fwd_mean": 755.4127116798663,
     "SD_fwd_plus_1": 949.7338876822575,
-    "SD_fwd_plus_2": 1144.0550636846488
+    "SD_fwd_plus_2": 1144.0550636846488,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15903,7 +16384,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 556.2739578804543,
     "SD_fwd_mean": 748.9266763790807,
     "SD_fwd_plus_1": 941.579394877707,
-    "SD_fwd_plus_2": 1134.2321133763337
+    "SD_fwd_plus_2": 1134.2321133763337,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15936,7 +16418,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 557.706134958493,
     "SD_fwd_mean": 750.8548551187948,
     "SD_fwd_plus_1": 944.0035752790968,
-    "SD_fwd_plus_2": 1137.1522954393988
+    "SD_fwd_plus_2": 1137.1522954393988,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -15969,7 +16452,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 557.6264597242798,
     "SD_fwd_mean": 750.7475861958054,
     "SD_fwd_plus_1": 943.8687126673308,
-    "SD_fwd_plus_2": 1136.9898391388565
+    "SD_fwd_plus_2": 1136.9898391388565,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16002,7 +16486,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 558.0334946151957,
     "SD_fwd_mean": 751.2955882795006,
     "SD_fwd_plus_1": 944.5576819438056,
-    "SD_fwd_plus_2": 1137.8197756081106
+    "SD_fwd_plus_2": 1137.8197756081106,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16035,7 +16520,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 582.4535856919973,
     "SD_fwd_mean": 784.1730174453539,
     "SD_fwd_plus_1": 985.8924491987108,
-    "SD_fwd_plus_2": 1187.6118809520674
+    "SD_fwd_plus_2": 1187.6118809520674,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16068,7 +16554,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 580.4834320349898,
     "SD_fwd_mean": 781.5205462854228,
     "SD_fwd_plus_1": 982.5576605358558,
-    "SD_fwd_plus_2": 1183.5947747862888
+    "SD_fwd_plus_2": 1183.5947747862888,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16101,7 +16588,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 577.2774574571974,
     "SD_fwd_mean": 777.2042559916069,
     "SD_fwd_plus_1": 977.1310545260166,
-    "SD_fwd_plus_2": 1177.0578530604262
+    "SD_fwd_plus_2": 1177.0578530604262,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16134,7 +16622,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 577.013338093632,
     "SD_fwd_mean": 776.8486649481649,
     "SD_fwd_plus_1": 976.6839918026976,
-    "SD_fwd_plus_2": 1176.5193186572303
+    "SD_fwd_plus_2": 1176.5193186572303,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16167,7 +16656,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 578.7404949045231,
     "SD_fwd_mean": 779.1739828812472,
     "SD_fwd_plus_1": 979.6074708579712,
-    "SD_fwd_plus_2": 1180.0409588346954
+    "SD_fwd_plus_2": 1180.0409588346954,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16200,7 +16690,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 575.1330888837027,
     "SD_fwd_mean": 774.3172345771975,
     "SD_fwd_plus_1": 973.5013802706924,
-    "SD_fwd_plus_2": 1172.6855259641873
+    "SD_fwd_plus_2": 1172.6855259641873,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16233,7 +16724,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 574.6078022051001,
     "SD_fwd_mean": 773.6100269130981,
     "SD_fwd_plus_1": 972.612251621096,
-    "SD_fwd_plus_2": 1171.6144763290938
+    "SD_fwd_plus_2": 1171.6144763290938,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16266,7 +16758,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 576.8147218945925,
     "SD_fwd_mean": 776.581262586946,
     "SD_fwd_plus_1": 976.3478032792996,
-    "SD_fwd_plus_2": 1176.1143439716532
+    "SD_fwd_plus_2": 1176.1143439716532,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16299,7 +16792,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 574.8637414437433,
     "SD_fwd_mean": 773.9546048330898,
     "SD_fwd_plus_1": 973.0454682224362,
-    "SD_fwd_plus_2": 1172.136331611783
+    "SD_fwd_plus_2": 1172.136331611783,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16332,7 +16826,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 574.7293560587806,
     "SD_fwd_mean": 773.7736781542685,
     "SD_fwd_plus_1": 972.8180002497566,
-    "SD_fwd_plus_2": 1171.8623223452446
+    "SD_fwd_plus_2": 1171.8623223452446,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16365,7 +16860,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 575.3047022584054,
     "SD_fwd_mean": 774.5482823056011,
     "SD_fwd_plus_1": 973.7918623527968,
-    "SD_fwd_plus_2": 1173.0354423999925
+    "SD_fwd_plus_2": 1173.0354423999925,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16398,7 +16894,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 579.8935639826681,
     "SD_fwd_mean": 780.7263909709967,
     "SD_fwd_plus_1": 981.5592179593256,
-    "SD_fwd_plus_2": 1182.392044947654
+    "SD_fwd_plus_2": 1182.392044947654,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16431,7 +16928,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 580.9313823797879,
     "SD_fwd_mean": 782.1236339514187,
     "SD_fwd_plus_1": 983.3158855230496,
-    "SD_fwd_plus_2": 1184.5081370946805
+    "SD_fwd_plus_2": 1184.5081370946805,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16464,7 +16962,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 580.941615310527,
     "SD_fwd_mean": 782.1374108228675,
     "SD_fwd_plus_1": 983.3332063352082,
-    "SD_fwd_plus_2": 1184.529001847549
+    "SD_fwd_plus_2": 1184.529001847549,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16497,7 +16996,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 566.7975089612075,
     "SD_fwd_mean": 763.0948178549895,
     "SD_fwd_plus_1": 959.3921267487714,
-    "SD_fwd_plus_2": 1155.6894356425532
+    "SD_fwd_plus_2": 1155.6894356425532,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16530,7 +17030,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 568.4845762428206,
     "SD_fwd_mean": 765.3661621704066,
     "SD_fwd_plus_1": 962.2477480979926,
-    "SD_fwd_plus_2": 1159.1293340255786
+    "SD_fwd_plus_2": 1159.1293340255786,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16563,7 +17064,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 565.7612344573192,
     "SD_fwd_mean": 761.6996534597865,
     "SD_fwd_plus_1": 957.6380724622538,
-    "SD_fwd_plus_2": 1153.5764914647211
+    "SD_fwd_plus_2": 1153.5764914647211,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16596,7 +17098,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 565.3310784447374,
     "SD_fwd_mean": 761.1205227845794,
     "SD_fwd_plus_1": 956.9099671244217,
-    "SD_fwd_plus_2": 1152.6994114642634
+    "SD_fwd_plus_2": 1152.6994114642634,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16629,7 +17132,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 571.1742777688152,
     "SD_fwd_mean": 768.9873800897034,
     "SD_fwd_plus_1": 966.8004824105916,
-    "SD_fwd_plus_2": 1164.6135847314797
+    "SD_fwd_plus_2": 1164.6135847314797,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16662,7 +17166,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 561.8449043253652,
     "SD_fwd_mean": 756.4269922687014,
     "SD_fwd_plus_1": 951.0090802120376,
-    "SD_fwd_plus_2": 1145.5911681553737
+    "SD_fwd_plus_2": 1145.5911681553737,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16695,7 +17200,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 560.5896207155461,
     "SD_fwd_mean": 754.7369699901157,
     "SD_fwd_plus_1": 948.8843192646854,
-    "SD_fwd_plus_2": 1143.031668539255
+    "SD_fwd_plus_2": 1143.031668539255,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16728,7 +17234,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 566.5784541714168,
     "SD_fwd_mean": 762.7998984661904,
     "SD_fwd_plus_1": 959.021342760964,
-    "SD_fwd_plus_2": 1155.2427870557376
+    "SD_fwd_plus_2": 1155.2427870557376,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16761,7 +17268,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 571.2942544818252,
     "SD_fwd_mean": 769.1489079837286,
     "SD_fwd_plus_1": 967.003561485632,
-    "SD_fwd_plus_2": 1164.8582149875351
+    "SD_fwd_plus_2": 1164.8582149875351,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16794,7 +17302,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 573.3927768908093,
     "SD_fwd_mean": 771.9742054667454,
     "SD_fwd_plus_1": 970.5556340426816,
-    "SD_fwd_plus_2": 1169.1370626186176
+    "SD_fwd_plus_2": 1169.1370626186176,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16827,7 +17336,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 576.3211248195084,
     "SD_fwd_mean": 775.9167194932488,
     "SD_fwd_plus_1": 975.5123141669892,
-    "SD_fwd_plus_2": 1175.1079088407296
+    "SD_fwd_plus_2": 1175.1079088407296,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16860,7 +17370,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 576.7202441841497,
     "SD_fwd_mean": 776.4540646898104,
     "SD_fwd_plus_1": 976.1878851954708,
-    "SD_fwd_plus_2": 1175.9217057011315
+    "SD_fwd_plus_2": 1175.9217057011315,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16893,7 +17404,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 587.0918794177586,
     "SD_fwd_mean": 790.417677751474,
     "SD_fwd_plus_1": 993.7434760851894,
-    "SD_fwd_plus_2": 1197.0692744189048
+    "SD_fwd_plus_2": 1197.0692744189048,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16926,7 +17438,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 585.3664946336445,
     "SD_fwd_mean": 788.0947455459736,
     "SD_fwd_plus_1": 990.8229964583028,
-    "SD_fwd_plus_2": 1193.551247370632
+    "SD_fwd_plus_2": 1193.551247370632,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16959,7 +17472,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 579.1077026896219,
     "SD_fwd_mean": 779.6683646550812,
     "SD_fwd_plus_1": 980.2290266205404,
-    "SD_fwd_plus_2": 1180.7896885859998
+    "SD_fwd_plus_2": 1180.7896885859998,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -16992,7 +17506,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 580.7233281376845,
     "SD_fwd_mean": 781.8435248975295,
     "SD_fwd_plus_1": 982.9637216573744,
-    "SD_fwd_plus_2": 1184.0839184172196
+    "SD_fwd_plus_2": 1184.0839184172196,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17025,7 +17540,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 580.5104292066301,
     "SD_fwd_mean": 781.5568933078598,
     "SD_fwd_plus_1": 982.6033574090894,
-    "SD_fwd_plus_2": 1183.649821510319
+    "SD_fwd_plus_2": 1183.649821510319,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17058,7 +17574,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 581.5917112236131,
     "SD_fwd_mean": 783.0126525353688,
     "SD_fwd_plus_1": 984.4335938471248,
-    "SD_fwd_plus_2": 1185.8545351588805
+    "SD_fwd_plus_2": 1185.8545351588805,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17091,7 +17608,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 581.5313057703129,
     "SD_fwd_mean": 782.9313270396586,
     "SD_fwd_plus_1": 984.3313483090044,
-    "SD_fwd_plus_2": 1185.7313695783505
+    "SD_fwd_plus_2": 1185.7313695783505,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17124,7 +17642,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 586.0457062533701,
     "SD_fwd_mean": 789.0091865218866,
     "SD_fwd_plus_1": 991.9726667904032,
-    "SD_fwd_plus_2": 1194.9361470589197
+    "SD_fwd_plus_2": 1194.9361470589197,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17157,7 +17676,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 587.0045837608574,
     "SD_fwd_mean": 790.3001492472915,
     "SD_fwd_plus_1": 993.5957147337256,
-    "SD_fwd_plus_2": 1196.8912802201598
+    "SD_fwd_plus_2": 1196.8912802201598,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17190,7 +17710,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 591.645895659299,
     "SD_fwd_mean": 796.5488730009307,
     "SD_fwd_plus_1": 1001.4518503425626,
-    "SD_fwd_plus_2": 1206.3548276841943
+    "SD_fwd_plus_2": 1206.3548276841943,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17223,7 +17744,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 592.1221552323054,
     "SD_fwd_mean": 797.1900741466119,
     "SD_fwd_plus_1": 1002.2579930609182,
-    "SD_fwd_plus_2": 1207.3259119752247
+    "SD_fwd_plus_2": 1207.3259119752247,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17256,7 +17778,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 595.4282787846488,
     "SD_fwd_mean": 801.6411977138365,
     "SD_fwd_plus_1": 1007.8541166430244,
-    "SD_fwd_plus_2": 1214.067035572212
+    "SD_fwd_plus_2": 1214.067035572212,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17289,7 +17812,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 596.5570476939515,
     "SD_fwd_mean": 803.1608898289685,
     "SD_fwd_plus_1": 1009.7647319639856,
-    "SD_fwd_plus_2": 1216.3685740990024
+    "SD_fwd_plus_2": 1216.3685740990024,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17322,7 +17846,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 597.836004101423,
     "SD_fwd_mean": 804.8827834353689,
     "SD_fwd_plus_1": 1011.9295627693148,
-    "SD_fwd_plus_2": 1218.9763421032603
+    "SD_fwd_plus_2": 1218.9763421032603,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17355,7 +17880,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 599.8298632250484,
     "SD_fwd_mean": 807.5671699062267,
     "SD_fwd_plus_1": 1015.304476587405,
-    "SD_fwd_plus_2": 1223.0417832685832
+    "SD_fwd_plus_2": 1223.0417832685832,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17388,7 +17914,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 598.3659622609551,
     "SD_fwd_mean": 805.5962804406046,
     "SD_fwd_plus_1": 1012.826598620254,
-    "SD_fwd_plus_2": 1220.0569167999035
+    "SD_fwd_plus_2": 1220.0569167999035,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17421,7 +17948,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 597.9922535238378,
     "SD_fwd_mean": 805.0931462592212,
     "SD_fwd_plus_1": 1012.1940389946044,
-    "SD_fwd_plus_2": 1219.294931729988
+    "SD_fwd_plus_2": 1219.294931729988,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17454,7 +17982,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 599.2019006351346,
     "SD_fwd_mean": 806.7217268854057,
     "SD_fwd_plus_1": 1014.2415531356768,
-    "SD_fwd_plus_2": 1221.7613793859475
+    "SD_fwd_plus_2": 1221.7613793859475,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17487,7 +18016,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 603.6468608594575,
     "SD_fwd_mean": 812.7060970689813,
     "SD_fwd_plus_1": 1021.765333278505,
-    "SD_fwd_plus_2": 1230.8245694880286
+    "SD_fwd_plus_2": 1230.8245694880286,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17520,7 +18050,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 608.940167202248,
     "SD_fwd_mean": 819.8326185791151,
     "SD_fwd_plus_1": 1030.7250699559822,
-    "SD_fwd_plus_2": 1241.6175213328493
+    "SD_fwd_plus_2": 1241.6175213328493,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17553,7 +18084,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 611.4416574336037,
     "SD_fwd_mean": 823.2004425414344,
     "SD_fwd_plus_1": 1034.9592276492651,
-    "SD_fwd_plus_2": 1246.7180127570955
+    "SD_fwd_plus_2": 1246.7180127570955,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17586,7 +18118,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 615.0813624180967,
     "SD_fwd_mean": 828.1006758139445,
     "SD_fwd_plus_1": 1041.1199892097925,
-    "SD_fwd_plus_2": 1254.13930260564
+    "SD_fwd_plus_2": 1254.13930260564,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17619,7 +18152,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 624.1429949718528,
     "SD_fwd_mean": 840.3005968329174,
     "SD_fwd_plus_1": 1056.458198693982,
-    "SD_fwd_plus_2": 1272.6158005550467
+    "SD_fwd_plus_2": 1272.6158005550467,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17652,7 +18186,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 624.7652159786167,
     "SD_fwd_mean": 841.1383098050374,
     "SD_fwd_plus_1": 1057.511403631458,
-    "SD_fwd_plus_2": 1273.8844974578788
+    "SD_fwd_plus_2": 1273.8844974578788,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17685,7 +18220,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 636.3527308347456,
     "SD_fwd_mean": 856.738894491331,
     "SD_fwd_plus_1": 1077.125058147917,
-    "SD_fwd_plus_2": 1297.5112218045022
+    "SD_fwd_plus_2": 1297.5112218045022,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17718,7 +18254,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 637.2682361110966,
     "SD_fwd_mean": 857.9714640087639,
     "SD_fwd_plus_1": 1078.6746919064312,
-    "SD_fwd_plus_2": 1299.3779198040984
+    "SD_fwd_plus_2": 1299.3779198040984,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17751,7 +18288,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 651.9349076882805,
     "SD_fwd_mean": 877.7176006779991,
     "SD_fwd_plus_1": 1103.5002936677176,
-    "SD_fwd_plus_2": 1329.2829866574364
+    "SD_fwd_plus_2": 1329.2829866574364,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17784,7 +18322,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 658.2964666106262,
     "SD_fwd_mean": 886.2823395315945,
     "SD_fwd_plus_1": 1114.268212452563,
-    "SD_fwd_plus_2": 1342.254085373531
+    "SD_fwd_plus_2": 1342.254085373531,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17817,7 +18356,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 657.3040514763245,
     "SD_fwd_mean": 884.9462241920363,
     "SD_fwd_plus_1": 1112.588396907748,
-    "SD_fwd_plus_2": 1340.2305696234598
+    "SD_fwd_plus_2": 1340.2305696234598,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17850,7 +18390,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 675.1475479202339,
     "SD_fwd_mean": 908.9694061105952,
     "SD_fwd_plus_1": 1142.7912643009568,
-    "SD_fwd_plus_2": 1376.613122491318
+    "SD_fwd_plus_2": 1376.613122491318,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17883,7 +18424,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 677.5598363561043,
     "SD_fwd_mean": 912.2171352827964,
     "SD_fwd_plus_1": 1146.8744342094883,
-    "SD_fwd_plus_2": 1381.5317331361805
+    "SD_fwd_plus_2": 1381.5317331361805,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17916,7 +18458,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 672.8260444173097,
     "SD_fwd_mean": 905.843903149299,
     "SD_fwd_plus_1": 1138.8617618812882,
-    "SD_fwd_plus_2": 1371.8796206132774
+    "SD_fwd_plus_2": 1371.8796206132774,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17949,7 +18492,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 677.4843696714435,
     "SD_fwd_mean": 912.115532443908,
     "SD_fwd_plus_1": 1146.7466952163725,
-    "SD_fwd_plus_2": 1381.377857988837
+    "SD_fwd_plus_2": 1381.377857988837,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -17982,7 +18526,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 682.1689733859098,
     "SD_fwd_mean": 918.4225411404796,
     "SD_fwd_plus_1": 1154.6761088950493,
-    "SD_fwd_plus_2": 1390.929676649619
+    "SD_fwd_plus_2": 1390.929676649619,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18015,7 +18560,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 694.0149280685598,
     "SD_fwd_mean": 934.3710703558646,
     "SD_fwd_plus_1": 1174.7272126431694,
-    "SD_fwd_plus_2": 1415.0833549304743
+    "SD_fwd_plus_2": 1415.0833549304743,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18048,7 +18594,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 704.3276806863088,
     "SD_fwd_mean": 948.2554081590558,
     "SD_fwd_plus_1": 1192.183135631803,
-    "SD_fwd_plus_2": 1436.11086310455
+    "SD_fwd_plus_2": 1436.11086310455,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18081,7 +18628,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 708.3408659304891,
     "SD_fwd_mean": 953.6584680076052,
     "SD_fwd_plus_1": 1198.9760700847214,
-    "SD_fwd_plus_2": 1444.2936721618375
+    "SD_fwd_plus_2": 1444.2936721618375,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18114,7 +18662,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 717.8934954070668,
     "SD_fwd_mean": 966.519431464952,
     "SD_fwd_plus_1": 1215.1453675228372,
-    "SD_fwd_plus_2": 1463.7713035807224
+    "SD_fwd_plus_2": 1463.7713035807224,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18147,7 +18696,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 729.3883381836399,
     "SD_fwd_mean": 981.9952492238144,
     "SD_fwd_plus_1": 1234.6021602639887,
-    "SD_fwd_plus_2": 1487.2090713041632
+    "SD_fwd_plus_2": 1487.2090713041632,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18180,7 +18730,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 731.217650531622,
     "SD_fwd_mean": 984.4581019197298,
     "SD_fwd_plus_1": 1237.6985533078375,
-    "SD_fwd_plus_2": 1490.9390046959454
+    "SD_fwd_plus_2": 1490.9390046959454,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18213,7 +18764,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 750.1428442282395,
     "SD_fwd_mean": 1009.9376021088868,
     "SD_fwd_plus_1": 1269.732359989534,
-    "SD_fwd_plus_2": 1529.527117870181
+    "SD_fwd_plus_2": 1529.527117870181,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18246,7 +18798,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 752.8737629056699,
     "SD_fwd_mean": 1013.6143117940612,
     "SD_fwd_plus_1": 1274.354860682453,
-    "SD_fwd_plus_2": 1535.095409570844
+    "SD_fwd_plus_2": 1535.095409570844,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18279,7 +18832,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 754.6220531736404,
     "SD_fwd_mean": 1015.9680822720574,
     "SD_fwd_plus_1": 1277.3141113704744,
-    "SD_fwd_plus_2": 1538.6601404688913
+    "SD_fwd_plus_2": 1538.6601404688913,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18312,7 +18866,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 755.3592716877761,
     "SD_fwd_mean": 1016.960619498967,
     "SD_fwd_plus_1": 1278.561967310158,
-    "SD_fwd_plus_2": 1540.1633151213491
+    "SD_fwd_plus_2": 1540.1633151213491,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18345,7 +18900,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 755.9554075487151,
     "SD_fwd_mean": 1017.7632133336753,
     "SD_fwd_plus_1": 1279.5710191186351,
-    "SD_fwd_plus_2": 1541.3788249035952
+    "SD_fwd_plus_2": 1541.3788249035952,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18378,7 +18934,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 769.038838372145,
     "SD_fwd_mean": 1035.3777901503963,
     "SD_fwd_plus_1": 1301.7167419286482,
-    "SD_fwd_plus_2": 1568.0556937068998
+    "SD_fwd_plus_2": 1568.0556937068998,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18411,7 +18968,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 771.5056661261748,
     "SD_fwd_mean": 1038.6989470818924,
     "SD_fwd_plus_1": 1305.8922280376098,
-    "SD_fwd_plus_2": 1573.0855089933273
+    "SD_fwd_plus_2": 1573.0855089933273,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18444,7 +19002,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 769.4920068779627,
     "SD_fwd_mean": 1035.9879031677217,
     "SD_fwd_plus_1": 1302.4837994574802,
-    "SD_fwd_plus_2": 1568.979695747239
+    "SD_fwd_plus_2": 1568.979695747239,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18477,7 +19036,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 780.9489742668061,
     "SD_fwd_mean": 1051.4127282675763,
     "SD_fwd_plus_1": 1321.8764822683463,
-    "SD_fwd_plus_2": 1592.3402362691163
+    "SD_fwd_plus_2": 1592.3402362691163,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18510,7 +19070,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 782.6971222851868,
     "SD_fwd_mean": 1053.7663072311018,
     "SD_fwd_plus_1": 1324.835492177017,
-    "SD_fwd_plus_2": 1595.904677122932
+    "SD_fwd_plus_2": 1595.904677122932,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18543,7 +19104,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 798.0449204847394,
     "SD_fwd_mean": 1074.429463096108,
     "SD_fwd_plus_1": 1350.8140057074768,
-    "SD_fwd_plus_2": 1627.1985483188455
+    "SD_fwd_plus_2": 1627.1985483188455,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18576,7 +19138,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 802.7350535573186,
     "SD_fwd_mean": 1080.743916117073,
     "SD_fwd_plus_1": 1358.7527786768271,
-    "SD_fwd_plus_2": 1636.761641236582
+    "SD_fwd_plus_2": 1636.761641236582,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18609,7 +19172,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 803.1149285804977,
     "SD_fwd_mean": 1081.2553521361758,
     "SD_fwd_plus_1": 1359.395775691854,
-    "SD_fwd_plus_2": 1637.5361992475323
+    "SD_fwd_plus_2": 1637.5361992475323,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18642,7 +19206,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 829.9571815080687,
     "SD_fwd_mean": 1117.393803319779,
     "SD_fwd_plus_1": 1404.830425131489,
-    "SD_fwd_plus_2": 1692.2670469431991
+    "SD_fwd_plus_2": 1692.2670469431991,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18675,7 +19240,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 834.1144054555355,
     "SD_fwd_mean": 1122.9907863707251,
     "SD_fwd_plus_1": 1411.867167285915,
-    "SD_fwd_plus_2": 1700.7435482011049
+    "SD_fwd_plus_2": 1700.7435482011049,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18708,7 +19274,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 837.3270727424452,
     "SD_fwd_mean": 1127.3160872398596,
     "SD_fwd_plus_1": 1417.305101737274,
-    "SD_fwd_plus_2": 1707.2941162346883
+    "SD_fwd_plus_2": 1707.2941162346883,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18741,7 +19308,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 838.0154994403968,
     "SD_fwd_mean": 1128.2429347248506,
     "SD_fwd_plus_1": 1418.4703700093044,
-    "SD_fwd_plus_2": 1708.6978052937582
+    "SD_fwd_plus_2": 1708.6978052937582,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18774,7 +19342,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 845.1307310767714,
     "SD_fwd_mean": 1137.8223635397485,
     "SD_fwd_plus_1": 1430.5139960027257,
-    "SD_fwd_plus_2": 1723.2056284657028
+    "SD_fwd_plus_2": 1723.2056284657028,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18807,7 +19376,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 850.6411247469216,
     "SD_fwd_mean": 1145.2411555907918,
     "SD_fwd_plus_1": 1439.841186434662,
-    "SD_fwd_plus_2": 1734.441217278532
+    "SD_fwd_plus_2": 1734.441217278532,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18840,7 +19410,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 847.6095910041686,
     "SD_fwd_mean": 1141.159719711712,
     "SD_fwd_plus_1": 1434.7098484192552,
-    "SD_fwd_plus_2": 1728.2599771267985
+    "SD_fwd_plus_2": 1728.2599771267985,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18873,7 +19444,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 846.6122423750827,
     "SD_fwd_mean": 1139.8169622746775,
     "SD_fwd_plus_1": 1433.0216821742724,
-    "SD_fwd_plus_2": 1726.2264020738671
+    "SD_fwd_plus_2": 1726.2264020738671,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18906,7 +19478,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 855.595837079571,
     "SD_fwd_mean": 1151.9118188263033,
     "SD_fwd_plus_1": 1448.2278005730354,
-    "SD_fwd_plus_2": 1744.5437823197676
+    "SD_fwd_plus_2": 1744.5437823197676,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18939,7 +19512,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 856.2087812668634,
     "SD_fwd_mean": 1152.737042165436,
     "SD_fwd_plus_1": 1449.2653030640088,
-    "SD_fwd_plus_2": 1745.7935639625814
+    "SD_fwd_plus_2": 1745.7935639625814,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -18972,7 +19546,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 858.3630975857811,
     "SD_fwd_mean": 1155.6374564985892,
     "SD_fwd_plus_1": 1452.9118154113974,
-    "SD_fwd_plus_2": 1750.1861743242052
+    "SD_fwd_plus_2": 1750.1861743242052,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19005,7 +19580,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 858.4438227371469,
     "SD_fwd_mean": 1155.746138953441,
     "SD_fwd_plus_1": 1453.048455169735,
-    "SD_fwd_plus_2": 1750.350771386029
+    "SD_fwd_plus_2": 1750.350771386029,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19038,7 +19614,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 857.6178707503715,
     "SD_fwd_mean": 1154.6341374521278,
     "SD_fwd_plus_1": 1451.6504041538842,
-    "SD_fwd_plus_2": 1748.6666708556406
+    "SD_fwd_plus_2": 1748.6666708556406,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19071,7 +19648,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 857.9465144512085,
     "SD_fwd_mean": 1155.0765993561845,
     "SD_fwd_plus_1": 1452.20668426116,
-    "SD_fwd_plus_2": 1749.336769166136
+    "SD_fwd_plus_2": 1749.336769166136,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19104,7 +19682,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 871.5599803633703,
     "SD_fwd_mean": 1173.4047767500042,
     "SD_fwd_plus_1": 1475.249573136638,
-    "SD_fwd_plus_2": 1777.094369523272
+    "SD_fwd_plus_2": 1777.094369523272,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19137,7 +19716,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 873.3542361649353,
     "SD_fwd_mean": 1175.8204318692192,
     "SD_fwd_plus_1": 1478.2866275735032,
-    "SD_fwd_plus_2": 1780.7528232777872
+    "SD_fwd_plus_2": 1780.7528232777872,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19170,7 +19750,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 866.5187716634957,
     "SD_fwd_mean": 1166.6176611156216,
     "SD_fwd_plus_1": 1466.7165505677472,
-    "SD_fwd_plus_2": 1766.815440019873
+    "SD_fwd_plus_2": 1766.815440019873,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19203,7 +19784,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 862.5572424892971,
     "SD_fwd_mean": 1161.2841472313548,
     "SD_fwd_plus_1": 1460.0110519734128,
-    "SD_fwd_plus_2": 1758.7379567154703
+    "SD_fwd_plus_2": 1758.7379567154703,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19236,7 +19818,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 883.3196950005815,
     "SD_fwd_mean": 1189.2371986594724,
     "SD_fwd_plus_1": 1495.154702318363,
-    "SD_fwd_plus_2": 1801.0722059772538
+    "SD_fwd_plus_2": 1801.0722059772538,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19269,7 +19852,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 884.6197031481018,
     "SD_fwd_mean": 1190.9874347929376,
     "SD_fwd_plus_1": 1497.3551664377733,
-    "SD_fwd_plus_2": 1803.7228980826087
+    "SD_fwd_plus_2": 1803.7228980826087,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19302,7 +19886,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 897.6565753048775,
     "SD_fwd_mean": 1208.539328417358,
     "SD_fwd_plus_1": 1519.422081529838,
-    "SD_fwd_plus_2": 1830.3048346423184
+    "SD_fwd_plus_2": 1830.3048346423184,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19335,7 +19920,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 898.6063451887046,
     "SD_fwd_mean": 1209.8180293026733,
     "SD_fwd_plus_1": 1521.0297134166417,
-    "SD_fwd_plus_2": 1832.24139753061
+    "SD_fwd_plus_2": 1832.24139753061,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19368,7 +19954,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 901.9203818080688,
     "SD_fwd_mean": 1214.2798064460717,
     "SD_fwd_plus_1": 1526.6392310840747,
-    "SD_fwd_plus_2": 1838.9986557220775
+    "SD_fwd_plus_2": 1838.9986557220775,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19401,7 +19988,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 904.7016786177234,
     "SD_fwd_mean": 1218.024341573359,
     "SD_fwd_plus_1": 1531.3470045289946,
-    "SD_fwd_plus_2": 1844.66966748463
+    "SD_fwd_plus_2": 1844.66966748463,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19434,7 +20022,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 905.4267652029804,
     "SD_fwd_mean": 1219.0005452562575,
     "SD_fwd_plus_1": 1532.574325309535,
-    "SD_fwd_plus_2": 1846.148105362812
+    "SD_fwd_plus_2": 1846.148105362812,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19467,7 +20056,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 910.7647202955088,
     "SD_fwd_mean": 1226.1871785858862,
     "SD_fwd_plus_1": 1541.6096368762635,
-    "SD_fwd_plus_2": 1857.0320951666413
+    "SD_fwd_plus_2": 1857.0320951666413,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19500,7 +20090,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 913.908408244874,
     "SD_fwd_mean": 1230.4196107070338,
     "SD_fwd_plus_1": 1546.9308131691937,
-    "SD_fwd_plus_2": 1863.4420156313531
+    "SD_fwd_plus_2": 1863.4420156313531,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19533,7 +20124,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 942.5140330010372,
     "SD_fwd_mean": 1268.9321370816451,
     "SD_fwd_plus_1": 1595.350241162253,
-    "SD_fwd_plus_2": 1921.768345242861
+    "SD_fwd_plus_2": 1921.768345242861,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19566,7 +20158,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 947.1520307025232,
     "SD_fwd_mean": 1275.1763988422758,
     "SD_fwd_plus_1": 1603.2007669820289,
-    "SD_fwd_plus_2": 1931.2251351217812
+    "SD_fwd_plus_2": 1931.2251351217812,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19599,7 +20192,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 945.3437197371152,
     "SD_fwd_mean": 1272.7418208757952,
     "SD_fwd_plus_1": 1600.1399220144751,
-    "SD_fwd_plus_2": 1927.538023153155
+    "SD_fwd_plus_2": 1927.538023153155,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19632,7 +20226,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 953.7945354315764,
     "SD_fwd_mean": 1284.119382634861,
     "SD_fwd_plus_1": 1614.444229838146,
-    "SD_fwd_plus_2": 1944.7690770414308
+    "SD_fwd_plus_2": 1944.7690770414308,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19665,7 +20260,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 978.9075707067594,
     "SD_fwd_mean": 1317.92974131873,
     "SD_fwd_plus_1": 1656.9519119307006,
-    "SD_fwd_plus_2": 1995.974082542671
+    "SD_fwd_plus_2": 1995.974082542671,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19698,7 +20294,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 987.6041004715212,
     "SD_fwd_mean": 1329.6381145770636,
     "SD_fwd_plus_1": 1671.6721286826055,
-    "SD_fwd_plus_2": 2013.706142788148
+    "SD_fwd_plus_2": 2013.706142788148,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19731,7 +20328,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1001.454799765006,
     "SD_fwd_mean": 1348.2856856891822,
     "SD_fwd_plus_1": 1695.1165716133585,
-    "SD_fwd_plus_2": 2041.9474575375348
+    "SD_fwd_plus_2": 2041.9474575375348,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19764,7 +20362,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1015.270879109924,
     "SD_fwd_mean": 1366.8866470280966,
     "SD_fwd_plus_1": 1718.502414946269,
-    "SD_fwd_plus_2": 2070.1181828644417
+    "SD_fwd_plus_2": 2070.1181828644417,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19797,7 +20396,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1019.3038533530192,
     "SD_fwd_mean": 1372.3163493411662,
     "SD_fwd_plus_1": 1725.3288453293128,
-    "SD_fwd_plus_2": 2078.3413413174594
+    "SD_fwd_plus_2": 2078.3413413174594,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19830,7 +20430,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1033.018857811098,
     "SD_fwd_mean": 1390.7812308259115,
     "SD_fwd_plus_1": 1748.5436038407256,
-    "SD_fwd_plus_2": 2106.3059768555395
+    "SD_fwd_plus_2": 2106.3059768555395,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19863,7 +20464,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1047.483946324955,
     "SD_fwd_mean": 1410.2559707642863,
     "SD_fwd_plus_1": 1773.0279952036178,
-    "SD_fwd_plus_2": 2135.8000196429493
+    "SD_fwd_plus_2": 2135.8000196429493,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19896,7 +20498,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1054.0043110760748,
     "SD_fwd_mean": 1419.034514200765,
     "SD_fwd_plus_1": 1784.0647173254551,
-    "SD_fwd_plus_2": 2149.0949204501453
+    "SD_fwd_plus_2": 2149.0949204501453,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19929,7 +20532,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1104.692070425885,
     "SD_fwd_mean": 1487.2768156876057,
     "SD_fwd_plus_1": 1869.8615609493263,
-    "SD_fwd_plus_2": 2252.446306211047
+    "SD_fwd_plus_2": 2252.446306211047,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19962,7 +20566,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1111.262470821471,
     "SD_fwd_mean": 1496.122723465664,
     "SD_fwd_plus_1": 1880.982976109857,
-    "SD_fwd_plus_2": 2265.84322875405
+    "SD_fwd_plus_2": 2265.84322875405,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -19995,7 +20600,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1111.2704504166754,
     "SD_fwd_mean": 1496.133466610531,
     "SD_fwd_plus_1": 1880.9964828043867,
-    "SD_fwd_plus_2": 2265.8594989982425
+    "SD_fwd_plus_2": 2265.8594989982425,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20028,7 +20634,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1111.064937935189,
     "SD_fwd_mean": 1495.8567795977135,
     "SD_fwd_plus_1": 1880.6486212602383,
-    "SD_fwd_plus_2": 2265.440462922763
+    "SD_fwd_plus_2": 2265.440462922763,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20061,7 +20668,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1112.157988368315,
     "SD_fwd_mean": 1497.328382962205,
     "SD_fwd_plus_1": 1882.498777556095,
-    "SD_fwd_plus_2": 2267.669172149985
+    "SD_fwd_plus_2": 2267.669172149985,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20094,7 +20702,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1145.238762714925,
     "SD_fwd_mean": 1541.8659242806095,
     "SD_fwd_plus_1": 1938.493085846294,
-    "SD_fwd_plus_2": 2335.120247411978
+    "SD_fwd_plus_2": 2335.120247411978,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20127,7 +20736,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1147.7134572229616,
     "SD_fwd_mean": 1545.197672435815,
     "SD_fwd_plus_1": 1942.681887648669,
-    "SD_fwd_plus_2": 2340.166102861523
+    "SD_fwd_plus_2": 2340.166102861523,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20160,7 +20770,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1165.3364197487258,
     "SD_fwd_mean": 1568.923943575062,
     "SD_fwd_plus_1": 1972.5114674013987,
-    "SD_fwd_plus_2": 2376.098991227735
+    "SD_fwd_plus_2": 2376.098991227735,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20193,7 +20804,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1170.3947856331954,
     "SD_fwd_mean": 1575.734158391157,
     "SD_fwd_plus_1": 1981.0735311491187,
-    "SD_fwd_plus_2": 2386.4129039070804
+    "SD_fwd_plus_2": 2386.4129039070804,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20226,7 +20838,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1170.1193654462334,
     "SD_fwd_mean": 1575.3633527434954,
     "SD_fwd_plus_1": 1980.6073400407572,
-    "SD_fwd_plus_2": 2385.8513273380195
+    "SD_fwd_plus_2": 2385.8513273380195,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20259,7 +20872,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1170.2867952342651,
     "SD_fwd_mean": 1575.588767996,
     "SD_fwd_plus_1": 1980.890740757735,
-    "SD_fwd_plus_2": 2386.19271351947
+    "SD_fwd_plus_2": 2386.19271351947,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20292,7 +20906,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1173.9787243009005,
     "SD_fwd_mean": 1580.5593119629295,
     "SD_fwd_plus_1": 1987.1398996249584,
-    "SD_fwd_plus_2": 2393.7204872869875
+    "SD_fwd_plus_2": 2393.7204872869875,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20325,7 +20940,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1177.3138120747992,
     "SD_fwd_mean": 1585.0494308450996,
     "SD_fwd_plus_1": 1992.7850496154,
-    "SD_fwd_plus_2": 2400.5206683857
+    "SD_fwd_plus_2": 2400.5206683857,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20358,7 +20974,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1193.3457185367845,
     "SD_fwd_mean": 1606.6336201685465,
     "SD_fwd_plus_1": 2019.9215218003085,
-    "SD_fwd_plus_2": 2433.2094234320703
+    "SD_fwd_plus_2": 2433.2094234320703,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20391,7 +21008,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1194.5370044195454,
     "SD_fwd_mean": 1608.2374805760928,
     "SD_fwd_plus_1": 2021.93795673264,
-    "SD_fwd_plus_2": 2435.6384328891872
+    "SD_fwd_plus_2": 2435.6384328891872,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20424,7 +21042,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1193.529925443372,
     "SD_fwd_mean": 1606.8816229095742,
     "SD_fwd_plus_1": 2020.233320375776,
-    "SD_fwd_plus_2": 2433.5850178419787
+    "SD_fwd_plus_2": 2433.5850178419787,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20457,7 +21076,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1192.8899941957902,
     "SD_fwd_mean": 1606.0200661611896,
     "SD_fwd_plus_1": 2019.150138126589,
-    "SD_fwd_plus_2": 2432.2802100919885
+    "SD_fwd_plus_2": 2432.2802100919885,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20490,7 +21110,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1195.2900329292222,
     "SD_fwd_mean": 1609.2513032276506,
     "SD_fwd_plus_1": 2023.2125735260788,
-    "SD_fwd_plus_2": 2437.1738438245075
+    "SD_fwd_plus_2": 2437.1738438245075,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20523,7 +21144,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1210.1300731661092,
     "SD_fwd_mean": 1629.2308508129647,
     "SD_fwd_plus_1": 2048.33162845982,
-    "SD_fwd_plus_2": 2467.4324061066754
+    "SD_fwd_plus_2": 2467.4324061066754,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20556,7 +21178,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1207.6806449506596,
     "SD_fwd_mean": 1625.933119350907,
     "SD_fwd_plus_1": 2044.1855937511543,
-    "SD_fwd_plus_2": 2462.4380681514017
+    "SD_fwd_plus_2": 2462.4380681514017,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20589,7 +21212,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1214.0663392001532,
     "SD_fwd_mean": 1634.530352248288,
     "SD_fwd_plus_1": 2054.994365296423,
-    "SD_fwd_plus_2": 2475.458378344558
+    "SD_fwd_plus_2": 2475.458378344558,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20622,7 +21246,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1215.4905938501308,
     "SD_fwd_mean": 1636.4478648088066,
     "SD_fwd_plus_1": 2057.4051357674825,
-    "SD_fwd_plus_2": 2478.362406726158
+    "SD_fwd_plus_2": 2478.362406726158,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20655,7 +21280,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1220.606938774737,
     "SD_fwd_mean": 1643.3361383749364,
     "SD_fwd_plus_1": 2066.065337975136,
-    "SD_fwd_plus_2": 2488.794537575335
+    "SD_fwd_plus_2": 2488.794537575335,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20688,7 +21314,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1229.1420249057785,
     "SD_fwd_mean": 1654.8271557022365,
     "SD_fwd_plus_1": 2080.5122864986947,
-    "SD_fwd_plus_2": 2506.1974172951523
+    "SD_fwd_plus_2": 2506.1974172951523,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20721,7 +21348,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1232.3720280658638,
     "SD_fwd_mean": 1659.1757963263522,
     "SD_fwd_plus_1": 2085.9795645868403,
-    "SD_fwd_plus_2": 2512.783332847329
+    "SD_fwd_plus_2": 2512.783332847329,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20754,7 +21382,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1235.4102033092165,
     "SD_fwd_mean": 1663.266173837338,
     "SD_fwd_plus_1": 2091.1221443654595,
-    "SD_fwd_plus_2": 2518.9781148935813
+    "SD_fwd_plus_2": 2518.9781148935813,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20787,7 +21416,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1247.6811404355649,
     "SD_fwd_mean": 1679.7868684122004,
     "SD_fwd_plus_1": 2111.892596388836,
-    "SD_fwd_plus_2": 2543.9983243654715
+    "SD_fwd_plus_2": 2543.9983243654715,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20820,7 +21450,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1248.5476794673414,
     "SD_fwd_mean": 1680.9535133500542,
     "SD_fwd_plus_1": 2113.359347232767,
-    "SD_fwd_plus_2": 2545.76518111548
+    "SD_fwd_plus_2": 2545.76518111548,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20853,7 +21484,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1247.877507769032,
     "SD_fwd_mean": 1680.0512430648685,
     "SD_fwd_plus_1": 2112.224978360705,
-    "SD_fwd_plus_2": 2544.398713656541
+    "SD_fwd_plus_2": 2544.398713656541,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20886,7 +21518,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1244.8545074024066,
     "SD_fwd_mean": 1675.981295900892,
     "SD_fwd_plus_1": 2107.1080843993777,
-    "SD_fwd_plus_2": 2538.234872897863
+    "SD_fwd_plus_2": 2538.234872897863,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20919,7 +21552,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1246.8068338671485,
     "SD_fwd_mean": 1678.609765829661,
     "SD_fwd_plus_1": 2110.4126977921737,
-    "SD_fwd_plus_2": 2542.2156297546862
+    "SD_fwd_plus_2": 2542.2156297546862,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20952,7 +21586,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1272.2040423865626,
     "SD_fwd_mean": 1712.8027146389577,
     "SD_fwd_plus_1": 2153.401386891353,
-    "SD_fwd_plus_2": 2594.000059143748
+    "SD_fwd_plus_2": 2594.000059143748,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -20985,7 +21620,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1280.6623084314049,
     "SD_fwd_mean": 1724.1903070062692,
     "SD_fwd_plus_1": 2167.718305581134,
-    "SD_fwd_plus_2": 2611.2463041559986
+    "SD_fwd_plus_2": 2611.2463041559986,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21018,7 +21654,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1281.6322207235885,
     "SD_fwd_mean": 1725.4961261607953,
     "SD_fwd_plus_1": 2169.360031598002,
-    "SD_fwd_plus_2": 2613.223937035209
+    "SD_fwd_plus_2": 2613.223937035209,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21051,7 +21688,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1285.0606215938662,
     "SD_fwd_mean": 1730.1118749886853,
     "SD_fwd_plus_1": 2175.163128383504,
-    "SD_fwd_plus_2": 2620.214381778323
+    "SD_fwd_plus_2": 2620.214381778323,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21084,7 +21722,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1282.6848169805933,
     "SD_fwd_mean": 1726.913264973713,
     "SD_fwd_plus_1": 2171.141712966833,
-    "SD_fwd_plus_2": 2615.3701609599525
+    "SD_fwd_plus_2": 2615.3701609599525,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21117,7 +21756,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1287.2041794804045,
     "SD_fwd_mean": 1732.9978049533167,
     "SD_fwd_plus_1": 2178.7914304262285,
-    "SD_fwd_plus_2": 2624.585055899141
+    "SD_fwd_plus_2": 2624.585055899141,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21150,7 +21790,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1293.9679613353296,
     "SD_fwd_mean": 1742.1040674209382,
     "SD_fwd_plus_1": 2190.240173506547,
-    "SD_fwd_plus_2": 2638.376279592156
+    "SD_fwd_plus_2": 2638.376279592156,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21183,7 +21824,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1292.9457088084723,
     "SD_fwd_mean": 1740.7277811926983,
     "SD_fwd_plus_1": 2188.5098535769243,
-    "SD_fwd_plus_2": 2636.291925961151
+    "SD_fwd_plus_2": 2636.291925961151,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21216,7 +21858,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1289.8565120454512,
     "SD_fwd_mean": 1736.568712029681,
     "SD_fwd_plus_1": 2183.28091201391,
-    "SD_fwd_plus_2": 2629.99311199814
+    "SD_fwd_plus_2": 2629.99311199814,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21249,7 +21892,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1289.0466443955463,
     "SD_fwd_mean": 1735.4783653061688,
     "SD_fwd_plus_1": 2181.910086216791,
-    "SD_fwd_plus_2": 2628.341807127413
+    "SD_fwd_plus_2": 2628.341807127413,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21282,7 +21926,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1293.7066325035323,
     "SD_fwd_mean": 1741.7522333458976,
     "SD_fwd_plus_1": 2189.797834188263,
-    "SD_fwd_plus_2": 2637.843435030629
+    "SD_fwd_plus_2": 2637.843435030629,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21315,7 +21960,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1293.8382720770549,
     "SD_fwd_mean": 1741.9294632645044,
     "SD_fwd_plus_1": 2190.020654451954,
-    "SD_fwd_plus_2": 2638.111845639404
+    "SD_fwd_plus_2": 2638.111845639404,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21348,7 +21994,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1317.2154930798938,
     "SD_fwd_mean": 1773.4028482407573,
     "SD_fwd_plus_1": 2229.590203401621,
-    "SD_fwd_plus_2": 2685.7775585624845
+    "SD_fwd_plus_2": 2685.7775585624845,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21381,7 +22028,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1232.196608015838,
     "SD_fwd_mean": 1658.939623567993,
     "SD_fwd_plus_1": 2085.682639120148,
-    "SD_fwd_plus_2": 2512.425654672303
+    "SD_fwd_plus_2": 2512.425654672303,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21414,7 +22062,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1317.205944476419,
     "SD_fwd_mean": 1773.389992697615,
     "SD_fwd_plus_1": 2229.5740409188115,
-    "SD_fwd_plus_2": 2685.7580891400075
+    "SD_fwd_plus_2": 2685.7580891400075,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21447,7 +22096,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1315.2158690347346,
     "SD_fwd_mean": 1770.7107003001008,
     "SD_fwd_plus_1": 2226.205531565467,
-    "SD_fwd_plus_2": 2681.700362830833
+    "SD_fwd_plus_2": 2681.700362830833,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21480,7 +22130,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1308.948088609647,
     "SD_fwd_mean": 1762.2722179740174,
     "SD_fwd_plus_1": 2215.596347338388,
-    "SD_fwd_plus_2": 2668.9204767027577
+    "SD_fwd_plus_2": 2668.9204767027577,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21513,7 +22164,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1307.5810828754136,
     "SD_fwd_mean": 1760.4317811773146,
     "SD_fwd_plus_1": 2213.282479479216,
-    "SD_fwd_plus_2": 2666.133177781117
+    "SD_fwd_plus_2": 2666.133177781117,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21546,7 +22198,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1301.8091552537492,
     "SD_fwd_mean": 1752.6608788930075,
     "SD_fwd_plus_1": 2203.512602532266,
-    "SD_fwd_plus_2": 2654.3643261715247
+    "SD_fwd_plus_2": 2654.3643261715247,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21579,7 +22232,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1252.3270021954402,
     "SD_fwd_mean": 1686.041717767359,
     "SD_fwd_plus_1": 2119.756433339278,
-    "SD_fwd_plus_2": 2553.4711489111965
+    "SD_fwd_plus_2": 2553.4711489111965,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21612,7 +22266,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1312.9036585766555,
     "SD_fwd_mean": 1767.5977088164511,
     "SD_fwd_plus_1": 2222.2917590562465,
-    "SD_fwd_plus_2": 2676.9858092960417
+    "SD_fwd_plus_2": 2676.9858092960417,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21645,7 +22300,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1230.819297492268,
     "SD_fwd_mean": 1657.085313154668,
     "SD_fwd_plus_1": 2083.351328817068,
-    "SD_fwd_plus_2": 2509.617344479468
+    "SD_fwd_plus_2": 2509.617344479468,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21678,7 +22334,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1285.4201230081878,
     "SD_fwd_mean": 1730.5958814670892,
     "SD_fwd_plus_1": 2175.7716399259903,
-    "SD_fwd_plus_2": 2620.947398384892
+    "SD_fwd_plus_2": 2620.947398384892,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21711,7 +22368,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1242.4330454285423,
     "SD_fwd_mean": 1672.721216146351,
     "SD_fwd_plus_1": 2103.00938686416,
-    "SD_fwd_plus_2": 2533.2975575819687
+    "SD_fwd_plus_2": 2533.2975575819687,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21744,7 +22402,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1278.3907908506965,
     "SD_fwd_mean": 1721.132101444142,
     "SD_fwd_plus_1": 2163.873412037588,
-    "SD_fwd_plus_2": 2606.6147226310336
+    "SD_fwd_plus_2": 2606.6147226310336,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21777,7 +22436,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1280.5275909872178,
     "SD_fwd_mean": 1724.0089332671323,
     "SD_fwd_plus_1": 2167.490275547047,
-    "SD_fwd_plus_2": 2610.971617826962
+    "SD_fwd_plus_2": 2610.971617826962,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21810,7 +22470,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1269.7666829678612,
     "SD_fwd_mean": 1709.521231724416,
     "SD_fwd_plus_1": 2149.2757804809708,
-    "SD_fwd_plus_2": 2589.030329237525
+    "SD_fwd_plus_2": 2589.030329237525,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21843,7 +22504,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1253.9020634605972,
     "SD_fwd_mean": 1688.1622653531242,
     "SD_fwd_plus_1": 2122.422467245651,
-    "SD_fwd_plus_2": 2556.6826691381784
+    "SD_fwd_plus_2": 2556.6826691381784,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21876,7 +22538,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1235.9406484736685,
     "SD_fwd_mean": 1663.9803265104704,
     "SD_fwd_plus_1": 2092.0200045472725,
-    "SD_fwd_plus_2": 2520.059682584075
+    "SD_fwd_plus_2": 2520.059682584075,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21909,7 +22572,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1224.9893542621528,
     "SD_fwd_mean": 1649.2363028874154,
     "SD_fwd_plus_1": 2073.483251512678,
-    "SD_fwd_plus_2": 2497.7302001379408
+    "SD_fwd_plus_2": 2497.7302001379408,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21942,7 +22606,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1225.1285698405718,
     "SD_fwd_mean": 1649.423732586341,
     "SD_fwd_plus_1": 2073.7188953321097,
-    "SD_fwd_plus_2": 2498.014058077879
+    "SD_fwd_plus_2": 2498.014058077879,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -21975,7 +22640,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1221.0993442192398,
     "SD_fwd_mean": 1643.9990771441494,
     "SD_fwd_plus_1": 2066.898810069059,
-    "SD_fwd_plus_2": 2489.798542993968
+    "SD_fwd_plus_2": 2489.798542993968,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22008,7 +22674,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1211.7214942670826,
     "SD_fwd_mean": 1631.3734240882136,
     "SD_fwd_plus_1": 2051.0253539093446,
-    "SD_fwd_plus_2": 2470.677283730476
+    "SD_fwd_plus_2": 2470.677283730476,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22041,7 +22708,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1216.6222747513398,
     "SD_fwd_mean": 1637.9714774174097,
     "SD_fwd_plus_1": 2059.32068008348,
-    "SD_fwd_plus_2": 2480.6698827495493
+    "SD_fwd_plus_2": 2480.6698827495493,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22074,7 +22742,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1201.3630125039672,
     "SD_fwd_mean": 1617.4275198996688,
     "SD_fwd_plus_1": 2033.4920272953705,
-    "SD_fwd_plus_2": 2449.556534691072
+    "SD_fwd_plus_2": 2449.556534691072,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22107,7 +22776,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1206.446185523268,
     "SD_fwd_mean": 1624.2711332324054,
     "SD_fwd_plus_1": 2042.0960809415428,
-    "SD_fwd_plus_2": 2459.92102865068
+    "SD_fwd_plus_2": 2459.92102865068,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22140,7 +22810,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1207.978919370649,
     "SD_fwd_mean": 1626.334694270687,
     "SD_fwd_plus_1": 2044.6904691707248,
-    "SD_fwd_plus_2": 2463.0462440707624
+    "SD_fwd_plus_2": 2463.0462440707624,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22173,7 +22844,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1205.0548889947968,
     "SD_fwd_mean": 1622.3979930823689,
     "SD_fwd_plus_1": 2039.7410971699403,
-    "SD_fwd_plus_2": 2457.084201257512
+    "SD_fwd_plus_2": 2457.084201257512,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22206,7 +22878,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1229.4758518107028,
     "SD_fwd_mean": 1655.2765958941582,
     "SD_fwd_plus_1": 2081.077339977613,
-    "SD_fwd_plus_2": 2506.878084061069
+    "SD_fwd_plus_2": 2506.878084061069,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22239,7 +22912,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1230.901505024266,
     "SD_fwd_mean": 1657.1959913786625,
     "SD_fwd_plus_1": 2083.490477733059,
-    "SD_fwd_plus_2": 2509.784964087456
+    "SD_fwd_plus_2": 2509.784964087456,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22272,7 +22946,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1230.4296028720644,
     "SD_fwd_mean": 1656.5606567464763,
     "SD_fwd_plus_1": 2082.691710620889,
-    "SD_fwd_plus_2": 2508.8227644953013
+    "SD_fwd_plus_2": 2508.8227644953013,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22305,7 +22980,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1232.52447898916,
     "SD_fwd_mean": 1659.3810451280938,
     "SD_fwd_plus_1": 2086.237611267028,
-    "SD_fwd_plus_2": 2513.094177405962
+    "SD_fwd_plus_2": 2513.094177405962,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22338,7 +23014,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1232.5309587272734,
     "SD_fwd_mean": 1659.3897689747891,
     "SD_fwd_plus_1": 2086.248579222305,
-    "SD_fwd_plus_2": 2513.107389469821
+    "SD_fwd_plus_2": 2513.107389469821,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22371,7 +23048,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1213.1575258570117,
     "SD_fwd_mean": 1633.3067922615485,
     "SD_fwd_plus_1": 2053.4560586660846,
-    "SD_fwd_plus_2": 2473.6053250706213
+    "SD_fwd_plus_2": 2473.6053250706213,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22404,7 +23082,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1207.930279166644,
     "SD_fwd_mean": 1626.2692086483455,
     "SD_fwd_plus_1": 2044.608138130048,
-    "SD_fwd_plus_2": 2462.9470676117494
+    "SD_fwd_plus_2": 2462.9470676117494,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22437,7 +23116,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1195.7394043037675,
     "SD_fwd_mean": 1609.8563040644335,
     "SD_fwd_plus_1": 2023.9732038250995,
-    "SD_fwd_plus_2": 2438.090103585765
+    "SD_fwd_plus_2": 2438.090103585765,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22470,7 +23150,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1198.363016115918,
     "SD_fwd_mean": 1613.3885436142937,
     "SD_fwd_plus_1": 2028.4140711126693,
-    "SD_fwd_plus_2": 2443.4395986110453
+    "SD_fwd_plus_2": 2443.4395986110453,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22503,7 +23184,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1184.2711343935089,
     "SD_fwd_mean": 1594.4162620742704,
     "SD_fwd_plus_1": 2004.561389755032,
-    "SD_fwd_plus_2": 2414.7065174357936
+    "SD_fwd_plus_2": 2414.7065174357936,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22536,7 +23218,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1175.660976908678,
     "SD_fwd_mean": 1582.824174152728,
     "SD_fwd_plus_1": 1989.9873713967772,
-    "SD_fwd_plus_2": 2397.1505686408277
+    "SD_fwd_plus_2": 2397.1505686408277,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22569,7 +23252,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1174.7040446812505,
     "SD_fwd_mean": 1581.535830410486,
     "SD_fwd_plus_1": 1988.3676161397211,
-    "SD_fwd_plus_2": 2395.199401868957
+    "SD_fwd_plus_2": 2395.199401868957,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22602,7 +23286,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1178.321443213233,
     "SD_fwd_mean": 1586.4060319026044,
     "SD_fwd_plus_1": 1994.490620591976,
-    "SD_fwd_plus_2": 2402.575209281348
+    "SD_fwd_plus_2": 2402.575209281348,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22635,7 +23320,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1182.598905660248,
     "SD_fwd_mean": 1592.1648952978735,
     "SD_fwd_plus_1": 2001.7308849355,
-    "SD_fwd_plus_2": 2411.296874573126
+    "SD_fwd_plus_2": 2411.296874573126,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22668,7 +23354,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1187.8156420099824,
     "SD_fwd_mean": 1599.188328555183,
     "SD_fwd_plus_1": 2010.561015100384,
-    "SD_fwd_plus_2": 2421.9337016455843
+    "SD_fwd_plus_2": 2421.9337016455843,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22701,7 +23388,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1175.8910543430852,
     "SD_fwd_mean": 1583.13393362613,
     "SD_fwd_plus_1": 1990.3768129091748,
-    "SD_fwd_plus_2": 2397.61969219222
+    "SD_fwd_plus_2": 2397.61969219222,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22734,7 +23422,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1168.5853030361388,
     "SD_fwd_mean": 1573.2980030252957,
     "SD_fwd_plus_1": 1978.0107030144527,
-    "SD_fwd_plus_2": 2382.7234030036097
+    "SD_fwd_plus_2": 2382.7234030036097,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22767,7 +23456,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1172.3413001418758,
     "SD_fwd_mean": 1578.3548035262704,
     "SD_fwd_plus_1": 1984.368306910665,
-    "SD_fwd_plus_2": 2390.38181029506
+    "SD_fwd_plus_2": 2390.38181029506,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22800,7 +23490,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1176.1452917244585,
     "SD_fwd_mean": 1583.4762202896447,
     "SD_fwd_plus_1": 1990.807148854831,
-    "SD_fwd_plus_2": 2398.138077420017
+    "SD_fwd_plus_2": 2398.138077420017,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22833,7 +23524,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1176.3394732962522,
     "SD_fwd_mean": 1583.7376521922483,
     "SD_fwd_plus_1": 1991.135831088245,
-    "SD_fwd_plus_2": 2398.534009984241
+    "SD_fwd_plus_2": 2398.534009984241,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22866,7 +23558,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1180.4552188523105,
     "SD_fwd_mean": 1589.2787917628757,
     "SD_fwd_plus_1": 1998.1023646734404,
-    "SD_fwd_plus_2": 2406.9259375840056
+    "SD_fwd_plus_2": 2406.9259375840056,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22899,7 +23592,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1183.6130971414602,
     "SD_fwd_mean": 1593.5303287223153,
     "SD_fwd_plus_1": 2003.4475603031703,
-    "SD_fwd_plus_2": 2413.3647918840256
+    "SD_fwd_plus_2": 2413.3647918840256,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22932,7 +23626,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1187.0075303286258,
     "SD_fwd_mean": 1598.1003459396252,
     "SD_fwd_plus_1": 2009.1931615506244,
-    "SD_fwd_plus_2": 2420.285977161624
+    "SD_fwd_plus_2": 2420.285977161624,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22965,7 +23660,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1184.0811186523774,
     "SD_fwd_mean": 1594.1604387421708,
     "SD_fwd_plus_1": 2004.239758831964,
-    "SD_fwd_plus_2": 2414.3190789217574
+    "SD_fwd_plus_2": 2414.3190789217574,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -22998,7 +23694,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1186.1133398881725,
     "SD_fwd_mean": 1596.8964731623153,
     "SD_fwd_plus_1": 2007.679606436458,
-    "SD_fwd_plus_2": 2418.462739710601
+    "SD_fwd_plus_2": 2418.462739710601,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23031,7 +23728,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1188.014595851895,
     "SD_fwd_mean": 1599.4561854941344,
     "SD_fwd_plus_1": 2010.897775136374,
-    "SD_fwd_plus_2": 2422.339364778614
+    "SD_fwd_plus_2": 2422.339364778614,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23064,7 +23762,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1201.2930517022269,
     "SD_fwd_mean": 1617.3333297798872,
     "SD_fwd_plus_1": 2033.3736078575475,
-    "SD_fwd_plus_2": 2449.413885935208
+    "SD_fwd_plus_2": 2449.413885935208,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23097,7 +23796,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1203.850240829354,
     "SD_fwd_mean": 1620.7761426722063,
     "SD_fwd_plus_1": 2037.7020445150583,
-    "SD_fwd_plus_2": 2454.6279463579103
+    "SD_fwd_plus_2": 2454.6279463579103,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23130,7 +23830,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1211.6732087746825,
     "SD_fwd_mean": 1631.3084160237008,
     "SD_fwd_plus_1": 2050.9436232727194,
-    "SD_fwd_plus_2": 2470.578830521738
+    "SD_fwd_plus_2": 2470.578830521738,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23163,7 +23864,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1211.5764912782615,
     "SD_fwd_mean": 1631.178202642118,
     "SD_fwd_plus_1": 2050.779914005974,
-    "SD_fwd_plus_2": 2470.3816253698305
+    "SD_fwd_plus_2": 2470.3816253698305,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23196,7 +23898,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1222.6719206146838,
     "SD_fwd_mean": 1646.1162792826055,
     "SD_fwd_plus_1": 2069.5606379505275,
-    "SD_fwd_plus_2": 2493.004996618449
+    "SD_fwd_plus_2": 2493.004996618449,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23229,7 +23932,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1226.690518765803,
     "SD_fwd_mean": 1651.5266266741828,
     "SD_fwd_plus_1": 2076.3627345825626,
-    "SD_fwd_plus_2": 2501.1988424909423
+    "SD_fwd_plus_2": 2501.1988424909423,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23262,7 +23966,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1224.1595916046333,
     "SD_fwd_mean": 1648.119170977003,
     "SD_fwd_plus_1": 2072.078750349373,
-    "SD_fwd_plus_2": 2496.0383297217427
+    "SD_fwd_plus_2": 2496.0383297217427,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23295,7 +24000,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1221.5249139165169,
     "SD_fwd_mean": 1644.5720331390044,
     "SD_fwd_plus_1": 2067.619152361492,
-    "SD_fwd_plus_2": 2490.66627158398
+    "SD_fwd_plus_2": 2490.66627158398,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23328,7 +24034,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1228.292111435928,
     "SD_fwd_mean": 1653.6828942081154,
     "SD_fwd_plus_1": 2079.073676980303,
-    "SD_fwd_plus_2": 2504.4644597524903
+    "SD_fwd_plus_2": 2504.4644597524903,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23361,7 +24068,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1231.4500092261271,
     "SD_fwd_mean": 1657.9344574223455,
     "SD_fwd_plus_1": 2084.418905618564,
-    "SD_fwd_plus_2": 2510.903353814782
+    "SD_fwd_plus_2": 2510.903353814782,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23394,7 +24102,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1234.366100983599,
     "SD_fwd_mean": 1661.860470634003,
     "SD_fwd_plus_1": 2089.354840284407,
-    "SD_fwd_plus_2": 2516.849209934812
+    "SD_fwd_plus_2": 2516.849209934812,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23427,7 +24136,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1236.120103447439,
     "SD_fwd_mean": 1664.22193159581,
     "SD_fwd_plus_1": 2092.323759744181,
-    "SD_fwd_plus_2": 2520.425587892552
+    "SD_fwd_plus_2": 2520.425587892552,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23460,7 +24170,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1241.4954204735295,
     "SD_fwd_mean": 1671.4588663072116,
     "SD_fwd_plus_1": 2101.4223121408936,
-    "SD_fwd_plus_2": 2531.385757974576
+    "SD_fwd_plus_2": 2531.385757974576,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23493,7 +24204,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1243.9403511126936,
     "SD_fwd_mean": 1674.7505425606596,
     "SD_fwd_plus_1": 2105.5607340086253,
-    "SD_fwd_plus_2": 2536.370925456591
+    "SD_fwd_plus_2": 2536.370925456591,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23526,7 +24238,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1275.0943905462314,
     "SD_fwd_mean": 1716.694068548544,
     "SD_fwd_plus_1": 2158.2937465508567,
-    "SD_fwd_plus_2": 2599.893424553169
+    "SD_fwd_plus_2": 2599.893424553169,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23559,7 +24272,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1284.8107332167951,
     "SD_fwd_mean": 1729.7754435073005,
     "SD_fwd_plus_1": 2174.7401537978053,
-    "SD_fwd_plus_2": 2619.7048640883104
+    "SD_fwd_plus_2": 2619.7048640883104,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23592,7 +24306,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1287.180215659125,
     "SD_fwd_mean": 1732.9655418125203,
     "SD_fwd_plus_1": 2178.750867965916,
-    "SD_fwd_plus_2": 2624.536194119312
+    "SD_fwd_plus_2": 2624.536194119312,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23625,7 +24340,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1296.5918216475077,
     "SD_fwd_mean": 1745.6366415331072,
     "SD_fwd_plus_1": 2194.6814614187074,
-    "SD_fwd_plus_2": 2643.726281304307
+    "SD_fwd_plus_2": 2643.726281304307,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23658,7 +24374,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1299.4636993309718,
     "SD_fwd_mean": 1749.5031281409642,
     "SD_fwd_plus_1": 2199.5425569509566,
-    "SD_fwd_plus_2": 2649.581985760949
+    "SD_fwd_plus_2": 2649.581985760949,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23691,7 +24408,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1303.3889789246648,
     "SD_fwd_mean": 1754.787838234466,
     "SD_fwd_plus_1": 2206.186697544267,
-    "SD_fwd_plus_2": 2657.5855568540683
+    "SD_fwd_plus_2": 2657.5855568540683,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23724,7 +24442,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1295.4638551952826,
     "SD_fwd_mean": 1744.1180297876454,
     "SD_fwd_plus_1": 2192.772204380008,
-    "SD_fwd_plus_2": 2641.426378972371
+    "SD_fwd_plus_2": 2641.426378972371,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23757,7 +24476,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1289.307751899376,
     "SD_fwd_mean": 1735.8299014013792,
     "SD_fwd_plus_1": 2182.3520509033824,
-    "SD_fwd_plus_2": 2628.8742004053856
+    "SD_fwd_plus_2": 2628.8742004053856,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23790,7 +24510,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1278.9608083138985,
     "SD_fwd_mean": 1721.8995313734893,
     "SD_fwd_plus_1": 2164.83825443308,
-    "SD_fwd_plus_2": 2607.776977492671
+    "SD_fwd_plus_2": 2607.776977492671,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23823,7 +24544,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1272.0532611978797,
     "SD_fwd_mean": 1712.5997138460907,
     "SD_fwd_plus_1": 2153.146166494302,
-    "SD_fwd_plus_2": 2593.6926191425136
+    "SD_fwd_plus_2": 2593.6926191425136,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23856,7 +24578,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1245.6573368217353,
     "SD_fwd_mean": 1677.0621668641995,
     "SD_fwd_plus_1": 2108.466996906664,
-    "SD_fwd_plus_2": 2539.8718269491283
+    "SD_fwd_plus_2": 2539.8718269491283,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23889,7 +24612,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1235.020279736041,
     "SD_fwd_mean": 1662.7412091835677,
     "SD_fwd_plus_1": 2090.4621386310946,
-    "SD_fwd_plus_2": 2518.183068078621
+    "SD_fwd_plus_2": 2518.183068078621,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23922,7 +24646,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1212.3087613909177,
     "SD_fwd_mean": 1632.1640777022644,
     "SD_fwd_plus_1": 2052.019394013611,
-    "SD_fwd_plus_2": 2471.874710324957
+    "SD_fwd_plus_2": 2471.874710324957,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23955,7 +24680,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1194.5980018441408,
     "SD_fwd_mean": 1608.31960305877,
     "SD_fwd_plus_1": 2022.041204273399,
-    "SD_fwd_plus_2": 2435.7628054880283
+    "SD_fwd_plus_2": 2435.7628054880283,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -23988,7 +24714,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1187.423788954046,
     "SD_fwd_mean": 1598.66076618658,
     "SD_fwd_plus_1": 2009.8977434191145,
-    "SD_fwd_plus_2": 2421.134720651649
+    "SD_fwd_plus_2": 2421.134720651649,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24021,7 +24748,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1190.0867855521517,
     "SD_fwd_mean": 1602.246030539107,
     "SD_fwd_plus_1": 2014.4052755260636,
-    "SD_fwd_plus_2": 2426.5645205130195
+    "SD_fwd_plus_2": 2426.5645205130195,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24054,7 +24782,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1178.596338197721,
     "SD_fwd_mean": 1586.7761304559697,
     "SD_fwd_plus_1": 1994.9559227142176,
-    "SD_fwd_plus_2": 2403.135714972466
+    "SD_fwd_plus_2": 2403.135714972466,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24087,7 +24816,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1181.604550199828,
     "SD_fwd_mean": 1590.826167644778,
     "SD_fwd_plus_1": 2000.047785089728,
-    "SD_fwd_plus_2": 2409.269402534678
+    "SD_fwd_plus_2": 2409.269402534678,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24120,7 +24850,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1191.216325342995,
     "SD_fwd_mean": 1603.76676051291,
     "SD_fwd_plus_1": 2016.3171956828248,
-    "SD_fwd_plus_2": 2428.8676308527392
+    "SD_fwd_plus_2": 2428.8676308527392,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24153,7 +24884,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1201.8755689169188,
     "SD_fwd_mean": 1618.1175884627764,
     "SD_fwd_plus_1": 2034.3596080086336,
-    "SD_fwd_plus_2": 2450.601627554491
+    "SD_fwd_plus_2": 2450.601627554491,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24186,7 +24918,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1202.673169879577,
     "SD_fwd_mean": 1619.1914202134417,
     "SD_fwd_plus_1": 2035.7096705473064,
-    "SD_fwd_plus_2": 2452.227920881171
+    "SD_fwd_plus_2": 2452.227920881171,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24219,7 +24952,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1206.7007772913057,
     "SD_fwd_mean": 1624.6138970162722,
     "SD_fwd_plus_1": 2042.527016741239,
-    "SD_fwd_plus_2": 2460.440136466206
+    "SD_fwd_plus_2": 2460.440136466206,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24252,7 +24986,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1212.7158378544232,
     "SD_fwd_mean": 1632.7121357562614,
     "SD_fwd_plus_1": 2052.7084336581,
-    "SD_fwd_plus_2": 2472.7047315599384
+    "SD_fwd_plus_2": 2472.7047315599384,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24285,7 +25020,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1220.4066268345696,
     "SD_fwd_mean": 1643.0664529915682,
     "SD_fwd_plus_1": 2065.726279148567,
-    "SD_fwd_plus_2": 2488.3861053055657
+    "SD_fwd_plus_2": 2488.3861053055657,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24318,7 +25054,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1220.815452044182,
     "SD_fwd_mean": 1643.616865429752,
     "SD_fwd_plus_1": 2066.418278815322,
-    "SD_fwd_plus_2": 2489.219692200892
+    "SD_fwd_plus_2": 2489.219692200892,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24351,7 +25088,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1236.078775473943,
     "SD_fwd_mean": 1664.166290627195,
     "SD_fwd_plus_1": 2092.253805780447,
-    "SD_fwd_plus_2": 2520.3413209336986
+    "SD_fwd_plus_2": 2520.3413209336986,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24384,7 +25122,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1245.3222828419746,
     "SD_fwd_mean": 1676.611074628234,
     "SD_fwd_plus_1": 2107.8998664144933,
-    "SD_fwd_plus_2": 2539.188658200753
+    "SD_fwd_plus_2": 2539.188658200753,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24417,7 +25156,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1249.6366421826604,
     "SD_fwd_mean": 1682.4196133094915,
     "SD_fwd_plus_1": 2115.2025844363225,
-    "SD_fwd_plus_2": 2547.985555563154
+    "SD_fwd_plus_2": 2547.985555563154,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24450,7 +25190,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1247.3564541817498,
     "SD_fwd_mean": 1679.349734526116,
     "SD_fwd_plus_1": 2111.3430148704824,
-    "SD_fwd_plus_2": 2543.3362952148486
+    "SD_fwd_plus_2": 2543.3362952148486,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24483,7 +25224,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1248.1969635898,
     "SD_fwd_mean": 1680.4813350774614,
     "SD_fwd_plus_1": 2112.7657065651224,
-    "SD_fwd_plus_2": 2545.050078052784
+    "SD_fwd_plus_2": 2545.050078052784,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24516,7 +25258,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1233.190998174014,
     "SD_fwd_mean": 1660.2783979356166,
     "SD_fwd_plus_1": 2087.365797697219,
-    "SD_fwd_plus_2": 2514.4531974588217
+    "SD_fwd_plus_2": 2514.4531974588217,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24549,7 +25292,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1236.6863466260238,
     "SD_fwd_mean": 1664.9842801036846,
     "SD_fwd_plus_1": 2093.282213581346,
-    "SD_fwd_plus_2": 2521.580147059007
+    "SD_fwd_plus_2": 2521.580147059007,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24582,7 +25326,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1242.7010345433323,
     "SD_fwd_mean": 1673.082017140541,
     "SD_fwd_plus_1": 2103.46299973775,
-    "SD_fwd_plus_2": 2533.843982334959
+    "SD_fwd_plus_2": 2533.843982334959,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24615,7 +25360,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1265.686561688765,
     "SD_fwd_mean": 1704.028054081479,
     "SD_fwd_plus_1": 2142.3695464741927,
-    "SD_fwd_plus_2": 2580.7110388669066
+    "SD_fwd_plus_2": 2580.7110388669066,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24648,7 +25394,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1298.761257184379,
     "SD_fwd_mean": 1748.5574112783577,
     "SD_fwd_plus_1": 2198.353565372336,
-    "SD_fwd_plus_2": 2648.1497194663148
+    "SD_fwd_plus_2": 2648.1497194663148,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24681,7 +25428,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1319.065422526118,
     "SD_fwd_mean": 1775.8934582937168,
     "SD_fwd_plus_1": 2232.7214940613158,
-    "SD_fwd_plus_2": 2689.5495298289143
+    "SD_fwd_plus_2": 2689.5495298289143,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24714,7 +25462,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1322.1928649128402,
     "SD_fwd_mean": 1780.1040185744448,
     "SD_fwd_plus_1": 2238.0151722360497,
-    "SD_fwd_plus_2": 2695.9263258976544
+    "SD_fwd_plus_2": 2695.9263258976544,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24747,7 +25496,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1335.505194302865,
     "SD_fwd_mean": 1798.0267677229454,
     "SD_fwd_plus_1": 2260.548341143025,
-    "SD_fwd_plus_2": 2723.0699145631056
+    "SD_fwd_plus_2": 2723.0699145631056,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24780,7 +25530,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1345.7261957826984,
     "SD_fwd_mean": 1811.7875784873463,
     "SD_fwd_plus_1": 2277.848961191994,
-    "SD_fwd_plus_2": 2743.9103438966417
+    "SD_fwd_plus_2": 2743.9103438966417,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24813,7 +25564,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1368.318054475934,
     "SD_fwd_mean": 1842.2036089425897,
     "SD_fwd_plus_1": 2316.089163409245,
-    "SD_fwd_plus_2": 2789.974717875901
+    "SD_fwd_plus_2": 2789.974717875901,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24846,7 +25598,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1397.3133654693568,
     "SD_fwd_mean": 1881.2407804392085,
     "SD_fwd_plus_1": 2365.1681954090595,
-    "SD_fwd_plus_2": 2849.095610378911
+    "SD_fwd_plus_2": 2849.095610378911,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24879,7 +25632,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1425.4341933004391,
     "SD_fwd_mean": 1919.1006116001104,
     "SD_fwd_plus_1": 2412.767029899782,
-    "SD_fwd_plus_2": 2906.433448199453
+    "SD_fwd_plus_2": 2906.433448199453,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24912,7 +25666,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1446.0956229693204,
     "SD_fwd_mean": 1946.917653242892,
     "SD_fwd_plus_1": 2447.739683516463,
-    "SD_fwd_plus_2": 2948.5617137900344
+    "SD_fwd_plus_2": 2948.5617137900344,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24945,7 +25700,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1458.398243851812,
     "SD_fwd_mean": 1963.481004515676,
     "SD_fwd_plus_1": 2468.563765179541,
-    "SD_fwd_plus_2": 2973.646525843405
+    "SD_fwd_plus_2": 2973.646525843405,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -24978,7 +25734,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1469.2824236547092,
     "SD_fwd_mean": 1978.1346701950035,
     "SD_fwd_plus_1": 2486.9869167352977,
-    "SD_fwd_plus_2": 2995.8391632755915
+    "SD_fwd_plus_2": 2995.8391632755915,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25011,7 +25768,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1484.5419023072943,
     "SD_fwd_mean": 1998.678919064936,
     "SD_fwd_plus_1": 2512.8159358225766,
-    "SD_fwd_plus_2": 3026.9529525802177
+    "SD_fwd_plus_2": 3026.9529525802177,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25044,7 +25802,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1502.266169247924,
     "SD_fwd_mean": 2022.5415790781408,
     "SD_fwd_plus_1": 2542.8169889083574,
-    "SD_fwd_plus_2": 3063.092398738574
+    "SD_fwd_plus_2": 3063.092398738574,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25077,7 +25836,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1509.2998198147277,
     "SD_fwd_mean": 2032.0111730923547,
     "SD_fwd_plus_1": 2554.722526369982,
-    "SD_fwd_plus_2": 3077.433879647609
+    "SD_fwd_plus_2": 3077.433879647609,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25110,7 +25870,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1520.1788621802175,
     "SD_fwd_mean": 2046.657922100736,
     "SD_fwd_plus_1": 2573.1369820212544,
-    "SD_fwd_plus_2": 3099.616041941773
+    "SD_fwd_plus_2": 3099.616041941773,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25143,7 +25904,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1536.725019899348,
     "SD_fwd_mean": 2068.9344618018727,
     "SD_fwd_plus_1": 2601.1439037043974,
-    "SD_fwd_plus_2": 3133.353345606922
+    "SD_fwd_plus_2": 3133.353345606922,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25176,7 +25938,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1555.6877358140785,
     "SD_fwd_mean": 2094.464479168229,
     "SD_fwd_plus_1": 2633.24122252238,
-    "SD_fwd_plus_2": 3172.01796587653
+    "SD_fwd_plus_2": 3172.01796587653,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25209,7 +25972,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1575.2061284517845,
     "SD_fwd_mean": 2120.742619137457,
     "SD_fwd_plus_1": 2666.2791098231296,
-    "SD_fwd_plus_2": 3211.815600508802
+    "SD_fwd_plus_2": 3211.815600508802,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25242,7 +26006,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1592.3945631809736,
     "SD_fwd_mean": 2143.8838737504525,
     "SD_fwd_plus_1": 2695.373184319932,
-    "SD_fwd_plus_2": 3246.8624948894108
+    "SD_fwd_plus_2": 3246.8624948894108,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25275,7 +26040,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1645.7966324401166,
     "SD_fwd_mean": 2215.7805240887205,
     "SD_fwd_plus_1": 2785.7644157373247,
-    "SD_fwd_plus_2": 3355.748307385929
+    "SD_fwd_plus_2": 3355.748307385929,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25308,7 +26074,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1677.9723513285091,
     "SD_fwd_mean": 2259.099564762507,
     "SD_fwd_plus_1": 2840.2267781965047,
-    "SD_fwd_plus_2": 3421.3539916305026
+    "SD_fwd_plus_2": 3421.3539916305026,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25341,7 +26108,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1680.7952896128384,
     "SD_fwd_mean": 2262.9001629335257,
     "SD_fwd_plus_1": 2845.0050362542133,
-    "SD_fwd_plus_2": 3427.109909574901
+    "SD_fwd_plus_2": 3427.109909574901,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25374,7 +26142,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1707.6869434472626,
     "SD_fwd_mean": 2299.105123894291,
     "SD_fwd_plus_1": 2890.523304341319,
-    "SD_fwd_plus_2": 3481.941484788347
+    "SD_fwd_plus_2": 3481.941484788347,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25407,7 +26176,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1722.8667855000017,
     "SD_fwd_mean": 2319.5421558557264,
     "SD_fwd_plus_1": 2916.2175262114515,
-    "SD_fwd_plus_2": 3512.892896567176
+    "SD_fwd_plus_2": 3512.892896567176,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25440,7 +26210,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1742.9902553299714,
     "SD_fwd_mean": 2346.634927615883,
     "SD_fwd_plus_1": 2950.2795999017944,
-    "SD_fwd_plus_2": 3553.9242721877063
+    "SD_fwd_plus_2": 3553.9242721877063,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25473,7 +26244,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1746.4395046794289,
     "SD_fwd_mean": 2351.2787453152314,
     "SD_fwd_plus_1": 2956.1179859510344,
-    "SD_fwd_plus_2": 3560.957226586837
+    "SD_fwd_plus_2": 3560.957226586837,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25506,7 +26278,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1757.2212674869345,
     "SD_fwd_mean": 2365.7945242233427,
     "SD_fwd_plus_1": 2974.367780959751,
-    "SD_fwd_plus_2": 3582.94103769616
+    "SD_fwd_plus_2": 3582.94103769616,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25539,7 +26312,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1750.136753534327,
     "SD_fwd_mean": 2356.2564514569963,
     "SD_fwd_plus_1": 2962.376149379665,
-    "SD_fwd_plus_2": 3568.4958473023344
+    "SD_fwd_plus_2": 3568.4958473023344,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25572,7 +26346,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1754.703812521136,
     "SD_fwd_mean": 2362.4052065072065,
     "SD_fwd_plus_1": 2970.106600493277,
-    "SD_fwd_plus_2": 3577.807994479348
+    "SD_fwd_plus_2": 3577.807994479348,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25605,7 +26380,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1782.6031633522234,
     "SD_fwd_mean": 2399.9668571921925,
     "SD_fwd_plus_1": 3017.3305510321616,
-    "SD_fwd_plus_2": 3634.694244872131
+    "SD_fwd_plus_2": 3634.694244872131,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25638,7 +26414,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1782.6061570811182,
     "SD_fwd_mean": 2399.9708877303824,
     "SD_fwd_plus_1": 3017.3356183796463,
-    "SD_fwd_plus_2": 3634.700349028911
+    "SD_fwd_plus_2": 3634.700349028911,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25671,7 +26448,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1804.0254713925592,
     "SD_fwd_mean": 2428.808289967777,
     "SD_fwd_plus_1": 3053.5911085429952,
-    "SD_fwd_plus_2": 3678.3739271182135
+    "SD_fwd_plus_2": 3678.3739271182135,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25704,7 +26482,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1859.9988982296024,
     "SD_fwd_mean": 2504.166828566888,
     "SD_fwd_plus_1": 3148.3347589041737,
-    "SD_fwd_plus_2": 3792.5026892414594
+    "SD_fwd_plus_2": 3792.5026892414594,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25737,7 +26516,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1889.081957042556,
     "SD_fwd_mean": 2543.322137326468,
     "SD_fwd_plus_1": 3197.5623176103795,
-    "SD_fwd_plus_2": 3851.8024978942913
+    "SD_fwd_plus_2": 3851.8024978942913,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25770,7 +26550,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1895.8940403249528,
     "SD_fwd_mean": 2552.49342931242,
     "SD_fwd_plus_1": 3209.0928182998878,
-    "SD_fwd_plus_2": 3865.6922072873535
+    "SD_fwd_plus_2": 3865.6922072873535,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25803,7 +26584,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1901.7448894316765,
     "SD_fwd_mean": 2560.370585726843,
     "SD_fwd_plus_1": 3218.9962820220085,
-    "SD_fwd_plus_2": 3877.621978317175
+    "SD_fwd_plus_2": 3877.621978317175,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25836,7 +26618,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1914.101307769994,
     "SD_fwd_mean": 2577.006365969596,
     "SD_fwd_plus_1": 3239.9114241691973,
-    "SD_fwd_plus_2": 3902.816482368799
+    "SD_fwd_plus_2": 3902.816482368799,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25869,7 +26652,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1913.19031965824,
     "SD_fwd_mean": 2575.7798780330463,
     "SD_fwd_plus_1": 3238.3694364078524,
-    "SD_fwd_plus_2": 3900.958994782659
+    "SD_fwd_plus_2": 3900.958994782659,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25902,7 +26686,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1918.4086022520585,
     "SD_fwd_mean": 2582.805393040591,
     "SD_fwd_plus_1": 3247.202183829123,
-    "SD_fwd_plus_2": 3911.598974617656
+    "SD_fwd_plus_2": 3911.598974617656,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25935,7 +26720,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1913.0510978741704,
     "SD_fwd_mean": 2575.592439979286,
     "SD_fwd_plus_1": 3238.133782084401,
-    "SD_fwd_plus_2": 3900.675124189517
+    "SD_fwd_plus_2": 3900.675124189517,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -25968,7 +26754,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1918.197958966645,
     "SD_fwd_mean": 2582.5217982876616,
     "SD_fwd_plus_1": 3246.8456376086774,
-    "SD_fwd_plus_2": 3911.1694769296937
+    "SD_fwd_plus_2": 3911.1694769296937,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26001,7 +26788,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1918.4792638510064,
     "SD_fwd_mean": 2582.900526662609,
     "SD_fwd_plus_1": 3247.321789474212,
-    "SD_fwd_plus_2": 3911.7430522858144
+    "SD_fwd_plus_2": 3911.7430522858144,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26034,7 +26822,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1928.642477603696,
     "SD_fwd_mean": 2596.5835362468324,
     "SD_fwd_plus_1": 3264.5245948899687,
-    "SD_fwd_plus_2": 3932.465653533105
+    "SD_fwd_plus_2": 3932.465653533105,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26067,7 +26856,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 1939.933106545072,
     "SD_fwd_mean": 2611.7844153955043,
     "SD_fwd_plus_1": 3283.6357242459367,
-    "SD_fwd_plus_2": 3955.487033096369
+    "SD_fwd_plus_2": 3955.487033096369,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26100,7 +26890,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2060.543377061042,
     "SD_fwd_mean": 2774.165285028303,
     "SD_fwd_plus_1": 3487.7871929955645,
-    "SD_fwd_plus_2": 4201.409100962826
+    "SD_fwd_plus_2": 4201.409100962826,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26133,7 +26924,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2103.6284295235964,
     "SD_fwd_mean": 2832.171856584065,
     "SD_fwd_plus_1": 3560.715283644533,
-    "SD_fwd_plus_2": 4289.258710705002
+    "SD_fwd_plus_2": 4289.258710705002,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26166,7 +26958,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2135.784222803943,
     "SD_fwd_mean": 2875.464070872763,
     "SD_fwd_plus_1": 3615.143918941583,
-    "SD_fwd_plus_2": 4354.823767010403
+    "SD_fwd_plus_2": 4354.823767010403,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26199,7 +26992,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2142.0059048693624,
     "SD_fwd_mean": 2883.840489730292,
     "SD_fwd_plus_1": 3625.675074591221,
-    "SD_fwd_plus_2": 4367.50965945215
+    "SD_fwd_plus_2": 4367.50965945215,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26232,7 +27026,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2160.0265237994163,
     "SD_fwd_mean": 2908.102136443006,
     "SD_fwd_plus_1": 3656.177749086596,
-    "SD_fwd_plus_2": 4404.253361730186
+    "SD_fwd_plus_2": 4404.253361730186,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26265,7 +27060,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2162.472368751992,
     "SD_fwd_mean": 2911.395043661332,
     "SD_fwd_plus_1": 3660.3177185706713,
-    "SD_fwd_plus_2": 4409.240393480011
+    "SD_fwd_plus_2": 4409.240393480011,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26298,7 +27094,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2168.77211029919,
     "SD_fwd_mean": 2919.876556110642,
     "SD_fwd_plus_1": 3670.981001922094,
-    "SD_fwd_plus_2": 4422.085447733546
+    "SD_fwd_plus_2": 4422.085447733546,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26331,7 +27128,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2180.823651997863,
     "SD_fwd_mean": 2936.101872686708,
     "SD_fwd_plus_1": 3691.380093375552,
-    "SD_fwd_plus_2": 4446.658314064396
+    "SD_fwd_plus_2": 4446.658314064396,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26364,7 +27162,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2177.1687074835504,
     "SD_fwd_mean": 2931.1811220229806,
     "SD_fwd_plus_1": 3685.193536562411,
-    "SD_fwd_plus_2": 4439.2059511018415
+    "SD_fwd_plus_2": 4439.2059511018415,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26397,7 +27196,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2175.702319854602,
     "SD_fwd_mean": 2929.2068846932016,
     "SD_fwd_plus_1": 3682.711449531801,
-    "SD_fwd_plus_2": 4436.2160143704
+    "SD_fwd_plus_2": 4436.2160143704,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26430,7 +27230,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2187.153277229677,
     "SD_fwd_mean": 2944.623618348952,
     "SD_fwd_plus_1": 3702.0939594682272,
-    "SD_fwd_plus_2": 4459.564300587503
+    "SD_fwd_plus_2": 4459.564300587503,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26463,7 +27264,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2194.154529008353,
     "SD_fwd_mean": 2954.049592998342,
     "SD_fwd_plus_1": 3713.944656988332,
-    "SD_fwd_plus_2": 4473.839720978321
+    "SD_fwd_plus_2": 4473.839720978321,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26496,7 +27298,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2197.5101939126607,
     "SD_fwd_mean": 2958.567415427781,
     "SD_fwd_plus_1": 3719.624636942901,
-    "SD_fwd_plus_2": 4480.681858458021
+    "SD_fwd_plus_2": 4480.681858458021,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26529,7 +27332,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2168.100296291821,
     "SD_fwd_mean": 2918.9720747403458,
     "SD_fwd_plus_1": 3669.843853188871,
-    "SD_fwd_plus_2": 4420.715631637396
+    "SD_fwd_plus_2": 4420.715631637396,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26562,7 +27366,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2206.677159962976,
     "SD_fwd_mean": 2970.90914978238,
     "SD_fwd_plus_1": 3735.141139601785,
-    "SD_fwd_plus_2": 4499.37312942119
+    "SD_fwd_plus_2": 4499.37312942119,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26595,7 +27400,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2278.168834071659,
     "SD_fwd_mean": 3067.160324442797,
     "SD_fwd_plus_1": 3856.151814813935,
-    "SD_fwd_plus_2": 4645.143305185073
+    "SD_fwd_plus_2": 4645.143305185073,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26628,7 +27434,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2271.823390709221,
     "SD_fwd_mean": 3058.617282403421,
     "SD_fwd_plus_1": 3845.411174097621,
-    "SD_fwd_plus_2": 4632.205065791822
+    "SD_fwd_plus_2": 4632.205065791822,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26661,7 +27468,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2280.6257589042875,
     "SD_fwd_mean": 3070.4681488033416,
     "SD_fwd_plus_1": 3860.310538702396,
-    "SD_fwd_plus_2": 4650.15292860145
+    "SD_fwd_plus_2": 4650.15292860145,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26694,7 +27502,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2289.4745939344657,
     "SD_fwd_mean": 3082.381574760273,
     "SD_fwd_plus_1": 3875.288555586081,
-    "SD_fwd_plus_2": 4668.1955364118885
+    "SD_fwd_plus_2": 4668.1955364118885,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26727,7 +27536,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2312.5499936391225,
     "SD_fwd_mean": 3113.4486095586944,
     "SD_fwd_plus_1": 3914.3472254782655,
-    "SD_fwd_plus_2": 4715.245841397838
+    "SD_fwd_plus_2": 4715.245841397838,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26760,7 +27570,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2339.143710990924,
     "SD_fwd_mean": 3149.252450573897,
     "SD_fwd_plus_1": 3959.36119015687,
-    "SD_fwd_plus_2": 4769.469929739843
+    "SD_fwd_plus_2": 4769.469929739843,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26793,7 +27604,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2349.9624331705954,
     "SD_fwd_mean": 3163.8179888844847,
     "SD_fwd_plus_1": 3977.673544598374,
-    "SD_fwd_plus_2": 4791.529100312263
+    "SD_fwd_plus_2": 4791.529100312263,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26826,7 +27638,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2351.309815374642,
     "SD_fwd_mean": 3165.632005991692,
     "SD_fwd_plus_1": 3979.954196608741,
-    "SD_fwd_plus_2": 4794.276387225791
+    "SD_fwd_plus_2": 4794.276387225791,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26859,7 +27672,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2359.5839942344887,
     "SD_fwd_mean": 3176.771756802393,
     "SD_fwd_plus_1": 3993.959519370298,
-    "SD_fwd_plus_2": 4811.1472819382025
+    "SD_fwd_plus_2": 4811.1472819382025,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26892,7 +27706,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2370.3344059940314,
     "SD_fwd_mean": 3191.245326946605,
     "SD_fwd_plus_1": 4012.156247899178,
-    "SD_fwd_plus_2": 4833.067168851752
+    "SD_fwd_plus_2": 4833.067168851752,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26925,7 +27740,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2361.0191474937483,
     "SD_fwd_mean": 3178.7039424553896,
     "SD_fwd_plus_1": 3996.388737417031,
-    "SD_fwd_plus_2": 4814.073532378672
+    "SD_fwd_plus_2": 4814.073532378672,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26958,7 +27774,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2368.9784225475523,
     "SD_fwd_mean": 3189.419729754052,
     "SD_fwd_plus_1": 4009.861036960552,
-    "SD_fwd_plus_2": 4830.302344167052
+    "SD_fwd_plus_2": 4830.302344167052,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -26991,7 +27808,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2335.6957169579928,
     "SD_fwd_mean": 3144.6103229411437,
     "SD_fwd_plus_1": 3953.524928924294,
-    "SD_fwd_plus_2": 4762.439534907445
+    "SD_fwd_plus_2": 4762.439534907445,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27024,7 +27842,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2364.2819978347125,
     "SD_fwd_mean": 3183.0968061276194,
     "SD_fwd_plus_1": 4001.9116144205263,
-    "SD_fwd_plus_2": 4820.726422713434
+    "SD_fwd_plus_2": 4820.726422713434,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27057,7 +27876,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2624.638155749277,
     "SD_fwd_mean": 3533.62134400952,
     "SD_fwd_plus_1": 4442.604532269763,
-    "SD_fwd_plus_2": 5351.587720530005
+    "SD_fwd_plus_2": 5351.587720530005,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27090,7 +27910,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2621.3381647249907,
     "SD_fwd_mean": 3529.1784768306998,
     "SD_fwd_plus_1": 4437.018788936408,
-    "SD_fwd_plus_2": 5344.859101042117
+    "SD_fwd_plus_2": 5344.859101042117,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27123,7 +27944,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2650.107184138937,
     "SD_fwd_mean": 3567.910985852814,
     "SD_fwd_plus_1": 4485.714787566692,
-    "SD_fwd_plus_2": 5403.518589280568
+    "SD_fwd_plus_2": 5403.518589280568,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27156,7 +27978,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2538.1808803247764,
     "SD_fwd_mean": 3417.221575486872,
     "SD_fwd_plus_1": 4296.262270648967,
-    "SD_fwd_plus_2": 5175.302965811064
+    "SD_fwd_plus_2": 5175.302965811064,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27189,7 +28012,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2485.3410478220367,
     "SD_fwd_mean": 3346.081879701924,
     "SD_fwd_plus_1": 4206.822711581812,
-    "SD_fwd_plus_2": 5067.5635434617
+    "SD_fwd_plus_2": 5067.5635434617,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27222,7 +28046,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2754.227028566588,
     "SD_fwd_mean": 3708.090348786545,
     "SD_fwd_plus_1": 4661.953669006502,
-    "SD_fwd_plus_2": 5615.81698922646
+    "SD_fwd_plus_2": 5615.81698922646,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27255,7 +28080,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2872.4109806822034,
     "SD_fwd_mean": 3867.204600326456,
     "SD_fwd_plus_1": 4861.998219970709,
-    "SD_fwd_plus_2": 5856.791839614963
+    "SD_fwd_plus_2": 5856.791839614963,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27288,7 +28114,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2785.9687753716853,
     "SD_fwd_mean": 3750.825121105901,
     "SD_fwd_plus_1": 4715.681466840116,
-    "SD_fwd_plus_2": 5680.537812574332
+    "SD_fwd_plus_2": 5680.537812574332,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27321,7 +28148,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2622.992398179177,
     "SD_fwd_mean": 3531.4056160761165,
     "SD_fwd_plus_1": 4439.818833973056,
-    "SD_fwd_plus_2": 5348.232051869994
+    "SD_fwd_plus_2": 5348.232051869994,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27354,7 +28182,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2586.76760308927,
     "SD_fwd_mean": 3482.635194587092,
     "SD_fwd_plus_1": 4378.502786084914,
-    "SD_fwd_plus_2": 5274.370377582736
+    "SD_fwd_plus_2": 5274.370377582736,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27387,7 +28216,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2595.84408061145,
     "SD_fwd_mean": 3494.8551017886016,
     "SD_fwd_plus_1": 4393.866122965754,
-    "SD_fwd_plus_2": 5292.877144142905
+    "SD_fwd_plus_2": 5292.877144142905,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27420,7 +28250,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2577.2434238909677,
     "SD_fwd_mean": 3469.81253450895,
     "SD_fwd_plus_1": 4362.381645126933,
-    "SD_fwd_plus_2": 5254.950755744916
+    "SD_fwd_plus_2": 5254.950755744916,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27453,7 +28284,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2676.876585912536,
     "SD_fwd_mean": 3603.951355557244,
     "SD_fwd_plus_1": 4531.026125201951,
-    "SD_fwd_plus_2": 5458.100894846659
+    "SD_fwd_plus_2": 5458.100894846659,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27486,7 +28318,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2712.353468744258,
     "SD_fwd_mean": 3651.714842542484,
     "SD_fwd_plus_1": 4591.076216340711,
-    "SD_fwd_plus_2": 5530.437590138937
+    "SD_fwd_plus_2": 5530.437590138937,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27519,7 +28352,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2678.442466564836,
     "SD_fwd_mean": 3606.059543035589,
     "SD_fwd_plus_1": 4533.676619506343,
-    "SD_fwd_plus_2": 5461.293695977096
+    "SD_fwd_plus_2": 5461.293695977096,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27552,7 +28386,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2946.353693941435,
     "SD_fwd_mean": 3966.755675294428,
     "SD_fwd_plus_1": 4987.157656647422,
-    "SD_fwd_plus_2": 6007.559638000415
+    "SD_fwd_plus_2": 6007.559638000415,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27585,7 +28420,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2949.1195644734275,
     "SD_fwd_mean": 3970.479441606827,
     "SD_fwd_plus_1": 4991.839318740227,
-    "SD_fwd_plus_2": 6013.199195873627
+    "SD_fwd_plus_2": 6013.199195873627,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27618,7 +28454,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2777.559219704865,
     "SD_fwd_mean": 3739.503108838107,
     "SD_fwd_plus_1": 4701.446997971349,
-    "SD_fwd_plus_2": 5663.390887104592
+    "SD_fwd_plus_2": 5663.390887104592,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27651,7 +28488,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2576.719310808815,
     "SD_fwd_mean": 3469.1069068894967,
     "SD_fwd_plus_1": 4361.4945029701785,
-    "SD_fwd_plus_2": 5253.882099050861
+    "SD_fwd_plus_2": 5253.882099050861,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27684,7 +28522,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2768.793637594588,
     "SD_fwd_mean": 3727.701768539181,
     "SD_fwd_plus_1": 4686.609899483775,
-    "SD_fwd_plus_2": 5645.518030428368
+    "SD_fwd_plus_2": 5645.518030428368,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27717,7 +28556,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2648.324888117573,
     "SD_fwd_mean": 3565.511432509189,
     "SD_fwd_plus_1": 4482.697976900805,
-    "SD_fwd_plus_2": 5399.884521292421
+    "SD_fwd_plus_2": 5399.884521292421,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27750,7 +28590,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2591.520786939845,
     "SD_fwd_mean": 3489.03453457596,
     "SD_fwd_plus_1": 4386.548282212075,
-    "SD_fwd_plus_2": 5284.062029848189
+    "SD_fwd_plus_2": 5284.062029848189,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27783,7 +28624,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2591.587783952597,
     "SD_fwd_mean": 3489.124734466457,
     "SD_fwd_plus_1": 4386.661684980318,
-    "SD_fwd_plus_2": 5284.198635494178
+    "SD_fwd_plus_2": 5284.198635494178,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27816,7 +28658,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2564.8422093317745,
     "SD_fwd_mean": 3453.1164439023214,
     "SD_fwd_plus_1": 4341.390678472869,
-    "SD_fwd_plus_2": 5229.664913043415
+    "SD_fwd_plus_2": 5229.664913043415,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27849,7 +28692,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2527.412832006989,
     "SD_fwd_mean": 3402.724260767238,
     "SD_fwd_plus_1": 4278.035689527486,
-    "SD_fwd_plus_2": 5153.347118287734
+    "SD_fwd_plus_2": 5153.347118287734,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27882,7 +28726,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2523.31349989189,
     "SD_fwd_mean": 3397.205219056147,
     "SD_fwd_plus_1": 4271.096938220405,
-    "SD_fwd_plus_2": 5144.988657384662
+    "SD_fwd_plus_2": 5144.988657384662,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27915,7 +28760,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2557.2665646186106,
     "SD_fwd_mean": 3442.9171485082384,
     "SD_fwd_plus_1": 4328.567732397866,
-    "SD_fwd_plus_2": 5214.2183162874935
+    "SD_fwd_plus_2": 5214.2183162874935,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27948,7 +28794,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2526.554507428885,
     "SD_fwd_mean": 3401.5686751705584,
     "SD_fwd_plus_1": 4276.582842912232,
-    "SD_fwd_plus_2": 5151.597010653906
+    "SD_fwd_plus_2": 5151.597010653906,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -27981,7 +28828,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2528.300510721096,
     "SD_fwd_mean": 3403.9193666312285,
     "SD_fwd_plus_1": 4279.538222541361,
-    "SD_fwd_plus_2": 5155.157078451493
+    "SD_fwd_plus_2": 5155.157078451493,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28014,7 +28862,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2503.7688271109782,
     "SD_fwd_mean": 3370.89169741926,
     "SD_fwd_plus_1": 4238.01456772754,
-    "SD_fwd_plus_2": 5105.137438035821
+    "SD_fwd_plus_2": 5105.137438035821,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28047,7 +28896,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2501.073442094381,
     "SD_fwd_mean": 3367.2628276628284,
     "SD_fwd_plus_1": 4233.452213231276,
-    "SD_fwd_plus_2": 5099.641598799724
+    "SD_fwd_plus_2": 5099.641598799724,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28080,7 +28930,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2452.138473829326,
     "SD_fwd_mean": 3301.380356225366,
     "SD_fwd_plus_1": 4150.622238621406,
-    "SD_fwd_plus_2": 4999.8641210174455
+    "SD_fwd_plus_2": 4999.8641210174455,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28113,7 +28964,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2463.558672922321,
     "SD_fwd_mean": 3316.755679173959,
     "SD_fwd_plus_1": 4169.952685425596,
-    "SD_fwd_plus_2": 5023.149691677235
+    "SD_fwd_plus_2": 5023.149691677235,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28146,7 +28998,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2440.594418299056,
     "SD_fwd_mean": 3285.8382820050256,
     "SD_fwd_plus_1": 4131.082145710995,
-    "SD_fwd_plus_2": 4976.326009416964
+    "SD_fwd_plus_2": 4976.326009416964,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28179,7 +29032,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2446.633892716648,
     "SD_fwd_mean": 3293.9693897776733,
     "SD_fwd_plus_1": 4141.304886838699,
-    "SD_fwd_plus_2": 4988.640383899725
+    "SD_fwd_plus_2": 4988.640383899725,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28212,7 +29066,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2179.310482105467,
     "SD_fwd_mean": 2934.064651130216,
     "SD_fwd_plus_1": 3688.818820154964,
-    "SD_fwd_plus_2": 4443.572989179713
+    "SD_fwd_plus_2": 4443.572989179713,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28245,7 +29100,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2288.291278322499,
     "SD_fwd_mean": 3080.7884449438884,
     "SD_fwd_plus_1": 3873.285611565278,
-    "SD_fwd_plus_2": 4665.782778186667
+    "SD_fwd_plus_2": 4665.782778186667,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28278,7 +29134,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2229.7215688776487,
     "SD_fwd_mean": 3001.934460841964,
     "SD_fwd_plus_1": 3774.147352806279,
-    "SD_fwd_plus_2": 4546.360244770593
+    "SD_fwd_plus_2": 4546.360244770593,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28311,7 +29168,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2183.9001720013803,
     "SD_fwd_mean": 2940.243874785506,
     "SD_fwd_plus_1": 3696.587577569632,
-    "SD_fwd_plus_2": 4452.931280353758
+    "SD_fwd_plus_2": 4452.931280353758,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28344,7 +29202,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2174.1703147459657,
     "SD_fwd_mean": 2927.144304775604,
     "SD_fwd_plus_1": 3680.1182948052415,
-    "SD_fwd_plus_2": 4433.092284834879
+    "SD_fwd_plus_2": 4433.092284834879,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28377,7 +29236,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2246.2116320351997,
     "SD_fwd_mean": 3024.1354789175207,
     "SD_fwd_plus_1": 3802.059325799842,
-    "SD_fwd_plus_2": 4579.983172682163
+    "SD_fwd_plus_2": 4579.983172682163,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28410,7 +29270,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2230.048587949496,
     "SD_fwd_mean": 3002.374735464066,
     "SD_fwd_plus_1": 3774.700882978636,
-    "SD_fwd_plus_2": 4547.0270304932055
+    "SD_fwd_plus_2": 4547.0270304932055,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28443,7 +29304,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2233.4763328855133,
     "SD_fwd_mean": 3006.989601189918,
     "SD_fwd_plus_1": 3780.502869494323,
-    "SD_fwd_plus_2": 4554.016137798728
+    "SD_fwd_plus_2": 4554.016137798728,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28476,7 +29338,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2250.0714505979204,
     "SD_fwd_mean": 3029.3320570543424,
     "SD_fwd_plus_1": 3808.592663510765,
-    "SD_fwd_plus_2": 4587.853269967187
+    "SD_fwd_plus_2": 4587.853269967187,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28509,7 +29372,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2254.999909034077,
     "SD_fwd_mean": 3035.967373958854,
     "SD_fwd_plus_1": 3816.9348388836297,
-    "SD_fwd_plus_2": 4597.902303808406
+    "SD_fwd_plus_2": 4597.902303808406,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28542,7 +29406,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2247.848254492584,
     "SD_fwd_mean": 3026.3389080015763,
     "SD_fwd_plus_1": 3804.829561510568,
-    "SD_fwd_plus_2": 4583.32021501956
+    "SD_fwd_plus_2": 4583.32021501956,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28575,7 +29440,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2234.37059165763,
     "SD_fwd_mean": 3008.193565963995,
     "SD_fwd_plus_1": 3782.01654027036,
-    "SD_fwd_plus_2": 4555.8395145767245
+    "SD_fwd_plus_2": 4555.8395145767245,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28608,7 +29474,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2219.553049253112,
     "SD_fwd_mean": 2988.244307818952,
     "SD_fwd_plus_1": 3756.935566384792,
-    "SD_fwd_plus_2": 4525.626824950632
+    "SD_fwd_plus_2": 4525.626824950632,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28641,7 +29508,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2163.151509056483,
     "SD_fwd_mean": 2912.309388623616,
     "SD_fwd_plus_1": 3661.467268190748,
-    "SD_fwd_plus_2": 4410.62514775788
+    "SD_fwd_plus_2": 4410.62514775788,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28674,7 +29542,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2166.364698312784,
     "SD_fwd_mean": 2916.63539223426,
     "SD_fwd_plus_1": 3666.906086155736,
-    "SD_fwd_plus_2": 4417.176780077211
+    "SD_fwd_plus_2": 4417.176780077211,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28707,7 +29576,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2197.938413399668,
     "SD_fwd_mean": 2959.143938906225,
     "SD_fwd_plus_1": 3720.349464412783,
-    "SD_fwd_plus_2": 4481.55498991934
+    "SD_fwd_plus_2": 4481.55498991934,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28740,7 +29610,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2113.587415646597,
     "SD_fwd_mean": 2845.5799089862003,
     "SD_fwd_plus_1": 3577.5724023258035,
-    "SD_fwd_plus_2": 4309.564895665407
+    "SD_fwd_plus_2": 4309.564895665407,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28773,7 +29644,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2089.486394889455,
     "SD_fwd_mean": 2813.1320528223696,
     "SD_fwd_plus_1": 3536.777710755284,
-    "SD_fwd_plus_2": 4260.423368688199
+    "SD_fwd_plus_2": 4260.423368688199,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28806,7 +29678,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2101.059786057553,
     "SD_fwd_mean": 2828.7136224054307,
     "SD_fwd_plus_1": 3556.3674587533083,
-    "SD_fwd_plus_2": 4284.021295101185
+    "SD_fwd_plus_2": 4284.021295101185,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28839,7 +29712,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2116.876647198534,
     "SD_fwd_mean": 2850.008290396359,
     "SD_fwd_plus_1": 3583.139933594184,
-    "SD_fwd_plus_2": 4316.271576792009
+    "SD_fwd_plus_2": 4316.271576792009,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28872,7 +29746,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2101.6611585788546,
     "SD_fwd_mean": 2829.5232664976324,
     "SD_fwd_plus_1": 3557.3853744164107,
-    "SD_fwd_plus_2": 4285.247482335189
+    "SD_fwd_plus_2": 4285.247482335189,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28905,7 +29780,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2100.6650967553696,
     "SD_fwd_mean": 2828.182241521786,
     "SD_fwd_plus_1": 3555.6993862882027,
-    "SD_fwd_plus_2": 4283.216531054619
+    "SD_fwd_plus_2": 4283.216531054619,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28938,7 +29814,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2109.8684242698887,
     "SD_fwd_mean": 2840.5729302992,
     "SD_fwd_plus_1": 3571.2774363285107,
-    "SD_fwd_plus_2": 4301.981942357822
+    "SD_fwd_plus_2": 4301.981942357822,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -28971,7 +29848,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2119.3023823299163,
     "SD_fwd_mean": 2853.274123218453,
     "SD_fwd_plus_1": 3587.24586410699,
-    "SD_fwd_plus_2": 4321.217604995527
+    "SD_fwd_plus_2": 4321.217604995527,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29004,7 +29882,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2119.779155712309,
     "SD_fwd_mean": 2853.916016119609,
     "SD_fwd_plus_1": 3588.052876526909,
-    "SD_fwd_plus_2": 4322.189736934209
+    "SD_fwd_plus_2": 4322.189736934209,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29037,7 +29916,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2129.6681321431724,
     "SD_fwd_mean": 2867.2298125794982,
     "SD_fwd_plus_1": 3604.791493015825,
-    "SD_fwd_plus_2": 4342.35317345215
+    "SD_fwd_plus_2": 4342.35317345215,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29070,7 +29950,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2134.38157465537,
     "SD_fwd_mean": 2873.575647729528,
     "SD_fwd_plus_1": 3612.769720803687,
-    "SD_fwd_plus_2": 4351.963793877845
+    "SD_fwd_plus_2": 4351.963793877845,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29103,7 +29984,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2131.8043347022217,
     "SD_fwd_mean": 2870.105839867774,
     "SD_fwd_plus_1": 3608.407345033327,
-    "SD_fwd_plus_2": 4346.708850198879
+    "SD_fwd_plus_2": 4346.708850198879,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29136,7 +30018,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2132.95503114113,
     "SD_fwd_mean": 2871.6550536091404,
     "SD_fwd_plus_1": 3610.355076077152,
-    "SD_fwd_plus_2": 4349.055098545162
+    "SD_fwd_plus_2": 4349.055098545162,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29169,7 +30052,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2113.285873495984,
     "SD_fwd_mean": 2845.173934632291,
     "SD_fwd_plus_1": 3577.0619957685985,
-    "SD_fwd_plus_2": 4308.950056904906
+    "SD_fwd_plus_2": 4308.950056904906,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29202,7 +30086,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2086.822962021003,
     "SD_fwd_mean": 2809.5462011072746,
     "SD_fwd_plus_1": 3532.269440193546,
-    "SD_fwd_plus_2": 4254.992679279817
+    "SD_fwd_plus_2": 4254.992679279817,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29235,7 +30120,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2096.2850303082246,
     "SD_fwd_mean": 2822.2852395857635,
     "SD_fwd_plus_1": 3548.285448863303,
-    "SD_fwd_plus_2": 4274.285658140842
+    "SD_fwd_plus_2": 4274.285658140842,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29268,7 +30154,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2127.758056415876,
     "SD_fwd_mean": 2864.6582259614106,
     "SD_fwd_plus_1": 3601.5583955069446,
-    "SD_fwd_plus_2": 4338.458565052479
+    "SD_fwd_plus_2": 4338.458565052479,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29301,7 +30188,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2141.608890469988,
     "SD_fwd_mean": 2883.305978505407,
     "SD_fwd_plus_1": 3625.003066540826,
-    "SD_fwd_plus_2": 4366.700154576244
+    "SD_fwd_plus_2": 4366.700154576244,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29334,7 +30222,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2140.752521913917,
     "SD_fwd_mean": 2882.1530263541,
     "SD_fwd_plus_1": 3623.553530794284,
-    "SD_fwd_plus_2": 4364.954035234467
+    "SD_fwd_plus_2": 4364.954035234467,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29367,7 +30256,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2161.5242850674226,
     "SD_fwd_mean": 2910.118612951688,
     "SD_fwd_plus_1": 3658.712940835953,
-    "SD_fwd_plus_2": 4407.307268720218
+    "SD_fwd_plus_2": 4407.307268720218,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29400,7 +30290,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2163.9160897337265,
     "SD_fwd_mean": 2913.338764270848,
     "SD_fwd_plus_1": 3662.7614388079687,
-    "SD_fwd_plus_2": 4412.18411334509
+    "SD_fwd_plus_2": 4412.18411334509,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29433,7 +30324,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2184.079144708125,
     "SD_fwd_mean": 2940.484830581703,
     "SD_fwd_plus_1": 3696.8905164552816,
-    "SD_fwd_plus_2": 4453.29620232886
+    "SD_fwd_plus_2": 4453.29620232886,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29466,7 +30358,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2189.917831150992,
     "SD_fwd_mean": 2948.345612072781,
     "SD_fwd_plus_1": 3706.773392994572,
-    "SD_fwd_plus_2": 4465.201173916362
+    "SD_fwd_plus_2": 4465.201173916362,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29499,7 +30392,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2195.394623067152,
     "SD_fwd_mean": 2955.71916517352,
     "SD_fwd_plus_1": 3716.043707279889,
-    "SD_fwd_plus_2": 4476.368249386258
+    "SD_fwd_plus_2": 4476.368249386258,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29532,7 +30426,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2209.370817489538,
     "SD_fwd_mean": 2974.535693772249,
     "SD_fwd_plus_1": 3739.70057005496,
-    "SD_fwd_plus_2": 4504.865446337672
+    "SD_fwd_plus_2": 4504.865446337672,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29565,7 +30460,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2229.2764305476103,
     "SD_fwd_mean": 3001.3351590675024,
     "SD_fwd_plus_1": 3773.393887587394,
-    "SD_fwd_plus_2": 4545.452616107285
+    "SD_fwd_plus_2": 4545.452616107285,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29598,7 +30494,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2233.2910646989108,
     "SD_fwd_mean": 3006.7401696188995,
     "SD_fwd_plus_1": 3780.189274538888,
-    "SD_fwd_plus_2": 4553.638379458876
+    "SD_fwd_plus_2": 4553.638379458876,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29631,7 +30528,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2241.4993788527872,
     "SD_fwd_mean": 3017.791244994352,
     "SD_fwd_plus_1": 3794.083111135916,
-    "SD_fwd_plus_2": 4570.374977277481
+    "SD_fwd_plus_2": 4570.374977277481,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29664,7 +30562,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2248.658124415052,
     "SD_fwd_mean": 3027.429257784702,
     "SD_fwd_plus_1": 3806.200391154351,
-    "SD_fwd_plus_2": 4584.971524524
+    "SD_fwd_plus_2": 4584.971524524,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29697,7 +30596,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2283.3448861192046,
     "SD_fwd_mean": 3074.1289833235824,
     "SD_fwd_plus_1": 3864.91308052796,
-    "SD_fwd_plus_2": 4655.697177732338
+    "SD_fwd_plus_2": 4655.697177732338,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29730,7 +30630,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2300.9737305023227,
     "SD_fwd_mean": 3097.8631733664856,
     "SD_fwd_plus_1": 3894.752616230649,
-    "SD_fwd_plus_2": 4691.642059094812
+    "SD_fwd_plus_2": 4691.642059094812,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29763,7 +30664,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2320.8314684078136,
     "SD_fwd_mean": 3124.598183048823,
     "SD_fwd_plus_1": 3928.364897689833,
-    "SD_fwd_plus_2": 4732.1316123308425
+    "SD_fwd_plus_2": 4732.1316123308425,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29796,7 +30698,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2351.3092396585225,
     "SD_fwd_mean": 3165.631230889507,
     "SD_fwd_plus_1": 3979.953222120492,
-    "SD_fwd_plus_2": 4794.275213351477
+    "SD_fwd_plus_2": 4794.275213351477,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29829,7 +30732,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2349.044713324498,
     "SD_fwd_mean": 3162.5824378319,
     "SD_fwd_plus_1": 3976.120162339301,
-    "SD_fwd_plus_2": 4789.657886846703
+    "SD_fwd_plus_2": 4789.657886846703,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29862,7 +30766,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2357.970507700131,
     "SD_fwd_mean": 3174.599476237322,
     "SD_fwd_plus_1": 3991.228444774513,
-    "SD_fwd_plus_2": 4807.8574133117045
+    "SD_fwd_plus_2": 4807.8574133117045,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29895,7 +30800,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2361.2366638349167,
     "SD_fwd_mean": 3178.996790589194,
     "SD_fwd_plus_1": 3996.756917343472,
-    "SD_fwd_plus_2": 4814.517044097749
+    "SD_fwd_plus_2": 4814.517044097749,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29928,7 +30834,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2357.0217025362117,
     "SD_fwd_mean": 3173.322074180513,
     "SD_fwd_plus_1": 3989.622445824816,
-    "SD_fwd_plus_2": 4805.922817469118
+    "SD_fwd_plus_2": 4805.922817469118,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29961,7 +30868,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2363.513456088438,
     "SD_fwd_mean": 3182.0620975860065,
     "SD_fwd_plus_1": 4000.610739083575,
-    "SD_fwd_plus_2": 4819.159380581143
+    "SD_fwd_plus_2": 4819.159380581143,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -29994,7 +30902,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2365.8364103424856,
     "SD_fwd_mean": 3185.189553732782,
     "SD_fwd_plus_1": 4004.542697123078,
-    "SD_fwd_plus_2": 4823.895840513374
+    "SD_fwd_plus_2": 4823.895840513374,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30027,7 +30936,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2319.0442716232465,
     "SD_fwd_mean": 3122.192031675135,
     "SD_fwd_plus_1": 3925.339791727023,
-    "SD_fwd_plus_2": 4728.487551778911
+    "SD_fwd_plus_2": 4728.487551778911,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30060,7 +30970,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2306.3204139880318,
     "SD_fwd_mean": 3105.061557967951,
     "SD_fwd_plus_1": 3903.8027019478704,
-    "SD_fwd_plus_2": 4702.54384592779
+    "SD_fwd_plus_2": 4702.54384592779,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30093,7 +31004,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2329.025787244585,
     "SD_fwd_mean": 3135.6304161502926,
     "SD_fwd_plus_1": 3942.2350450559993,
-    "SD_fwd_plus_2": 4748.8396739617065
+    "SD_fwd_plus_2": 4748.8396739617065,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30126,7 +31038,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2337.815043782706,
     "SD_fwd_mean": 3147.463629971804,
     "SD_fwd_plus_1": 3957.112216160901,
-    "SD_fwd_plus_2": 4766.76080235
+    "SD_fwd_plus_2": 4766.76080235,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30159,7 +31072,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2362.4519468403605,
     "SD_fwd_mean": 3180.6329589721163,
     "SD_fwd_plus_1": 3998.813971103872,
-    "SD_fwd_plus_2": 4816.994983235628
+    "SD_fwd_plus_2": 4816.994983235628,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30192,7 +31106,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2363.5627854952536,
     "SD_fwd_mean": 3182.1285111007337,
     "SD_fwd_plus_1": 4000.694236706214,
-    "SD_fwd_plus_2": 4819.259962311694
+    "SD_fwd_plus_2": 4819.259962311694,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30225,7 +31140,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2360.770919780442,
     "SD_fwd_mean": 3178.369746770551,
     "SD_fwd_plus_1": 3995.96857376066,
-    "SD_fwd_plus_2": 4813.567400750769
+    "SD_fwd_plus_2": 4813.567400750769,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30258,7 +31174,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2385.1317233470863,
     "SD_fwd_mean": 3211.1673555577872,
     "SD_fwd_plus_1": 4037.202987768488,
-    "SD_fwd_plus_2": 4863.238619979189
+    "SD_fwd_plus_2": 4863.238619979189,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30291,7 +31208,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2396.361097819177,
     "SD_fwd_mean": 3226.285766157562,
     "SD_fwd_plus_1": 4056.210434495948,
-    "SD_fwd_plus_2": 4886.135102834333
+    "SD_fwd_plus_2": 4886.135102834333,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30324,7 +31242,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2396.3751538376905,
     "SD_fwd_mean": 3226.3046901554944,
     "SD_fwd_plus_1": 4056.2342264732974,
-    "SD_fwd_plus_2": 4886.163762791102
+    "SD_fwd_plus_2": 4886.163762791102,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30357,7 +31276,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2383.86736191265,
     "SD_fwd_mean": 3209.465111558369,
     "SD_fwd_plus_1": 4035.0628612040887,
-    "SD_fwd_plus_2": 4860.660610849808
+    "SD_fwd_plus_2": 4860.660610849808,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30390,7 +31310,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2366.04699766692,
     "SD_fwd_mean": 3185.473073143932,
     "SD_fwd_plus_1": 4004.899148620944,
-    "SD_fwd_plus_2": 4824.325224097956
+    "SD_fwd_plus_2": 4824.325224097956,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30423,7 +31344,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2317.567841572528,
     "SD_fwd_mean": 3120.2042739612843,
     "SD_fwd_plus_1": 3922.840706350041,
-    "SD_fwd_plus_2": 4725.477138738797
+    "SD_fwd_plus_2": 4725.477138738797,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30456,7 +31378,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2271.2075135890364,
     "SD_fwd_mean": 3057.788110377402,
     "SD_fwd_plus_1": 3844.3687071657673,
-    "SD_fwd_plus_2": 4630.949303954132
+    "SD_fwd_plus_2": 4630.949303954132,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30489,7 +31412,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2248.38085875343,
     "SD_fwd_mean": 3027.055967524586,
     "SD_fwd_plus_1": 3805.7310762957422,
-    "SD_fwd_plus_2": 4584.406185066899
+    "SD_fwd_plus_2": 4584.406185066899,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30522,7 +31446,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2229.0421902727057,
     "SD_fwd_mean": 3001.019795049336,
     "SD_fwd_plus_1": 3772.997399825966,
-    "SD_fwd_plus_2": 4544.975004602596
+    "SD_fwd_plus_2": 4544.975004602596,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30555,7 +31480,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2299.72817890601,
     "SD_fwd_mean": 3096.186253560929,
     "SD_fwd_plus_1": 3892.644328215848,
-    "SD_fwd_plus_2": 4689.102402870767
+    "SD_fwd_plus_2": 4689.102402870767,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30588,7 +31514,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2304.60906724703,
     "SD_fwd_mean": 3102.7575255596144,
     "SD_fwd_plus_1": 3900.9059838721982,
-    "SD_fwd_plus_2": 4699.054442184783
+    "SD_fwd_plus_2": 4699.054442184783,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30621,7 +31548,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2317.2233166723995,
     "SD_fwd_mean": 3119.740430769045,
     "SD_fwd_plus_1": 3922.2575448656894,
-    "SD_fwd_plus_2": 4724.774658962336
+    "SD_fwd_plus_2": 4724.774658962336,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30654,7 +31582,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2325.457573616003,
     "SD_fwd_mean": 3130.8264336240445,
     "SD_fwd_plus_1": 3936.195293632085,
-    "SD_fwd_plus_2": 4741.564153640126
+    "SD_fwd_plus_2": 4741.564153640126,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30687,7 +31616,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2314.471986421096,
     "SD_fwd_mean": 3116.036240429843,
     "SD_fwd_plus_1": 3917.600494438591,
-    "SD_fwd_plus_2": 4719.164748447339
+    "SD_fwd_plus_2": 4719.164748447339,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30720,7 +31650,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2330.82528822567,
     "SD_fwd_mean": 3138.0531329965747,
     "SD_fwd_plus_1": 3945.280977767479,
-    "SD_fwd_plus_2": 4752.508822538382
+    "SD_fwd_plus_2": 4752.508822538382,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30753,7 +31684,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2338.985096255972,
     "SD_fwd_mean": 3149.038903265796,
     "SD_fwd_plus_1": 3959.09271027562,
-    "SD_fwd_plus_2": 4769.146517285443
+    "SD_fwd_plus_2": 4769.146517285443,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30786,7 +31718,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2341.0115117808155,
     "SD_fwd_mean": 3151.767121300245,
     "SD_fwd_plus_1": 3962.5227308196745,
-    "SD_fwd_plus_2": 4773.278340339104
+    "SD_fwd_plus_2": 4773.278340339104,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30819,7 +31752,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2359.611610694424,
     "SD_fwd_mean": 3176.8089375894137,
     "SD_fwd_plus_1": 3994.0062644844033,
-    "SD_fwd_plus_2": 4811.2035913793925
+    "SD_fwd_plus_2": 4811.2035913793925,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30852,7 +31786,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2375.135465747683,
     "SD_fwd_mean": 3197.7091235588,
     "SD_fwd_plus_1": 4020.282781369917,
-    "SD_fwd_plus_2": 4842.856439181032
+    "SD_fwd_plus_2": 4842.856439181032,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30885,7 +31820,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2379.187133681796,
     "SD_fwd_mean": 3203.1639936937386,
     "SD_fwd_plus_1": 4027.140853705682,
-    "SD_fwd_plus_2": 4851.1177137176255
+    "SD_fwd_plus_2": 4851.1177137176255,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30918,7 +31854,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2368.9238639646287,
     "SD_fwd_mean": 3189.3462760580846,
     "SD_fwd_plus_1": 4009.7686881515406,
-    "SD_fwd_plus_2": 4830.191100244997
+    "SD_fwd_plus_2": 4830.191100244997,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30951,7 +31888,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2381.937977069665,
     "SD_fwd_mean": 3206.8675285555296,
     "SD_fwd_plus_1": 4031.7970800413937,
-    "SD_fwd_plus_2": 4856.726631527258
+    "SD_fwd_plus_2": 4856.726631527258,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -30984,7 +31922,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2421.877391066779,
     "SD_fwd_mean": 3260.6390419575914,
     "SD_fwd_plus_1": 4099.400692848403,
-    "SD_fwd_plus_2": 4938.162343739215
+    "SD_fwd_plus_2": 4938.162343739215,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31017,7 +31956,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2435.954666955281,
     "SD_fwd_mean": 3279.5916592683466,
     "SD_fwd_plus_1": 4123.228651581411,
-    "SD_fwd_plus_2": 4966.865643894476
+    "SD_fwd_plus_2": 4966.865643894476,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31050,7 +31990,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2560.27049360766,
     "SD_fwd_mean": 3446.961419360714,
     "SD_fwd_plus_1": 4333.652345113768,
-    "SD_fwd_plus_2": 5220.343270866823
+    "SD_fwd_plus_2": 5220.343270866823,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31083,7 +32024,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2591.427388079709,
     "SD_fwd_mean": 3488.908789164175,
     "SD_fwd_plus_1": 4386.3901902486405,
-    "SD_fwd_plus_2": 5283.871591333105
+    "SD_fwd_plus_2": 5283.871591333105,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31116,7 +32058,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2603.8028534047976,
     "SD_fwd_mean": 3505.5702128804264,
     "SD_fwd_plus_1": 4407.337572356056,
-    "SD_fwd_plus_2": 5309.104931831685
+    "SD_fwd_plus_2": 5309.104931831685,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31149,7 +32092,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2590.336214219952,
     "SD_fwd_mean": 3487.4397122811697,
     "SD_fwd_plus_1": 4384.543210342387,
-    "SD_fwd_plus_2": 5281.646708403605
+    "SD_fwd_plus_2": 5281.646708403605,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31182,7 +32126,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2616.7321018951243,
     "SD_fwd_mean": 3522.9772098515496,
     "SD_fwd_plus_1": 4429.222317807975,
-    "SD_fwd_plus_2": 5335.4674257644
+    "SD_fwd_plus_2": 5335.4674257644,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31215,7 +32160,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2660.2548416440677,
     "SD_fwd_mean": 3581.5730516401604,
     "SD_fwd_plus_1": 4502.891261636254,
-    "SD_fwd_plus_2": 5424.209471632347
+    "SD_fwd_plus_2": 5424.209471632347,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31248,7 +32194,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2702.676495151364,
     "SD_fwd_mean": 3638.6864712379056,
     "SD_fwd_plus_1": 4574.696447324447,
-    "SD_fwd_plus_2": 5510.7064234109885
+    "SD_fwd_plus_2": 5510.7064234109885,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31281,7 +32228,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2705.5952606008705,
     "SD_fwd_mean": 3642.616084113471,
     "SD_fwd_plus_1": 4579.636907626072,
-    "SD_fwd_plus_2": 5516.657731138673
+    "SD_fwd_plus_2": 5516.657731138673,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31314,7 +32262,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2728.2149235015136,
     "SD_fwd_mean": 3673.069548125235,
     "SD_fwd_plus_1": 4617.924172748956,
-    "SD_fwd_plus_2": 5562.778797372678
+    "SD_fwd_plus_2": 5562.778797372678,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31347,7 +32296,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2721.1022447829023,
     "SD_fwd_mean": 3663.493556372577,
     "SD_fwd_plus_1": 4605.884867962252,
-    "SD_fwd_plus_2": 5548.276179551926
+    "SD_fwd_plus_2": 5548.276179551926,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31380,7 +32330,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2783.481020153267,
     "SD_fwd_mean": 3747.475788963023,
     "SD_fwd_plus_1": 4711.47055777278,
-    "SD_fwd_plus_2": 5675.465326582536
+    "SD_fwd_plus_2": 5675.465326582536,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31413,7 +32364,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2808.0988413374807,
     "SD_fwd_mean": 3780.619427520969,
     "SD_fwd_plus_1": 4753.1400137044575,
-    "SD_fwd_plus_2": 5725.660599887946
+    "SD_fwd_plus_2": 5725.660599887946,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31446,7 +32398,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2785.8287782378925,
     "SD_fwd_mean": 3750.636639177835,
     "SD_fwd_plus_1": 4715.444500117777,
-    "SD_fwd_plus_2": 5680.25236105772
+    "SD_fwd_plus_2": 5680.25236105772,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31479,7 +32432,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2766.7067434994674,
     "SD_fwd_mean": 3724.892126569658,
     "SD_fwd_plus_1": 4683.077509639848,
-    "SD_fwd_plus_2": 5641.262892710039
+    "SD_fwd_plus_2": 5641.262892710039,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31512,7 +32466,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2837.1567207929884,
     "SD_fwd_mean": 3819.7408366305326,
     "SD_fwd_plus_1": 4802.324952468077,
-    "SD_fwd_plus_2": 5784.909068305621
+    "SD_fwd_plus_2": 5784.909068305621,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31545,7 +32500,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2757.9892343522406,
     "SD_fwd_mean": 3713.155508201232,
     "SD_fwd_plus_1": 4668.321782050223,
-    "SD_fwd_plus_2": 5623.488055899215
+    "SD_fwd_plus_2": 5623.488055899215,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31578,7 +32534,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2777.8150818263234,
     "SD_fwd_mean": 3739.8475829331474,
     "SD_fwd_plus_1": 4701.880084039972,
-    "SD_fwd_plus_2": 5663.912585146795
+    "SD_fwd_plus_2": 5663.912585146795,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31611,7 +32568,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2797.003803747699,
     "SD_fwd_mean": 3765.68187829958,
     "SD_fwd_plus_1": 4734.359952851461,
-    "SD_fwd_plus_2": 5703.038027403341
+    "SD_fwd_plus_2": 5703.038027403341,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31644,7 +32602,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2758.892485859235,
     "SD_fwd_mean": 3714.3715801375215,
     "SD_fwd_plus_1": 4669.850674415809,
-    "SD_fwd_plus_2": 5625.329768694097
+    "SD_fwd_plus_2": 5625.329768694097,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31677,7 +32636,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2778.80650346827,
     "SD_fwd_mean": 3741.182360707074,
     "SD_fwd_plus_1": 4703.558217945879,
-    "SD_fwd_plus_2": 5665.934075184683
+    "SD_fwd_plus_2": 5665.934075184683,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31710,7 +32670,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2793.2970102462878,
     "SD_fwd_mean": 3760.6913219420367,
     "SD_fwd_plus_1": 4728.0856336377865,
-    "SD_fwd_plus_2": 5695.479945333536
+    "SD_fwd_plus_2": 5695.479945333536,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31743,7 +32704,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2808.779296127588,
     "SD_fwd_mean": 3781.5355422107937,
     "SD_fwd_plus_1": 4754.291788294,
-    "SD_fwd_plus_2": 5727.048034377206
+    "SD_fwd_plus_2": 5727.048034377206,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31776,7 +32738,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2909.539998563588,
     "SD_fwd_mean": 3917.192401418344,
     "SD_fwd_plus_1": 4924.844804273099,
-    "SD_fwd_plus_2": 5932.497207127854
+    "SD_fwd_plus_2": 5932.497207127854,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31809,7 +32772,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2793.49635701156,
     "SD_fwd_mean": 3760.959707884337,
     "SD_fwd_plus_1": 4728.423058757114,
-    "SD_fwd_plus_2": 5695.886409629891
+    "SD_fwd_plus_2": 5695.886409629891,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31842,7 +32806,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2797.029793571673,
     "SD_fwd_mean": 3765.716869102606,
     "SD_fwd_plus_1": 4734.403944633538,
-    "SD_fwd_plus_2": 5703.091020164471
+    "SD_fwd_plus_2": 5703.091020164471,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31875,7 +32840,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3061.1524681138244,
     "SD_fwd_mean": 4121.312370202294,
     "SD_fwd_plus_1": 5181.472272290764,
-    "SD_fwd_plus_2": 6241.632174379233
+    "SD_fwd_plus_2": 6241.632174379233,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31908,7 +32874,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3061.2924551380693,
     "SD_fwd_mean": 4121.5008385196015,
     "SD_fwd_plus_1": 5181.709221901135,
-    "SD_fwd_plus_2": 6241.917605282667
+    "SD_fwd_plus_2": 6241.917605282667,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31941,7 +32908,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3111.956952558265,
     "SD_fwd_mean": 4189.711821841381,
     "SD_fwd_plus_1": 5267.466691124497,
-    "SD_fwd_plus_2": 6345.221560407613
+    "SD_fwd_plus_2": 6345.221560407613,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -31974,7 +32942,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3057.1907033748107,
     "SD_fwd_mean": 4115.9785391707455,
     "SD_fwd_plus_1": 5174.76637496668,
-    "SD_fwd_plus_2": 6233.554210762613
+    "SD_fwd_plus_2": 6233.554210762613,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32007,7 +32976,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3094.513998896765,
     "SD_fwd_mean": 4166.227901505227,
     "SD_fwd_plus_1": 5237.941804113689,
-    "SD_fwd_plus_2": 6309.655706722151
+    "SD_fwd_plus_2": 6309.655706722151,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32040,7 +33010,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3086.6368108503225,
     "SD_fwd_mean": 4155.62263016498,
     "SD_fwd_plus_1": 5224.608449479638,
-    "SD_fwd_plus_2": 6293.594268794296
+    "SD_fwd_plus_2": 6293.594268794296,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32073,7 +33044,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3032.300255989648,
     "SD_fwd_mean": 4082.467856584082,
     "SD_fwd_plus_1": 5132.635457178517,
-    "SD_fwd_plus_2": 6182.803057772951
+    "SD_fwd_plus_2": 6182.803057772951,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32106,7 +33078,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3021.1417999198966,
     "SD_fwd_mean": 4067.444925347678,
     "SD_fwd_plus_1": 5113.748050775459,
-    "SD_fwd_plus_2": 6160.05117620324
+    "SD_fwd_plus_2": 6160.05117620324,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32139,7 +33112,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3011.7776617725804,
     "SD_fwd_mean": 4054.837732865496,
     "SD_fwd_plus_1": 5097.897803958411,
-    "SD_fwd_plus_2": 6140.957875051327
+    "SD_fwd_plus_2": 6140.957875051327,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32172,7 +33146,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2953.057936776319,
     "SD_fwd_mean": 3975.781778768873,
     "SD_fwd_plus_1": 4998.505620761428,
-    "SD_fwd_plus_2": 6021.229462753981
+    "SD_fwd_plus_2": 6021.229462753981,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32205,7 +33180,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2909.438375104462,
     "SD_fwd_mean": 3917.055583006467,
     "SD_fwd_plus_1": 4924.672790908471,
-    "SD_fwd_plus_2": 5932.289998810476
+    "SD_fwd_plus_2": 5932.289998810476,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32238,7 +33214,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2879.7757179919595,
     "SD_fwd_mean": 3877.1199453784097,
     "SD_fwd_plus_1": 4874.46417276486,
-    "SD_fwd_plus_2": 5871.808400151311
+    "SD_fwd_plus_2": 5871.808400151311,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32271,7 +33248,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2866.351407258679,
     "SD_fwd_mean": 3859.046432718455,
     "SD_fwd_plus_1": 4851.741458178231,
-    "SD_fwd_plus_2": 5844.436483638006
+    "SD_fwd_plus_2": 5844.436483638006,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32304,7 +33282,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2951.8655306760684,
     "SD_fwd_mean": 3974.17641018222,
     "SD_fwd_plus_1": 4996.487289688371,
-    "SD_fwd_plus_2": 6018.7981691945215
+    "SD_fwd_plus_2": 6018.7981691945215,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32337,7 +33316,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2960.2603092473983,
     "SD_fwd_mean": 3985.4785276466414,
     "SD_fwd_plus_1": 5010.696746045886,
-    "SD_fwd_plus_2": 6035.914964445131
+    "SD_fwd_plus_2": 6035.914964445131,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32370,7 +33350,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3018.1956085910588,
     "SD_fwd_mean": 4063.478388268914,
     "SD_fwd_plus_1": 5108.761167946769,
-    "SD_fwd_plus_2": 6154.043947624625
+    "SD_fwd_plus_2": 6154.043947624625,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32403,7 +33384,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2997.918531853238,
     "SD_fwd_mean": 4036.1788113737416,
     "SD_fwd_plus_1": 5074.439090894245,
-    "SD_fwd_plus_2": 6112.699370414748
+    "SD_fwd_plus_2": 6112.699370414748,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32436,7 +33418,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2979.5581651116804,
     "SD_fwd_mean": 4011.45975299242,
     "SD_fwd_plus_1": 5043.361340873159,
-    "SD_fwd_plus_2": 6075.262928753898
+    "SD_fwd_plus_2": 6075.262928753898,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32469,7 +33452,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2998.025189929354,
     "SD_fwd_mean": 4036.322408026655,
     "SD_fwd_plus_1": 5074.619626123955,
-    "SD_fwd_plus_2": 6112.916844221256
+    "SD_fwd_plus_2": 6112.916844221256,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32502,7 +33486,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3075.028157275689,
     "SD_fwd_mean": 4139.993585850174,
     "SD_fwd_plus_1": 5204.959014424659,
-    "SD_fwd_plus_2": 6269.924442999144
+    "SD_fwd_plus_2": 6269.924442999144,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32535,7 +33520,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3045.9166774987843,
     "SD_fwd_mean": 4100.800013178056,
     "SD_fwd_plus_1": 5155.683348857328,
-    "SD_fwd_plus_2": 6210.5666845366
+    "SD_fwd_plus_2": 6210.5666845366,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32568,7 +33554,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3054.5033052110434,
     "SD_fwd_mean": 4112.360422330319,
     "SD_fwd_plus_1": 5170.217539449595,
-    "SD_fwd_plus_2": 6228.074656568871
+    "SD_fwd_plus_2": 6228.074656568871,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32601,7 +33588,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3054.906278490093,
     "SD_fwd_mean": 4112.902956156095,
     "SD_fwd_plus_1": 5170.899633822097,
-    "SD_fwd_plus_2": 6228.896311488099
+    "SD_fwd_plus_2": 6228.896311488099,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32634,7 +33622,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3099.9534502286974,
     "SD_fwd_mean": 4173.551181967379,
     "SD_fwd_plus_1": 5247.148913706061,
-    "SD_fwd_plus_2": 6320.746645444743
+    "SD_fwd_plus_2": 6320.746645444743,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32667,7 +33656,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3122.2051435498447,
     "SD_fwd_mean": 4203.509238580907,
     "SD_fwd_plus_1": 5284.813333611968,
-    "SD_fwd_plus_2": 6366.11742864303
+    "SD_fwd_plus_2": 6366.11742864303,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32700,7 +33690,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3153.1306423473097,
     "SD_fwd_mean": 4245.145074128556,
     "SD_fwd_plus_1": 5337.159505909803,
-    "SD_fwd_plus_2": 6429.173937691048
+    "SD_fwd_plus_2": 6429.173937691048,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32733,7 +33724,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3162.7015634727363,
     "SD_fwd_mean": 4258.030664127527,
     "SD_fwd_plus_1": 5353.359764782316,
-    "SD_fwd_plus_2": 6448.688865437106
+    "SD_fwd_plus_2": 6448.688865437106,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32766,7 +33758,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3167.638139871087,
     "SD_fwd_mean": 4264.676910464124,
     "SD_fwd_plus_1": 5361.715681057162,
-    "SD_fwd_plus_2": 6458.7544516502
+    "SD_fwd_plus_2": 6458.7544516502,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32799,7 +33792,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3184.442361652498,
     "SD_fwd_mean": 4287.300888792793,
     "SD_fwd_plus_1": 5390.159415933086,
-    "SD_fwd_plus_2": 6493.01794307338
+    "SD_fwd_plus_2": 6493.01794307338,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32832,7 +33826,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3164.819642829468,
     "SD_fwd_mean": 4260.882291658299,
     "SD_fwd_plus_1": 5356.944940487131,
-    "SD_fwd_plus_2": 6453.007589315963
+    "SD_fwd_plus_2": 6453.007589315963,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32865,7 +33860,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3176.2029893194504,
     "SD_fwd_mean": 4276.207998950616,
     "SD_fwd_plus_1": 5376.213008581782,
-    "SD_fwd_plus_2": 6476.218018212947
+    "SD_fwd_plus_2": 6476.218018212947,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32898,7 +33894,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3200.9183271213064,
     "SD_fwd_mean": 4309.482926768661,
     "SD_fwd_plus_1": 5418.047526416015,
-    "SD_fwd_plus_2": 6526.61212606337
+    "SD_fwd_plus_2": 6526.61212606337,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32931,7 +33928,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3221.369675776208,
     "SD_fwd_mean": 4337.017130659753,
     "SD_fwd_plus_1": 5452.664585543298,
-    "SD_fwd_plus_2": 6568.312040426843
+    "SD_fwd_plus_2": 6568.312040426843,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32964,7 +33962,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3201.5010260778463,
     "SD_fwd_mean": 4310.267430135516,
     "SD_fwd_plus_1": 5419.033834193185,
-    "SD_fwd_plus_2": 6527.800238250855
+    "SD_fwd_plus_2": 6527.800238250855,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -32997,7 +33996,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3237.144960170874,
     "SD_fwd_mean": 4358.255822752491,
     "SD_fwd_plus_1": 5479.366685334108,
-    "SD_fwd_plus_2": 6600.477547915726
+    "SD_fwd_plus_2": 6600.477547915726,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33030,7 +34030,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3224.0059790797486,
     "SD_fwd_mean": 4340.566457107769,
     "SD_fwd_plus_1": 5457.12693513579,
-    "SD_fwd_plus_2": 6573.687413163811
+    "SD_fwd_plus_2": 6573.687413163811,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33063,7 +34064,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3273.15099737026,
     "SD_fwd_mean": 4406.731724576234,
     "SD_fwd_plus_1": 5540.312451782209,
-    "SD_fwd_plus_2": 6673.893178988183
+    "SD_fwd_plus_2": 6673.893178988183,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33096,7 +34098,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3254.0001234576685,
     "SD_fwd_mean": 4380.948385007794,
     "SD_fwd_plus_1": 5507.89664655792,
-    "SD_fwd_plus_2": 6634.844908108044
+    "SD_fwd_plus_2": 6634.844908108044,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33129,7 +34132,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3278.5427949833565,
     "SD_fwd_mean": 4413.990847547712,
     "SD_fwd_plus_1": 5549.438900112068,
-    "SD_fwd_plus_2": 6684.886952676424
+    "SD_fwd_plus_2": 6684.886952676424,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33162,7 +34166,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3298.6065330264714,
     "SD_fwd_mean": 4441.003200787516,
     "SD_fwd_plus_1": 5583.39986854856,
-    "SD_fwd_plus_2": 6725.796536309605
+    "SD_fwd_plus_2": 6725.796536309605,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33195,7 +34200,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3361.193332874986,
     "SD_fwd_mean": 4525.265502359835,
     "SD_fwd_plus_1": 5689.337671844685,
-    "SD_fwd_plus_2": 6853.409841329535
+    "SD_fwd_plus_2": 6853.409841329535,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33228,7 +34234,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3404.9473008895625,
     "SD_fwd_mean": 4584.172653017058,
     "SD_fwd_plus_1": 5763.398005144554,
-    "SD_fwd_plus_2": 6942.62335727205
+    "SD_fwd_plus_2": 6942.62335727205,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33261,7 +34268,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 2976.236186666587,
     "SD_fwd_mean": 4006.98728355422,
     "SD_fwd_plus_1": 5037.738380441852,
-    "SD_fwd_plus_2": 6068.489477329485
+    "SD_fwd_plus_2": 6068.489477329485,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33294,7 +34302,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3150.6691553676123,
     "SD_fwd_mean": 4241.831107626009,
     "SD_fwd_plus_1": 5332.993059884405,
-    "SD_fwd_plus_2": 6424.155012142802
+    "SD_fwd_plus_2": 6424.155012142802,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33327,7 +34336,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3194.84735309655,
     "SD_fwd_mean": 4301.309410222841,
     "SD_fwd_plus_1": 5407.771467349132,
-    "SD_fwd_plus_2": 6514.233524475422
+    "SD_fwd_plus_2": 6514.233524475422,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33360,7 +34370,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3168.093558375456,
     "SD_fwd_mean": 4265.290052715361,
     "SD_fwd_plus_1": 5362.486547055265,
-    "SD_fwd_plus_2": 6459.683041395169
+    "SD_fwd_plus_2": 6459.683041395169,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33393,7 +34404,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3235.5944446405488,
     "SD_fwd_mean": 4356.168321753478,
     "SD_fwd_plus_1": 5476.742198866407,
-    "SD_fwd_plus_2": 6597.316075979336
+    "SD_fwd_plus_2": 6597.316075979336,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33426,7 +34438,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3237.007304011321,
     "SD_fwd_mean": 4358.070492541367,
     "SD_fwd_plus_1": 5479.133681071413,
-    "SD_fwd_plus_2": 6600.196869601458
+    "SD_fwd_plus_2": 6600.196869601458,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33459,7 +34472,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3263.2476763958275,
     "SD_fwd_mean": 4393.398615669326,
     "SD_fwd_plus_1": 5523.549554942824,
-    "SD_fwd_plus_2": 6653.700494216323
+    "SD_fwd_plus_2": 6653.700494216323,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33492,7 +34506,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3329.8669207664625,
     "SD_fwd_mean": 4483.089906377039,
     "SD_fwd_plus_1": 5636.3128919876135,
-    "SD_fwd_plus_2": 6789.5358775981895
+    "SD_fwd_plus_2": 6789.5358775981895,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33525,7 +34540,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3359.741349114965,
     "SD_fwd_mean": 4523.31065734841,
     "SD_fwd_plus_1": 5686.879965581855,
-    "SD_fwd_plus_2": 6850.449273815299
+    "SD_fwd_plus_2": 6850.449273815299,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33558,7 +34574,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3433.168960376016,
     "SD_fwd_mean": 4622.168236563024,
     "SD_fwd_plus_1": 5811.167512750032,
-    "SD_fwd_plus_2": 7000.16678893704
+    "SD_fwd_plus_2": 7000.16678893704,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33591,7 +34608,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3194.5866844586794,
     "SD_fwd_mean": 4300.958464984742,
     "SD_fwd_plus_1": 5407.330245510804,
-    "SD_fwd_plus_2": 6513.702026036867
+    "SD_fwd_plus_2": 6513.702026036867,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33624,7 +34642,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3212.872875247286,
     "SD_fwd_mean": 4325.57765827419,
     "SD_fwd_plus_1": 5438.282441301093,
-    "SD_fwd_plus_2": 6550.987224327997
+    "SD_fwd_plus_2": 6550.987224327997,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33657,7 +34676,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 3598.04683794387,
     "SD_fwd_mean": 4844.147782982607,
     "SD_fwd_plus_1": 6090.2487280213445,
-    "SD_fwd_plus_2": 7336.349673060083
+    "SD_fwd_plus_2": 7336.349673060083,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33690,7 +34710,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 4047.48294424892,
     "SD_fwd_mean": 5449.235769884435,
     "SD_fwd_plus_1": 6850.988595519951,
-    "SD_fwd_plus_2": 8252.741421155466
+    "SD_fwd_plus_2": 8252.741421155466,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33723,7 +34744,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 4157.432934350689,
     "SD_fwd_mean": 5597.264415641256,
     "SD_fwd_plus_1": 7037.095896931824,
-    "SD_fwd_plus_2": 8476.927378222392
+    "SD_fwd_plus_2": 8476.927378222392,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33756,7 +34778,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 4134.84689349497,
     "SD_fwd_mean": 5566.856217898031,
     "SD_fwd_plus_1": 6998.865542301091,
-    "SD_fwd_plus_2": 8430.874866704153
+    "SD_fwd_plus_2": 8430.874866704153,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33789,7 +34812,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 4179.037356173071,
     "SD_fwd_mean": 5626.351033127682,
     "SD_fwd_plus_1": 7073.664710082292,
-    "SD_fwd_plus_2": 8520.978387036903
+    "SD_fwd_plus_2": 8520.978387036903,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33822,7 +34846,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 4132.201486267775,
     "SD_fwd_mean": 5563.294634591343,
     "SD_fwd_plus_1": 6994.387782914911,
-    "SD_fwd_plus_2": 8425.480931238479
+    "SD_fwd_plus_2": 8425.480931238479,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33855,7 +34880,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 4083.505854592395,
     "SD_fwd_mean": 5497.734388478474,
     "SD_fwd_plus_1": 6911.9629223645525,
-    "SD_fwd_plus_2": 8326.191456250632
+    "SD_fwd_plus_2": 8326.191456250632,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33888,7 +34914,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 4214.247340335232,
     "SD_fwd_mean": 5673.755187214639,
     "SD_fwd_plus_1": 7133.263034094046,
-    "SD_fwd_plus_2": 8592.770880973454
+    "SD_fwd_plus_2": 8592.770880973454,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33921,7 +34948,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 4372.624084173553,
     "SD_fwd_mean": 5886.982081442295,
     "SD_fwd_plus_1": 7401.340078711037,
-    "SD_fwd_plus_2": 8915.698075979779
+    "SD_fwd_plus_2": 8915.698075979779,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33954,7 +34982,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 4450.363237494661,
     "SD_fwd_mean": 5991.644406357051,
     "SD_fwd_plus_1": 7532.92557521944,
-    "SD_fwd_plus_2": 9074.20674408183
+    "SD_fwd_plus_2": 9074.20674408183,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -33987,7 +35016,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 4579.57207278583,
     "SD_fwd_mean": 6165.601756332839,
     "SD_fwd_plus_1": 7751.631439879849,
-    "SD_fwd_plus_2": 9337.661123426857
+    "SD_fwd_plus_2": 9337.661123426857,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -34020,7 +35050,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 4705.590711019062,
     "SD_fwd_mean": 6335.264057716567,
     "SD_fwd_plus_1": 7964.93740441407,
-    "SD_fwd_plus_2": 9594.610751111575
+    "SD_fwd_plus_2": 9594.610751111575,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -34053,7 +35084,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 4586.999303884852,
     "SD_fwd_mean": 6175.601238463702,
     "SD_fwd_plus_1": 7764.203173042553,
-    "SD_fwd_plus_2": 9352.805107621403
+    "SD_fwd_plus_2": 9352.805107621403,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -34086,7 +35118,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 4915.78702261433,
     "SD_fwd_mean": 6618.257037704345,
     "SD_fwd_plus_1": 8320.72705279436,
-    "SD_fwd_plus_2": 10023.197067884374
+    "SD_fwd_plus_2": 10023.197067884374,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -34119,7 +35152,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 5208.23620041202,
     "SD_fwd_mean": 7011.98927635228,
     "SD_fwd_plus_1": 8815.74235229254,
-    "SD_fwd_plus_2": 10619.4954282328
+    "SD_fwd_plus_2": 10619.4954282328,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -34152,7 +35186,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 5273.240782169784,
     "SD_fwd_mean": 7099.506703108607,
     "SD_fwd_plus_1": 8925.772624047431,
-    "SD_fwd_plus_2": 10752.038544986252
+    "SD_fwd_plus_2": 10752.038544986252,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -34185,7 +35220,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 5314.09182102562,
     "SD_fwd_mean": 7154.505561716884,
     "SD_fwd_plus_1": 8994.919302408147,
-    "SD_fwd_plus_2": 10835.333043099412
+    "SD_fwd_plus_2": 10835.333043099412,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -34218,7 +35254,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 5348.23213026912,
     "SD_fwd_mean": 7200.4695835267685,
     "SD_fwd_plus_1": 9052.707036784415,
-    "SD_fwd_plus_2": 10904.944490042068
+    "SD_fwd_plus_2": 10904.944490042068,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -34251,7 +35288,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 5432.038911046902,
     "SD_fwd_mean": 7313.300919412213,
     "SD_fwd_plus_1": 9194.562927777524,
-    "SD_fwd_plus_2": 11075.824936142835
+    "SD_fwd_plus_2": 11075.824936142835,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -34284,7 +35322,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 5393.601243568867,
     "SD_fwd_mean": 7261.55124797015,
     "SD_fwd_plus_1": 9129.501252371434,
-    "SD_fwd_plus_2": 10997.451256772718
+    "SD_fwd_plus_2": 10997.451256772718,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -34317,7 +35356,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 5534.315589498575,
     "SD_fwd_mean": 7450.998778135926,
     "SD_fwd_plus_1": 9367.681966773276,
-    "SD_fwd_plus_2": 11284.365155410627
+    "SD_fwd_plus_2": 11284.365155410627,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -34350,7 +35390,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 5583.6201581963405,
     "SD_fwd_mean": 7517.378852633421,
     "SD_fwd_plus_1": 9451.137547070502,
-    "SD_fwd_plus_2": 11384.896241507584
+    "SD_fwd_plus_2": 11384.896241507584,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -34383,7 +35424,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 5686.759579713172,
     "SD_fwd_mean": 7656.238245682452,
     "SD_fwd_plus_1": 9625.71691165173,
-    "SD_fwd_plus_2": 11595.19557762101
+    "SD_fwd_plus_2": 11595.19557762101,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -34416,7 +35458,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 5602.456608727932,
     "SD_fwd_mean": 7542.738875499053,
     "SD_fwd_plus_1": 9483.021142270174,
-    "SD_fwd_plus_2": 11423.303409041297
+    "SD_fwd_plus_2": 11423.303409041297,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -34449,7 +35492,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 5558.026075735713,
     "SD_fwd_mean": 7482.920847111744,
     "SD_fwd_plus_1": 9407.815618487775,
-    "SD_fwd_plus_2": 11332.710389863809
+    "SD_fwd_plus_2": 11332.710389863809,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -34482,7 +35526,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 5618.537410538324,
     "SD_fwd_mean": 7564.38889395265,
     "SD_fwd_plus_1": 9510.240377366978,
-    "SD_fwd_plus_2": 11456.091860781306
+    "SD_fwd_plus_2": 11456.091860781306,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -34515,7 +35560,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 5805.747218026218,
     "SD_fwd_mean": 7816.434521689204,
     "SD_fwd_plus_1": 9827.12182535219,
-    "SD_fwd_plus_2": 11837.809129015175
+    "SD_fwd_plus_2": 11837.809129015175,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -34548,7 +35594,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 5809.285802768366,
     "SD_fwd_mean": 7821.198614044201,
     "SD_fwd_plus_1": 9833.111425320038,
-    "SD_fwd_plus_2": 11845.024236595871
+    "SD_fwd_plus_2": 11845.024236595871,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -34581,7 +35628,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 6431.318292528556,
     "SD_fwd_mean": 8658.657780622729,
     "SD_fwd_plus_1": 10885.9972687169,
-    "SD_fwd_plus_2": 13113.336756811072
+    "SD_fwd_plus_2": 13113.336756811072,
+    "Source": "LSEG"
   },
   {
     "Instrument": ".SOX",
@@ -34614,7 +35662,8 @@ const SOX_DATA = [
     "SD_fwd_minus_1": 6476.091863059746,
     "SD_fwd_mean": 8718.937649727717,
     "SD_fwd_plus_1": 10961.78343639569,
-    "SD_fwd_plus_2": 13204.629223063665
+    "SD_fwd_plus_2": 13204.629223063665,
+    "Source": "LSEG"
   }
 ];
 
@@ -34647,7 +35696,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3006.959322246869,
     "SD_fwd_mean": 3898.709851909533,
     "SD_fwd_plus_1": 4790.460381572199,
-    "SD_fwd_plus_2": 5682.210911234862
+    "SD_fwd_plus_2": 5682.210911234862,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2021-07-12",
@@ -34677,7 +35727,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3011.2239595793963,
     "SD_fwd_mean": 3904.2392195534967,
     "SD_fwd_plus_1": 4797.254479527597,
-    "SD_fwd_plus_2": 5690.269739501698
+    "SD_fwd_plus_2": 5690.269739501698,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2021-07-19",
@@ -34707,7 +35758,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3037.455262686484,
     "SD_fwd_mean": 3938.2497361226433,
     "SD_fwd_plus_1": 4839.044209558803,
-    "SD_fwd_plus_2": 5739.838682994962
+    "SD_fwd_plus_2": 5739.838682994962,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2021-07-26",
@@ -34737,7 +35789,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3027.722301506652,
     "SD_fwd_mean": 3925.6303463758913,
     "SD_fwd_plus_1": 4823.538391245131,
-    "SD_fwd_plus_2": 5721.446436114369
+    "SD_fwd_plus_2": 5721.446436114369,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2021-08-02",
@@ -34767,7 +35820,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3054.272125286446,
     "SD_fwd_mean": 3960.053844815305,
     "SD_fwd_plus_1": 4865.835564344164,
-    "SD_fwd_plus_2": 5771.617283873022
+    "SD_fwd_plus_2": 5771.617283873022,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2021-08-09",
@@ -34797,7 +35851,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3162.9736133224064,
     "SD_fwd_mean": 4100.992087374022,
     "SD_fwd_plus_1": 5039.010561425637,
-    "SD_fwd_plus_2": 5977.029035477252
+    "SD_fwd_plus_2": 5977.029035477252,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2021-08-16",
@@ -34827,7 +35882,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3165.196115809804,
     "SD_fwd_mean": 4103.873700131268,
     "SD_fwd_plus_1": 5042.551284452734,
-    "SD_fwd_plus_2": 5981.228868774198
+    "SD_fwd_plus_2": 5981.228868774198,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2021-08-23",
@@ -34857,7 +35913,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3156.754281704938,
     "SD_fwd_mean": 4092.9283369701097,
     "SD_fwd_plus_1": 5029.1023922352815,
-    "SD_fwd_plus_2": 5965.276447500452
+    "SD_fwd_plus_2": 5965.276447500452,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2021-08-30",
@@ -34887,7 +35944,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3172.907161318793,
     "SD_fwd_mean": 4113.87155040879,
     "SD_fwd_plus_1": 5054.835939498787,
-    "SD_fwd_plus_2": 5995.800328588784
+    "SD_fwd_plus_2": 5995.800328588784,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2021-09-06",
@@ -34917,7 +35975,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3191.169932185836,
     "SD_fwd_mean": 4137.550369132983,
     "SD_fwd_plus_1": 5083.9308060801295,
-    "SD_fwd_plus_2": 6030.311243027276
+    "SD_fwd_plus_2": 6030.311243027276,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2021-09-13",
@@ -34947,7 +36006,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3172.630138615962,
     "SD_fwd_mean": 4113.512373238437,
     "SD_fwd_plus_1": 5054.394607860912,
-    "SD_fwd_plus_2": 5995.276842483387
+    "SD_fwd_plus_2": 5995.276842483387,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2021-09-20",
@@ -34977,7 +36037,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3180.793635846866,
     "SD_fwd_mean": 4124.096855324606,
     "SD_fwd_plus_1": 5067.400074802346,
-    "SD_fwd_plus_2": 6010.703294280086
+    "SD_fwd_plus_2": 6010.703294280086,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2021-09-27",
@@ -35007,7 +36068,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3169.5886029029148,
     "SD_fwd_mean": 4109.568832944539,
     "SD_fwd_plus_1": 5049.549062986164,
-    "SD_fwd_plus_2": 5989.529293027787
+    "SD_fwd_plus_2": 5989.529293027787,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2021-10-04",
@@ -35037,7 +36099,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3113.009265110978,
     "SD_fwd_mean": 4036.210201175915,
     "SD_fwd_plus_1": 4959.411137240852,
-    "SD_fwd_plus_2": 5882.612073305788
+    "SD_fwd_plus_2": 5882.612073305788,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2021-10-11",
@@ -35067,7 +36130,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3143.673542297298,
     "SD_fwd_mean": 4075.968344454906,
     "SD_fwd_plus_1": 5008.263146612514,
-    "SD_fwd_plus_2": 5940.5579487701225
+    "SD_fwd_plus_2": 5940.5579487701225,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2021-10-18",
@@ -35097,7 +36161,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3171.942660041756,
     "SD_fwd_mean": 4112.621014492609,
     "SD_fwd_plus_1": 5053.299368943463,
-    "SD_fwd_plus_2": 5993.977723394314
+    "SD_fwd_plus_2": 5993.977723394314,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2021-10-25",
@@ -35127,7 +36192,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3135.242605443488,
     "SD_fwd_mean": 4065.037110257759,
     "SD_fwd_plus_1": 4994.83161507203,
-    "SD_fwd_plus_2": 5924.6261198863
+    "SD_fwd_plus_2": 5924.6261198863,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2021-11-01",
@@ -35157,7 +36223,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3177.848028673823,
     "SD_fwd_mean": 4120.277692351422,
     "SD_fwd_plus_1": 5062.707356029021,
-    "SD_fwd_plus_2": 6005.137019706619
+    "SD_fwd_plus_2": 6005.137019706619,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2021-11-08",
@@ -35187,7 +36254,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3195.257203862695,
     "SD_fwd_mean": 4142.849771168822,
     "SD_fwd_plus_1": 5090.442338474949,
-    "SD_fwd_plus_2": 6038.034905781076
+    "SD_fwd_plus_2": 6038.034905781076,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2021-11-15",
@@ -35217,7 +36285,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3193.947080827932,
     "SD_fwd_mean": 4141.151115139439,
     "SD_fwd_plus_1": 5088.355149450947,
-    "SD_fwd_plus_2": 6035.559183762453
+    "SD_fwd_plus_2": 6035.559183762453,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2021-11-22",
@@ -35247,7 +36316,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3149.5510940505187,
     "SD_fwd_mean": 4083.5889559995503,
     "SD_fwd_plus_1": 5017.626817948582,
-    "SD_fwd_plus_2": 5951.6646798976135
+    "SD_fwd_plus_2": 5951.6646798976135,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2021-11-29",
@@ -35277,7 +36347,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3163.725234015272,
     "SD_fwd_mean": 4101.966610367564,
     "SD_fwd_plus_1": 5040.207986719855,
-    "SD_fwd_plus_2": 5978.449363072146
+    "SD_fwd_plus_2": 5978.449363072146,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2021-12-06",
@@ -35307,7 +36378,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3109.1095515062166,
     "SD_fwd_mean": 4031.153979850264,
     "SD_fwd_plus_1": 4953.198408194311,
-    "SD_fwd_plus_2": 5875.242836538359
+    "SD_fwd_plus_2": 5875.242836538359,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2021-12-13",
@@ -35337,7 +36409,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3110.4838278703214,
     "SD_fwd_mean": 4032.935814662708,
     "SD_fwd_plus_1": 4955.387801455095,
-    "SD_fwd_plus_2": 5877.83978824748
+    "SD_fwd_plus_2": 5877.83978824748,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2021-12-20",
@@ -35367,7 +36440,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3076.902167165215,
     "SD_fwd_mean": 3989.395102134328,
     "SD_fwd_plus_1": 4901.888037103441,
-    "SD_fwd_plus_2": 5814.380972072554
+    "SD_fwd_plus_2": 5814.380972072554,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2021-12-27",
@@ -35397,7 +36471,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2939.04266981569,
     "SD_fwd_mean": 3810.6516863124352,
     "SD_fwd_plus_1": 4682.260702809181,
-    "SD_fwd_plus_2": 5553.869719305925
+    "SD_fwd_plus_2": 5553.869719305925,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-01-03",
@@ -35427,7 +36502,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2918.004807462178,
     "SD_fwd_mean": 3783.374788812052,
     "SD_fwd_plus_1": 4648.744770161925,
-    "SD_fwd_plus_2": 5514.114751511797
+    "SD_fwd_plus_2": 5514.114751511797,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-01-10",
@@ -35457,7 +36533,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2909.5771273212385,
     "SD_fwd_mean": 3772.44777714577,
     "SD_fwd_plus_1": 4635.3184269703015,
-    "SD_fwd_plus_2": 5498.1890767948325
+    "SD_fwd_plus_2": 5498.1890767948325,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-01-17",
@@ -35487,7 +36564,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2941.275163986,
     "SD_fwd_mean": 3813.546253908253,
     "SD_fwd_plus_1": 4685.817343830507,
-    "SD_fwd_plus_2": 5558.088433752759
+    "SD_fwd_plus_2": 5558.088433752759,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-01-24",
@@ -35517,7 +36595,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2921.457335895433,
     "SD_fwd_mean": 3787.8512067393385,
     "SD_fwd_plus_1": 4654.245077583244,
-    "SD_fwd_plus_2": 5520.6389484271485
+    "SD_fwd_plus_2": 5520.6389484271485,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-01-31",
@@ -35547,7 +36626,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2920.604724794932,
     "SD_fwd_mean": 3786.745743398754,
     "SD_fwd_plus_1": 4652.886762002576,
-    "SD_fwd_plus_2": 5519.027780606397
+    "SD_fwd_plus_2": 5519.027780606397,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-02-07",
@@ -35577,7 +36657,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2872.3692107731085,
     "SD_fwd_mean": 3724.2053982941575,
     "SD_fwd_plus_1": 4576.041585815206,
-    "SD_fwd_plus_2": 5427.877773336254
+    "SD_fwd_plus_2": 5427.877773336254,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-02-14",
@@ -35607,7 +36688,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2902.8947552713885,
     "SD_fwd_mean": 3763.783666011268,
     "SD_fwd_plus_1": 4624.672576751146,
-    "SD_fwd_plus_2": 5485.561487491025
+    "SD_fwd_plus_2": 5485.561487491025,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-02-21",
@@ -35637,7 +36719,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2924.2660921968745,
     "SD_fwd_mean": 3791.4929340427393,
     "SD_fwd_plus_1": 4658.719775888604,
-    "SD_fwd_plus_2": 5525.946617734468
+    "SD_fwd_plus_2": 5525.946617734468,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-02-28",
@@ -35667,7 +36750,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2919.3062553329355,
     "SD_fwd_mean": 3785.062196951539,
     "SD_fwd_plus_1": 4650.818138570143,
-    "SD_fwd_plus_2": 5516.574080188745
+    "SD_fwd_plus_2": 5516.574080188745,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-03-07",
@@ -35697,7 +36781,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2951.307311044124,
     "SD_fwd_mean": 3826.553556761319,
     "SD_fwd_plus_1": 4701.799802478514,
-    "SD_fwd_plus_2": 5577.046048195708
+    "SD_fwd_plus_2": 5577.046048195708,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-03-14",
@@ -35727,7 +36812,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2948.022938172389,
     "SD_fwd_mean": 3822.2951629820473,
     "SD_fwd_plus_1": 4696.567387791706,
-    "SD_fwd_plus_2": 5570.839612601363
+    "SD_fwd_plus_2": 5570.839612601363,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-03-21",
@@ -35757,7 +36843,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2974.5384383402225,
     "SD_fwd_mean": 3856.6741587229662,
     "SD_fwd_plus_1": 4738.80987910571,
-    "SD_fwd_plus_2": 5620.945599488453
+    "SD_fwd_plus_2": 5620.945599488453,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-03-28",
@@ -35787,7 +36874,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2957.188297350258,
     "SD_fwd_mean": 3834.17862141751,
     "SD_fwd_plus_1": 4711.168945484762,
-    "SD_fwd_plus_2": 5588.159269552014
+    "SD_fwd_plus_2": 5588.159269552014,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-04-04",
@@ -35817,7 +36905,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2748.6615864915466,
     "SD_fwd_mean": 3563.8107664231607,
     "SD_fwd_plus_1": 4378.959946354775,
-    "SD_fwd_plus_2": 5194.109126286387
+    "SD_fwd_plus_2": 5194.109126286387,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-04-11",
@@ -35847,7 +36936,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2750.576883579782,
     "SD_fwd_mean": 3566.294068266319,
     "SD_fwd_plus_1": 4382.011252952855,
-    "SD_fwd_plus_2": 5197.728437639392
+    "SD_fwd_plus_2": 5197.728437639392,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-04-18",
@@ -35877,7 +36967,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2728.049373940293,
     "SD_fwd_mean": 3537.085750374996,
     "SD_fwd_plus_1": 4346.1221268097,
-    "SD_fwd_plus_2": 5155.158503244402
+    "SD_fwd_plus_2": 5155.158503244402,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-04-25",
@@ -35907,7 +36998,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2721.642260680894,
     "SD_fwd_mean": 3528.7785293886964,
     "SD_fwd_plus_1": 4335.914798096499,
-    "SD_fwd_plus_2": 5143.051066804301
+    "SD_fwd_plus_2": 5143.051066804301,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-05-02",
@@ -35937,7 +37029,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2644.726483948591,
     "SD_fwd_mean": 3429.052439216837,
     "SD_fwd_plus_1": 4213.378394485083,
-    "SD_fwd_plus_2": 4997.704349753329
+    "SD_fwd_plus_2": 4997.704349753329,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-05-09",
@@ -35967,7 +37060,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2615.795844725135,
     "SD_fwd_mean": 3391.542065422273,
     "SD_fwd_plus_1": 4167.288286119411,
-    "SD_fwd_plus_2": 4943.034506816549
+    "SD_fwd_plus_2": 4943.034506816549,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-05-16",
@@ -35997,7 +37091,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2624.6651401804747,
     "SD_fwd_mean": 3403.041658820627,
     "SD_fwd_plus_1": 4181.41817746078,
-    "SD_fwd_plus_2": 4959.794696100931
+    "SD_fwd_plus_2": 4959.794696100931,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-05-23",
@@ -36027,7 +37122,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2631.491069810577,
     "SD_fwd_mean": 3411.891901289965,
     "SD_fwd_plus_1": 4192.292732769353,
-    "SD_fwd_plus_2": 4972.693564248741
+    "SD_fwd_plus_2": 4972.693564248741,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-05-30",
@@ -36057,7 +37153,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2632.4091007276093,
     "SD_fwd_mean": 3413.082185493051,
     "SD_fwd_plus_1": 4193.755270258493,
-    "SD_fwd_plus_2": 4974.428355023933
+    "SD_fwd_plus_2": 4974.428355023933,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-06-06",
@@ -36087,7 +37184,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2584.658250085404,
     "SD_fwd_mean": 3351.170236615498,
     "SD_fwd_plus_1": 4117.6822231455935,
-    "SD_fwd_plus_2": 4884.194209675688
+    "SD_fwd_plus_2": 4884.194209675688,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-06-13",
@@ -36117,7 +37215,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2588.9301928935893,
     "SD_fwd_mean": 3356.7090762631933,
     "SD_fwd_plus_1": 4124.487959632797,
-    "SD_fwd_plus_2": 4892.266843002401
+    "SD_fwd_plus_2": 4892.266843002401,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-06-20",
@@ -36147,7 +37246,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2598.1245311488274,
     "SD_fwd_mean": 3368.63010787552,
     "SD_fwd_plus_1": 4139.135684602213,
-    "SD_fwd_plus_2": 4909.641261328905
+    "SD_fwd_plus_2": 4909.641261328905,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-06-27",
@@ -36177,7 +37277,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2592.507508935008,
     "SD_fwd_mean": 3361.34728908865,
     "SD_fwd_plus_1": 4130.187069242293,
-    "SD_fwd_plus_2": 4899.026849395935
+    "SD_fwd_plus_2": 4899.026849395935,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-07-04",
@@ -36207,7 +37308,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2331.029236551456,
     "SD_fwd_mean": 3022.3244399733194,
     "SD_fwd_plus_1": 3713.619643395183,
-    "SD_fwd_plus_2": 4404.914846817045
+    "SD_fwd_plus_2": 4404.914846817045,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-07-11",
@@ -36237,7 +37339,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2331.561636253253,
     "SD_fwd_mean": 3023.0147293121845,
     "SD_fwd_plus_1": 3714.4678223711167,
-    "SD_fwd_plus_2": 4405.920915430048
+    "SD_fwd_plus_2": 4405.920915430048,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-07-18",
@@ -36267,7 +37370,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2310.7145181781484,
     "SD_fwd_mean": 2995.985143636713,
     "SD_fwd_plus_1": 3681.255769095277,
-    "SD_fwd_plus_2": 4366.526394553841
+    "SD_fwd_plus_2": 4366.526394553841,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-07-25",
@@ -36297,7 +37401,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2304.129886383392,
     "SD_fwd_mean": 2987.44775882426,
     "SD_fwd_plus_1": 3670.765631265128,
-    "SD_fwd_plus_2": 4354.083503705996
+    "SD_fwd_plus_2": 4354.083503705996,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-08-01",
@@ -36327,7 +37432,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2215.9675896123417,
     "SD_fwd_mean": 2873.139855672637,
     "SD_fwd_plus_1": 3530.312121732932,
-    "SD_fwd_plus_2": 4187.484387793227
+    "SD_fwd_plus_2": 4187.484387793227,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-08-08",
@@ -36357,7 +37463,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2197.375594421229,
     "SD_fwd_mean": 2849.0341771282115,
     "SD_fwd_plus_1": 3500.692759835194,
-    "SD_fwd_plus_2": 4152.351342542176
+    "SD_fwd_plus_2": 4152.351342542176,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-08-15",
@@ -36387,7 +37494,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2191.0906638637166,
     "SD_fwd_mean": 2840.8853736170186,
     "SD_fwd_plus_1": 3490.68008337032,
-    "SD_fwd_plus_2": 4140.474793123622
+    "SD_fwd_plus_2": 4140.474793123622,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-08-22",
@@ -36417,7 +37525,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2189.054208511784,
     "SD_fwd_mean": 2838.244982546606,
     "SD_fwd_plus_1": 3487.435756581428,
-    "SD_fwd_plus_2": 4136.6265306162495
+    "SD_fwd_plus_2": 4136.6265306162495,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-08-29",
@@ -36447,7 +37556,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2217.5060674049128,
     "SD_fwd_mean": 2875.134587853569,
     "SD_fwd_plus_1": 3532.763108302226,
-    "SD_fwd_plus_2": 4190.391628750882
+    "SD_fwd_plus_2": 4190.391628750882,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-09-05",
@@ -36477,7 +37587,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2220.2865470454312,
     "SD_fwd_mean": 2878.739652706732,
     "SD_fwd_plus_1": 3537.192758368033,
-    "SD_fwd_plus_2": 4195.645864029334
+    "SD_fwd_plus_2": 4195.645864029334,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-09-12",
@@ -36507,7 +37618,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2213.753328026291,
     "SD_fwd_mean": 2870.268927756728,
     "SD_fwd_plus_1": 3526.7845274871647,
-    "SD_fwd_plus_2": 4183.300127217602
+    "SD_fwd_plus_2": 4183.300127217602,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-09-19",
@@ -36537,7 +37649,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2213.1709544754094,
     "SD_fwd_mean": 2869.513844213191,
     "SD_fwd_plus_1": 3525.8567339509727,
-    "SD_fwd_plus_2": 4182.1996236887535
+    "SD_fwd_plus_2": 4182.1996236887535,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-09-26",
@@ -36567,7 +37680,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2211.3472229231893,
     "SD_fwd_mean": 2867.149262784612,
     "SD_fwd_plus_1": 3522.9513026460345,
-    "SD_fwd_plus_2": 4178.753342507456
+    "SD_fwd_plus_2": 4178.753342507456,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-10-03",
@@ -36597,7 +37711,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2039.748597931968,
     "SD_fwd_mean": 2644.660968753583,
     "SD_fwd_plus_1": 3249.5733395751977,
-    "SD_fwd_plus_2": 3854.485710396813
+    "SD_fwd_plus_2": 3854.485710396813,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-10-10",
@@ -36627,7 +37742,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2097.2427624889424,
     "SD_fwd_mean": 2719.2057303428724,
     "SD_fwd_plus_1": 3341.1686981968023,
-    "SD_fwd_plus_2": 3963.131666050732
+    "SD_fwd_plus_2": 3963.131666050732,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-10-17",
@@ -36657,7 +37773,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2077.8683006599285,
     "SD_fwd_mean": 2694.0855351179566,
     "SD_fwd_plus_1": 3310.3027695759847,
-    "SD_fwd_plus_2": 3926.520004034012
+    "SD_fwd_plus_2": 3926.520004034012,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-10-24",
@@ -36687,7 +37804,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2023.1267975653277,
     "SD_fwd_mean": 2623.10977038304,
     "SD_fwd_plus_1": 3223.092743200753,
-    "SD_fwd_plus_2": 3823.075716018465
+    "SD_fwd_plus_2": 3823.075716018465,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-10-31",
@@ -36717,7 +37835,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1996.3280662078516,
     "SD_fwd_mean": 2588.363547782331,
     "SD_fwd_plus_1": 3180.39902935681,
-    "SD_fwd_plus_2": 3772.434510931289
+    "SD_fwd_plus_2": 3772.434510931289,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-11-07",
@@ -36747,7 +37866,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1961.3570751136767,
     "SD_fwd_mean": 2543.021481961493,
     "SD_fwd_plus_1": 3124.685888809309,
-    "SD_fwd_plus_2": 3706.350295657124
+    "SD_fwd_plus_2": 3706.350295657124,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-11-14",
@@ -36777,7 +37897,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1925.53586139661,
     "SD_fwd_mean": 2496.5770496099003,
     "SD_fwd_plus_1": 3067.6182378231906,
-    "SD_fwd_plus_2": 3638.659426036481
+    "SD_fwd_plus_2": 3638.659426036481,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-11-21",
@@ -36807,7 +37928,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2016.925020814081,
     "SD_fwd_mean": 2615.0687809554347,
     "SD_fwd_plus_1": 3213.212541096788,
-    "SD_fwd_plus_2": 3811.356301238141
+    "SD_fwd_plus_2": 3811.356301238141,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-11-28",
@@ -36837,7 +37959,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1973.4440824239607,
     "SD_fwd_mean": 2558.6930389832537,
     "SD_fwd_plus_1": 3143.9419955425465,
-    "SD_fwd_plus_2": 3729.190952101839
+    "SD_fwd_plus_2": 3729.190952101839,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-12-05",
@@ -36867,7 +37990,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1990.9768540481068,
     "SD_fwd_mean": 2581.425368269059,
     "SD_fwd_plus_1": 3171.873882490011,
-    "SD_fwd_plus_2": 3762.322396710963
+    "SD_fwd_plus_2": 3762.322396710963,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-12-12",
@@ -36897,7 +38021,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1974.4083840380808,
     "SD_fwd_mean": 2559.94331602404,
     "SD_fwd_plus_1": 3145.478248009998,
-    "SD_fwd_plus_2": 3731.013179995956
+    "SD_fwd_plus_2": 3731.013179995956,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-12-19",
@@ -36927,7 +38052,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1976.8999089607569,
     "SD_fwd_mean": 2563.173733106987,
     "SD_fwd_plus_1": 3149.4475572532174,
-    "SD_fwd_plus_2": 3735.721381399447
+    "SD_fwd_plus_2": 3735.721381399447,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2022-12-26",
@@ -36957,7 +38083,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1897.4990881300384,
     "SD_fwd_mean": 2460.225628644066,
     "SD_fwd_plus_1": 3022.952169158093,
-    "SD_fwd_plus_2": 3585.6787096721205
+    "SD_fwd_plus_2": 3585.6787096721205,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-01-02",
@@ -36987,7 +38114,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1934.4651312093836,
     "SD_fwd_mean": 2508.154403494224,
     "SD_fwd_plus_1": 3081.8436757790646,
-    "SD_fwd_plus_2": 3655.5329480639048
+    "SD_fwd_plus_2": 3655.5329480639048,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-01-09",
@@ -37017,7 +38145,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1913.3515297875413,
     "SD_fwd_mean": 2480.7793055793245,
     "SD_fwd_plus_1": 3048.207081371108,
-    "SD_fwd_plus_2": 3615.6348571628914
+    "SD_fwd_plus_2": 3615.6348571628914,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-01-16",
@@ -37047,7 +38176,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1907.4432586807293,
     "SD_fwd_mean": 2473.118864481416,
     "SD_fwd_plus_1": 3038.794470282103,
-    "SD_fwd_plus_2": 3604.470076082789
+    "SD_fwd_plus_2": 3604.470076082789,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-01-23",
@@ -37077,7 +38207,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1928.3536598419028,
     "SD_fwd_mean": 2500.2305006154,
     "SD_fwd_plus_1": 3072.1073413888967,
-    "SD_fwd_plus_2": 3643.984182162393
+    "SD_fwd_plus_2": 3643.984182162393,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-01-30",
@@ -37107,7 +38238,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1906.5933622788275,
     "SD_fwd_mean": 2472.016920916472,
     "SD_fwd_plus_1": 3037.440479554117,
-    "SD_fwd_plus_2": 3602.864038191761
+    "SD_fwd_plus_2": 3602.864038191761,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-02-06",
@@ -37137,7 +38269,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1888.4879662891487,
     "SD_fwd_mean": 2448.542148512522,
     "SD_fwd_plus_1": 3008.5963307358948,
-    "SD_fwd_plus_2": 3568.650512959267
+    "SD_fwd_plus_2": 3568.650512959267,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-02-13",
@@ -37167,7 +38300,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1855.684735350191,
     "SD_fwd_mean": 2406.010718609234,
     "SD_fwd_plus_1": 2956.336701868277,
-    "SD_fwd_plus_2": 3506.6626851273204
+    "SD_fwd_plus_2": 3506.6626851273204,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-02-20",
@@ -37197,7 +38331,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1839.2096979767084,
     "SD_fwd_mean": 2384.649807590797,
     "SD_fwd_plus_1": 2930.0899172048867,
-    "SD_fwd_plus_2": 3475.530026818976
+    "SD_fwd_plus_2": 3475.530026818976,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-02-27",
@@ -37227,7 +38362,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1903.112654235616,
     "SD_fwd_mean": 2467.503966371564,
     "SD_fwd_plus_1": 3031.895278507512,
-    "SD_fwd_plus_2": 3596.2865906434586
+    "SD_fwd_plus_2": 3596.2865906434586,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-03-06",
@@ -37257,7 +38393,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1911.9866573979452,
     "SD_fwd_mean": 2479.00966360494,
     "SD_fwd_plus_1": 3046.032669811934,
-    "SD_fwd_plus_2": 3613.055676018928
+    "SD_fwd_plus_2": 3613.055676018928,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-03-13",
@@ -37287,7 +38424,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1920.7975889570328,
     "SD_fwd_mean": 2490.433584580447,
     "SD_fwd_plus_1": 3060.0695802038617,
-    "SD_fwd_plus_2": 3629.705575827276
+    "SD_fwd_plus_2": 3629.705575827276,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-03-20",
@@ -37317,7 +38455,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1953.5215728381663,
     "SD_fwd_mean": 2532.8622657425763,
     "SD_fwd_plus_1": 3112.202958646986,
-    "SD_fwd_plus_2": 3691.543651551396
+    "SD_fwd_plus_2": 3691.543651551396,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-03-27",
@@ -37347,7 +38486,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1931.1253690725985,
     "SD_fwd_mean": 2503.82419408654,
     "SD_fwd_plus_1": 3076.5230191004803,
-    "SD_fwd_plus_2": 3649.221844114421
+    "SD_fwd_plus_2": 3649.221844114421,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-04-03",
@@ -37377,7 +38517,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1999.0106874990463,
     "SD_fwd_mean": 2591.841733196927,
     "SD_fwd_plus_1": 3184.672778894808,
-    "SD_fwd_plus_2": 3777.503824592688
+    "SD_fwd_plus_2": 3777.503824592688,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-04-10",
@@ -37407,7 +38548,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2022.7688436391647,
     "SD_fwd_mean": 2622.6456608461617,
     "SD_fwd_plus_1": 3222.522478053159,
-    "SD_fwd_plus_2": 3822.399295260156
+    "SD_fwd_plus_2": 3822.399295260156,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-04-17",
@@ -37437,7 +38579,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2000.223608991325,
     "SD_fwd_mean": 2593.4143613786764,
     "SD_fwd_plus_1": 3186.605113766028,
-    "SD_fwd_plus_2": 3779.795866153379
+    "SD_fwd_plus_2": 3779.795866153379,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-04-24",
@@ -37467,7 +38610,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2014.2047101627309,
     "SD_fwd_mean": 2611.5417289403945,
     "SD_fwd_plus_1": 3208.8787477180585,
-    "SD_fwd_plus_2": 3806.2157664957217
+    "SD_fwd_plus_2": 3806.2157664957217,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-05-01",
@@ -37497,7 +38641,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1997.9196534966643,
     "SD_fwd_mean": 2590.4271397295715,
     "SD_fwd_plus_1": 3182.9346259624785,
-    "SD_fwd_plus_2": 3775.442112195385
+    "SD_fwd_plus_2": 3775.442112195385,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-05-08",
@@ -37527,7 +38672,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1997.643210038456,
     "SD_fwd_mean": 2590.068713585912,
     "SD_fwd_plus_1": 3182.494217133368,
-    "SD_fwd_plus_2": 3774.919720680824
+    "SD_fwd_plus_2": 3774.919720680824,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-05-15",
@@ -37557,7 +38703,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1979.885279619687,
     "SD_fwd_mean": 2567.044451913677,
     "SD_fwd_plus_1": 3154.2036242076674,
-    "SD_fwd_plus_2": 3741.362796501657
+    "SD_fwd_plus_2": 3741.362796501657,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-05-22",
@@ -37587,7 +38734,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1985.1427414038344,
     "SD_fwd_mean": 2573.861078231913,
     "SD_fwd_plus_1": 3162.579415059992,
-    "SD_fwd_plus_2": 3751.29775188807
+    "SD_fwd_plus_2": 3751.29775188807,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-05-29",
@@ -37617,7 +38765,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2009.772528497008,
     "SD_fwd_mean": 2605.7951296439683,
     "SD_fwd_plus_1": 3201.8177307909286,
-    "SD_fwd_plus_2": 3797.840331937888
+    "SD_fwd_plus_2": 3797.840331937888,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-06-05",
@@ -37647,7 +38796,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1995.8000157778772,
     "SD_fwd_mean": 2587.678897544992,
     "SD_fwd_plus_1": 3179.557779312106,
-    "SD_fwd_plus_2": 3771.43666107922
+    "SD_fwd_plus_2": 3771.43666107922,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-06-12",
@@ -37677,7 +38827,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1976.4484063780187,
     "SD_fwd_mean": 2562.588331916336,
     "SD_fwd_plus_1": 3148.7282574546525,
-    "SD_fwd_plus_2": 3734.868182992969
+    "SD_fwd_plus_2": 3734.868182992969,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-06-19",
@@ -37707,7 +38858,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1961.905397475418,
     "SD_fwd_mean": 2543.7324160196717,
     "SD_fwd_plus_1": 3125.5594345639247,
-    "SD_fwd_plus_2": 3707.3864531081776
+    "SD_fwd_plus_2": 3707.3864531081776,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-06-26",
@@ -37737,7 +38889,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 1934.6996918731409,
     "SD_fwd_mean": 2508.458525988964,
     "SD_fwd_plus_1": 3082.217360104786,
-    "SD_fwd_plus_2": 3655.976194220608
+    "SD_fwd_plus_2": 3655.976194220608,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-07-03",
@@ -37767,7 +38920,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2114.2316150250845,
     "SD_fwd_mean": 2741.232834688868,
     "SD_fwd_plus_1": 3368.234054352651,
-    "SD_fwd_plus_2": 3995.235274016434
+    "SD_fwd_plus_2": 3995.235274016434,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-07-10",
@@ -37797,7 +38951,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2119.388900383166,
     "SD_fwd_mean": 2747.919576037812,
     "SD_fwd_plus_1": 3376.450251692458,
-    "SD_fwd_plus_2": 4004.980927347104
+    "SD_fwd_plus_2": 4004.980927347104,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-07-17",
@@ -37827,7 +38982,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2137.216670772628,
     "SD_fwd_mean": 2771.0343895774377,
     "SD_fwd_plus_1": 3404.8521083822475,
-    "SD_fwd_plus_2": 4038.669827187057
+    "SD_fwd_plus_2": 4038.669827187057,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-07-24",
@@ -37857,7 +39013,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2134.7749072709203,
     "SD_fwd_mean": 2767.868491272892,
     "SD_fwd_plus_1": 3400.962075274863,
-    "SD_fwd_plus_2": 4034.055659276834
+    "SD_fwd_plus_2": 4034.055659276834,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-07-31",
@@ -37887,7 +39044,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2154.9853519175635,
     "SD_fwd_mean": 2794.07259023505,
     "SD_fwd_plus_1": 3433.159828552536,
-    "SD_fwd_plus_2": 4072.2470668700216
+    "SD_fwd_plus_2": 4072.2470668700216,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-08-07",
@@ -37917,7 +39075,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2146.9064922699936,
     "SD_fwd_mean": 2783.597846041756,
     "SD_fwd_plus_1": 3420.2891998135187,
-    "SD_fwd_plus_2": 4056.9805535852806
+    "SD_fwd_plus_2": 4056.9805535852806,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-08-14",
@@ -37947,7 +39106,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2132.5036935140524,
     "SD_fwd_mean": 2764.923721324,
     "SD_fwd_plus_1": 3397.3437491339478,
-    "SD_fwd_plus_2": 4029.763776943894
+    "SD_fwd_plus_2": 4029.763776943894,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-08-21",
@@ -37977,7 +39137,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2136.028854398281,
     "SD_fwd_mean": 2769.494311743108,
     "SD_fwd_plus_1": 3402.959769087934,
-    "SD_fwd_plus_2": 4036.42522643276
+    "SD_fwd_plus_2": 4036.42522643276,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-08-28",
@@ -38007,7 +39168,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2207.607257045447,
     "SD_fwd_mean": 2862.300164326418,
     "SD_fwd_plus_1": 3516.9930716073886,
-    "SD_fwd_plus_2": 4171.685978888359
+    "SD_fwd_plus_2": 4171.685978888359,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-09-04",
@@ -38037,7 +39199,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2244.0985736925163,
     "SD_fwd_mean": 2909.61342682003,
     "SD_fwd_plus_1": 3575.128279947543,
-    "SD_fwd_plus_2": 4240.643133075056
+    "SD_fwd_plus_2": 4240.643133075056,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-09-11",
@@ -38067,7 +39230,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2249.8226832886544,
     "SD_fwd_mean": 2917.0350910609677,
     "SD_fwd_plus_1": 3584.24749883328,
-    "SD_fwd_plus_2": 4251.459906605592
+    "SD_fwd_plus_2": 4251.459906605592,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-09-18",
@@ -38097,7 +39261,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2245.046657960899,
     "SD_fwd_mean": 2910.842677063037,
     "SD_fwd_plus_1": 3576.6386961651747,
-    "SD_fwd_plus_2": 4242.434715267312
+    "SD_fwd_plus_2": 4242.434715267312,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-09-25",
@@ -38127,7 +39292,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2237.848089457894,
     "SD_fwd_mean": 2901.509285109686,
     "SD_fwd_plus_1": 3565.170480761478,
-    "SD_fwd_plus_2": 4228.83167641327
+    "SD_fwd_plus_2": 4228.83167641327,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-10-02",
@@ -38157,7 +39323,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2405.9145652044026,
     "SD_fwd_mean": 3119.417927877429,
     "SD_fwd_plus_1": 3832.921290550456,
-    "SD_fwd_plus_2": 4546.424653223482
+    "SD_fwd_plus_2": 4546.424653223482,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-10-09",
@@ -38187,7 +39354,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2388.031107287316,
     "SD_fwd_mean": 3096.2309119934043,
     "SD_fwd_plus_1": 3804.430716699492,
-    "SD_fwd_plus_2": 4512.63052140558
+    "SD_fwd_plus_2": 4512.63052140558,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-10-16",
@@ -38217,7 +39385,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2399.704120797547,
     "SD_fwd_mean": 3111.3657002950317,
     "SD_fwd_plus_1": 3823.027279792516,
-    "SD_fwd_plus_2": 4534.68885929
+    "SD_fwd_plus_2": 4534.68885929,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-10-23",
@@ -38247,7 +39416,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2429.9570767108344,
     "SD_fwd_mean": 3150.5905399514536,
     "SD_fwd_plus_1": 3871.224003192073,
-    "SD_fwd_plus_2": 4591.857466432692
+    "SD_fwd_plus_2": 4591.857466432692,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-10-30",
@@ -38277,7 +39447,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2408.4723663949817,
     "SD_fwd_mean": 3122.73427626537,
     "SD_fwd_plus_1": 3836.9961861357583,
-    "SD_fwd_plus_2": 4551.258096006146
+    "SD_fwd_plus_2": 4551.258096006146,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-11-06",
@@ -38307,7 +39478,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2379.634969343992,
     "SD_fwd_mean": 3085.3447967488623,
     "SD_fwd_plus_1": 3791.054624153733,
-    "SD_fwd_plus_2": 4496.764451558603
+    "SD_fwd_plus_2": 4496.764451558603,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-11-13",
@@ -38337,7 +39509,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2424.146709998261,
     "SD_fwd_mean": 3143.057037992209,
     "SD_fwd_plus_1": 3861.967365986157,
-    "SD_fwd_plus_2": 4580.877693980104
+    "SD_fwd_plus_2": 4580.877693980104,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-11-20",
@@ -38367,7 +39540,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2428.494307335896,
     "SD_fwd_mean": 3148.693968444499,
     "SD_fwd_plus_1": 3868.893629553103,
-    "SD_fwd_plus_2": 4589.093290661705
+    "SD_fwd_plus_2": 4589.093290661705,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-11-27",
@@ -38397,7 +39571,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2488.457612166164,
     "SD_fwd_mean": 3226.440124026057,
     "SD_fwd_plus_1": 3964.42263588595,
-    "SD_fwd_plus_2": 4702.405147745843
+    "SD_fwd_plus_2": 4702.405147745843,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-12-04",
@@ -38427,7 +39602,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2454.94317150253,
     "SD_fwd_mean": 3182.986566463824,
     "SD_fwd_plus_1": 3911.029961425118,
-    "SD_fwd_plus_2": 4639.073356386411
+    "SD_fwd_plus_2": 4639.073356386411,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-12-11",
@@ -38457,7 +39633,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2483.743818546425,
     "SD_fwd_mean": 3220.3283973095768,
     "SD_fwd_plus_1": 3956.912976072729,
-    "SD_fwd_plus_2": 4693.497554835881
+    "SD_fwd_plus_2": 4693.497554835881,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-12-18",
@@ -38487,7 +39664,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2489.9623492441183,
     "SD_fwd_mean": 3228.3911092711687,
     "SD_fwd_plus_1": 3966.8198692982182,
-    "SD_fwd_plus_2": 4705.248629325269
+    "SD_fwd_plus_2": 4705.248629325269,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2023-12-25",
@@ -38517,7 +39695,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2700.8597155694083,
     "SD_fwd_mean": 3501.8326665782342,
     "SD_fwd_plus_1": 4302.80561758706,
-    "SD_fwd_plus_2": 5103.778568595885
+    "SD_fwd_plus_2": 5103.778568595885,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-01-01",
@@ -38547,7 +39726,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2684.2446026475072,
     "SD_fwd_mean": 3480.2901388958835,
     "SD_fwd_plus_1": 4276.33567514426,
-    "SD_fwd_plus_2": 5072.381211392636
+    "SD_fwd_plus_2": 5072.381211392636,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-01-08",
@@ -38577,7 +39757,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2673.060899100705,
     "SD_fwd_mean": 3465.789771406319,
     "SD_fwd_plus_1": 4258.518643711933,
-    "SD_fwd_plus_2": 5051.247516017545
+    "SD_fwd_plus_2": 5051.247516017545,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-01-15",
@@ -38607,7 +39788,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2670.1506900611507,
     "SD_fwd_mean": 3462.0165043156453,
     "SD_fwd_plus_1": 4253.88231857014,
-    "SD_fwd_plus_2": 5045.748132824634
+    "SD_fwd_plus_2": 5045.748132824634,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-01-22",
@@ -38637,7 +39819,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2679.136955086275,
     "SD_fwd_mean": 3473.667756038979,
     "SD_fwd_plus_1": 4268.198556991683,
-    "SD_fwd_plus_2": 5062.729357944386
+    "SD_fwd_plus_2": 5062.729357944386,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-01-29",
@@ -38667,7 +39850,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2661.60379358552,
     "SD_fwd_mean": 3450.9349212538923,
     "SD_fwd_plus_1": 4240.266048922264,
-    "SD_fwd_plus_2": 5029.597176590636
+    "SD_fwd_plus_2": 5029.597176590636,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-02-05",
@@ -38697,7 +39881,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2622.2549130962466,
     "SD_fwd_mean": 3399.916649443514,
     "SD_fwd_plus_1": 4177.578385790781,
-    "SD_fwd_plus_2": 4955.240122138048
+    "SD_fwd_plus_2": 4955.240122138048,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-02-12",
@@ -38727,7 +39912,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2637.7736860329987,
     "SD_fwd_mean": 3420.037704121717,
     "SD_fwd_plus_1": 4202.301722210436,
-    "SD_fwd_plus_2": 4984.565740299155
+    "SD_fwd_plus_2": 4984.565740299155,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-02-19",
@@ -38757,7 +39943,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2630.266512811403,
     "SD_fwd_mean": 3410.304186949574,
     "SD_fwd_plus_1": 4190.341861087745,
-    "SD_fwd_plus_2": 4970.379535225916
+    "SD_fwd_plus_2": 4970.379535225916,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-02-26",
@@ -38787,7 +39974,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2678.417095731389,
     "SD_fwd_mean": 3472.734413596293,
     "SD_fwd_plus_1": 4267.051731461198,
-    "SD_fwd_plus_2": 5061.369049326101
+    "SD_fwd_plus_2": 5061.369049326101,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-03-04",
@@ -38817,7 +40005,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2690.339575058349,
     "SD_fwd_mean": 3488.1926498508737,
     "SD_fwd_plus_1": 4286.045724643399,
-    "SD_fwd_plus_2": 5083.898799435923
+    "SD_fwd_plus_2": 5083.898799435923,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-03-11",
@@ -38847,7 +40036,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2722.1933844237133,
     "SD_fwd_mean": 3529.4930956117423,
     "SD_fwd_plus_1": 4336.792806799771,
-    "SD_fwd_plus_2": 5144.0925179878
+    "SD_fwd_plus_2": 5144.0925179878,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-03-18",
@@ -38877,7 +40067,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2665.089336499155,
     "SD_fwd_mean": 3455.4541445091263,
     "SD_fwd_plus_1": 4245.818952519097,
-    "SD_fwd_plus_2": 5036.183760529068
+    "SD_fwd_plus_2": 5036.183760529068,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-03-25",
@@ -38907,7 +40098,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2776.521716357044,
     "SD_fwd_mean": 3599.933158228891,
     "SD_fwd_plus_1": 4423.344600100738,
-    "SD_fwd_plus_2": 5246.756041972583
+    "SD_fwd_plus_2": 5246.756041972583,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-04-01",
@@ -38937,7 +40129,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2741.0689154880483,
     "SD_fwd_mean": 3553.966396057176,
     "SD_fwd_plus_1": 4366.863876626305,
-    "SD_fwd_plus_2": 5179.761357195432
+    "SD_fwd_plus_2": 5179.761357195432,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-04-08",
@@ -38967,7 +40160,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2729.729985593972,
     "SD_fwd_mean": 3539.26476795031,
     "SD_fwd_plus_1": 4348.799550306649,
-    "SD_fwd_plus_2": 5158.3343326629865
+    "SD_fwd_plus_2": 5158.3343326629865,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-04-15",
@@ -38997,7 +40191,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2748.137004523092,
     "SD_fwd_mean": 3563.1306132619866,
     "SD_fwd_plus_1": 4378.124222000881,
-    "SD_fwd_plus_2": 5193.117830739775
+    "SD_fwd_plus_2": 5193.117830739775,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-04-22",
@@ -39027,7 +40222,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2774.7215509671123,
     "SD_fwd_mean": 3597.599131795986,
     "SD_fwd_plus_1": 4420.47671262486,
-    "SD_fwd_plus_2": 5243.354293453733
+    "SD_fwd_plus_2": 5243.354293453733,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-04-29",
@@ -39057,7 +40253,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2882.0786066943565,
     "SD_fwd_mean": 3736.794234216944,
     "SD_fwd_plus_1": 4591.509861739532,
-    "SD_fwd_plus_2": 5446.225489262119
+    "SD_fwd_plus_2": 5446.225489262119,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-05-06",
@@ -39087,7 +40284,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2872.7736175942628,
     "SD_fwd_mean": 3724.729736899655,
     "SD_fwd_plus_1": 4576.685856205046,
-    "SD_fwd_plus_2": 5428.641975510437
+    "SD_fwd_plus_2": 5428.641975510437,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-05-13",
@@ -39117,7 +40315,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2901.348846280251,
     "SD_fwd_mean": 3761.779298819031,
     "SD_fwd_plus_1": 4622.20975135781,
-    "SD_fwd_plus_2": 5482.640203896589
+    "SD_fwd_plus_2": 5482.640203896589,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-05-20",
@@ -39147,7 +40346,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2905.233847434287,
     "SD_fwd_mean": 3766.8164445369184,
     "SD_fwd_plus_1": 4628.39904163955,
-    "SD_fwd_plus_2": 5489.9816387421815
+    "SD_fwd_plus_2": 5489.9816387421815,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-05-27",
@@ -39177,7 +40377,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2947.8413094328967,
     "SD_fwd_mean": 3822.0596700205,
     "SD_fwd_plus_1": 4696.278030608103,
-    "SD_fwd_plus_2": 5570.496391195706
+    "SD_fwd_plus_2": 5570.496391195706,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-06-03",
@@ -39207,7 +40408,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2964.5439522711267,
     "SD_fwd_mean": 3843.7156856854126,
     "SD_fwd_plus_1": 4722.8874190996985,
-    "SD_fwd_plus_2": 5602.059152513984
+    "SD_fwd_plus_2": 5602.059152513984,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-06-10",
@@ -39237,7 +40439,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2942.621664204945,
     "SD_fwd_mean": 3815.292075220288,
     "SD_fwd_plus_1": 4687.96248623563,
-    "SD_fwd_plus_2": 5560.632897250973
+    "SD_fwd_plus_2": 5560.632897250973,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-06-17",
@@ -39267,7 +40470,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2968.2838763979016,
     "SD_fwd_mean": 3848.56473001088,
     "SD_fwd_plus_1": 4728.845583623858,
-    "SD_fwd_plus_2": 5609.126437236836
+    "SD_fwd_plus_2": 5609.126437236836,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-06-24",
@@ -39297,7 +40501,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 2969.2489292506807,
     "SD_fwd_mean": 3849.8159810793286,
     "SD_fwd_plus_1": 4730.3830329079765,
-    "SD_fwd_plus_2": 5610.950084736624
+    "SD_fwd_plus_2": 5610.950084736624,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-07-01",
@@ -39327,7 +40532,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3048.553407257127,
     "SD_fwd_mean": 3952.6391710762073,
     "SD_fwd_plus_1": 4856.724934895287,
-    "SD_fwd_plus_2": 5760.810698714367
+    "SD_fwd_plus_2": 5760.810698714367,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-07-08",
@@ -39357,7 +40563,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3071.633638388873,
     "SD_fwd_mean": 3982.564126772133,
     "SD_fwd_plus_1": 4893.494615155392,
-    "SD_fwd_plus_2": 5804.425103538652
+    "SD_fwd_plus_2": 5804.425103538652,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-07-15",
@@ -39387,7 +40594,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3108.108867987706,
     "SD_fwd_mean": 4029.856531406783,
     "SD_fwd_plus_1": 4951.60419482586,
-    "SD_fwd_plus_2": 5873.351858244935
+    "SD_fwd_plus_2": 5873.351858244935,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-07-22",
@@ -39417,7 +40625,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3133.3265859321573,
     "SD_fwd_mean": 4062.552871748109,
     "SD_fwd_plus_1": 4991.779157564061,
-    "SD_fwd_plus_2": 5921.005443380012
+    "SD_fwd_plus_2": 5921.005443380012,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-07-29",
@@ -39447,7 +40656,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3155.1745448060437,
     "SD_fwd_mean": 4090.88010979072,
     "SD_fwd_plus_1": 5026.585674775396,
-    "SD_fwd_plus_2": 5962.291239760071
+    "SD_fwd_plus_2": 5962.291239760071,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-08-05",
@@ -39477,7 +40687,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3139.403584363606,
     "SD_fwd_mean": 4070.43207832049,
     "SD_fwd_plus_1": 5001.460572277373,
-    "SD_fwd_plus_2": 5932.489066234257
+    "SD_fwd_plus_2": 5932.489066234257,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-08-12",
@@ -39507,7 +40718,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3143.218406065232,
     "SD_fwd_mean": 4075.3782320118185,
     "SD_fwd_plus_1": 5007.538057958405,
-    "SD_fwd_plus_2": 5939.697883904991
+    "SD_fwd_plus_2": 5939.697883904991,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-08-19",
@@ -39537,7 +40749,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3195.015647725249,
     "SD_fwd_mean": 4142.536578607193,
     "SD_fwd_plus_1": 5090.057509489137,
-    "SD_fwd_plus_2": 6037.578440371081
+    "SD_fwd_plus_2": 6037.578440371081,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-08-26",
@@ -39567,7 +40780,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3217.606038031697,
     "SD_fwd_mean": 4171.826425195613,
     "SD_fwd_plus_1": 5126.046812359529,
-    "SD_fwd_plus_2": 6080.267199523444
+    "SD_fwd_plus_2": 6080.267199523444,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-09-02",
@@ -39597,7 +40811,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3264.4988028655875,
     "SD_fwd_mean": 4232.625812433269,
     "SD_fwd_plus_1": 5200.75282200095,
-    "SD_fwd_plus_2": 6168.87983156863
+    "SD_fwd_plus_2": 6168.87983156863,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-09-09",
@@ -39627,7 +40842,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3327.434072907002,
     "SD_fwd_mean": 4314.225305824389,
     "SD_fwd_plus_1": 5301.016538741775,
-    "SD_fwd_plus_2": 6287.807771659161
+    "SD_fwd_plus_2": 6287.807771659161,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-09-16",
@@ -39657,7 +40873,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3320.0674243509043,
     "SD_fwd_mean": 4304.673987624396,
     "SD_fwd_plus_1": 5289.280550897888,
-    "SD_fwd_plus_2": 6273.887114171379
+    "SD_fwd_plus_2": 6273.887114171379,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-09-23",
@@ -39687,7 +40904,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3280.566625579476,
     "SD_fwd_mean": 4253.4587443089695,
     "SD_fwd_plus_1": 5226.350863038463,
-    "SD_fwd_plus_2": 6199.242981767956
+    "SD_fwd_plus_2": 6199.242981767956,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-09-30",
@@ -39717,7 +40935,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3428.55728809448,
     "SD_fwd_mean": 4445.337846120941,
     "SD_fwd_plus_1": 5462.118404147403,
-    "SD_fwd_plus_2": 6478.898962173864
+    "SD_fwd_plus_2": 6478.898962173864,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-10-07",
@@ -39747,7 +40966,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3395.6014865060806,
     "SD_fwd_mean": 4402.608598877829,
     "SD_fwd_plus_1": 5409.615711249577,
-    "SD_fwd_plus_2": 6416.622823621325
+    "SD_fwd_plus_2": 6416.622823621325,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-10-14",
@@ -39777,7 +40997,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3406.4290108575306,
     "SD_fwd_mean": 4416.6471578794335,
     "SD_fwd_plus_1": 5426.8653049013365,
-    "SD_fwd_plus_2": 6437.083451923239
+    "SD_fwd_plus_2": 6437.083451923239,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-10-21",
@@ -39807,7 +41028,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3425.6077404562147,
     "SD_fwd_mean": 4441.513574089424,
     "SD_fwd_plus_1": 5457.419407722632,
-    "SD_fwd_plus_2": 6473.32524135584
+    "SD_fwd_plus_2": 6473.32524135584,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-10-28",
@@ -39837,7 +41059,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3443.0832758105207,
     "SD_fwd_mean": 4464.171692990186,
     "SD_fwd_plus_1": 5485.260110169851,
-    "SD_fwd_plus_2": 6506.348527349516
+    "SD_fwd_plus_2": 6506.348527349516,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-11-04",
@@ -39867,7 +41090,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3429.9214805718084,
     "SD_fwd_mean": 4447.1066065467685,
     "SD_fwd_plus_1": 5464.291732521728,
-    "SD_fwd_plus_2": 6481.476858496687
+    "SD_fwd_plus_2": 6481.476858496687,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-11-11",
@@ -39897,7 +41121,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3492.6798367171154,
     "SD_fwd_mean": 4528.476720064143,
     "SD_fwd_plus_1": 5564.27360341117,
-    "SD_fwd_plus_2": 6600.070486758197
+    "SD_fwd_plus_2": 6600.070486758197,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-11-18",
@@ -39927,7 +41152,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3455.099507662828,
     "SD_fwd_mean": 4479.751485227087,
     "SD_fwd_plus_1": 5504.403462791346,
-    "SD_fwd_plus_2": 6529.055440355604
+    "SD_fwd_plus_2": 6529.055440355604,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-11-25",
@@ -39957,7 +41183,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3499.411861278737,
     "SD_fwd_mean": 4537.2052087694965,
     "SD_fwd_plus_1": 5574.998556260257,
-    "SD_fwd_plus_2": 6612.791903751016
+    "SD_fwd_plus_2": 6612.791903751016,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-12-02",
@@ -39987,7 +41214,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3475.865120008416,
     "SD_fwd_mean": 4506.67539365302,
     "SD_fwd_plus_1": 5537.485667297623,
-    "SD_fwd_plus_2": 6568.295940942226
+    "SD_fwd_plus_2": 6568.295940942226,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-12-09",
@@ -40017,7 +41245,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3522.578073670428,
     "SD_fwd_mean": 4567.241644518626,
     "SD_fwd_plus_1": 5611.905215366824,
-    "SD_fwd_plus_2": 6656.568786215022
+    "SD_fwd_plus_2": 6656.568786215022,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-12-16",
@@ -40047,7 +41276,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3585.636655325088,
     "SD_fwd_mean": 4649.00101908867,
     "SD_fwd_plus_1": 5712.365382852252,
-    "SD_fwd_plus_2": 6775.7297466158325
+    "SD_fwd_plus_2": 6775.7297466158325,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-12-23",
@@ -40077,7 +41307,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3823.3467823469223,
     "SD_fwd_mean": 4957.206988907442,
     "SD_fwd_plus_1": 6091.067195467961,
-    "SD_fwd_plus_2": 7224.927402028479
+    "SD_fwd_plus_2": 7224.927402028479,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2024-12-30",
@@ -40107,7 +41338,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3800.98430907716,
     "SD_fwd_mean": 4928.2126509379,
     "SD_fwd_plus_1": 6055.440992798641,
-    "SD_fwd_plus_2": 7182.669334659381
+    "SD_fwd_plus_2": 7182.669334659381,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-01-06",
@@ -40137,7 +41369,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3685.958085334121,
     "SD_fwd_mean": 4779.073995014933,
     "SD_fwd_plus_1": 5872.189904695744,
-    "SD_fwd_plus_2": 6965.305814376556
+    "SD_fwd_plus_2": 6965.305814376556,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-01-13",
@@ -40167,7 +41400,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3670.2411852310247,
     "SD_fwd_mean": 4758.696056138249,
     "SD_fwd_plus_1": 5847.150927045474,
-    "SD_fwd_plus_2": 6935.605797952699
+    "SD_fwd_plus_2": 6935.605797952699,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-01-20",
@@ -40197,7 +41431,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3712.8882233386153,
     "SD_fwd_mean": 4813.990594509519,
     "SD_fwd_plus_1": 5915.092965680422,
-    "SD_fwd_plus_2": 7016.195336851324
+    "SD_fwd_plus_2": 7016.195336851324,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-01-27",
@@ -40227,7 +41462,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3734.3016614419134,
     "SD_fwd_mean": 4841.754449337527,
     "SD_fwd_plus_1": 5949.207237233139,
-    "SD_fwd_plus_2": 7056.660025128751
+    "SD_fwd_plus_2": 7056.660025128751,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-02-03",
@@ -40257,7 +41493,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3747.441968883655,
     "SD_fwd_mean": 4858.791675515217,
     "SD_fwd_plus_1": 5970.14138214678,
-    "SD_fwd_plus_2": 7081.491088778341
+    "SD_fwd_plus_2": 7081.491088778341,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-02-10",
@@ -40287,7 +41524,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3813.204523290903,
     "SD_fwd_mean": 4944.056918998023,
     "SD_fwd_plus_1": 6074.909314705144,
-    "SD_fwd_plus_2": 7205.761710412264
+    "SD_fwd_plus_2": 7205.761710412264,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-02-17",
@@ -40317,7 +41555,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3805.780019168767,
     "SD_fwd_mean": 4934.430587456935,
     "SD_fwd_plus_1": 6063.081155745103,
-    "SD_fwd_plus_2": 7191.731724033271
+    "SD_fwd_plus_2": 7191.731724033271,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-02-24",
@@ -40347,7 +41586,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3820.530922669169,
     "SD_fwd_mean": 4953.556051634686,
     "SD_fwd_plus_1": 6086.581180600202,
-    "SD_fwd_plus_2": 7219.606309565718
+    "SD_fwd_plus_2": 7219.606309565718,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-03-03",
@@ -40377,7 +41617,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3872.554721253833,
     "SD_fwd_mean": 5021.0081433790565,
     "SD_fwd_plus_1": 6169.46156550428,
-    "SD_fwd_plus_2": 7317.914987629502
+    "SD_fwd_plus_2": 7317.914987629502,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-03-10",
@@ -40407,7 +41648,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3879.008941736989,
     "SD_fwd_mean": 5029.376441811931,
     "SD_fwd_plus_1": 6179.743941886873,
-    "SD_fwd_plus_2": 7330.111441961813
+    "SD_fwd_plus_2": 7330.111441961813,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-03-17",
@@ -40437,7 +41679,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 3909.41792264717,
     "SD_fwd_mean": 5068.803577584577,
     "SD_fwd_plus_1": 6228.189232521984,
-    "SD_fwd_plus_2": 7387.574887459391
+    "SD_fwd_plus_2": 7387.574887459391,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-03-24",
@@ -40467,7 +41710,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 4490.066729931364,
     "SD_fwd_mean": 5821.650883735316,
     "SD_fwd_plus_1": 7153.235037539268,
-    "SD_fwd_plus_2": 8484.819191343218
+    "SD_fwd_plus_2": 8484.819191343218,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-03-31",
@@ -40497,7 +41741,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 4668.055942804817,
     "SD_fwd_mean": 6052.424972572951,
     "SD_fwd_plus_1": 7436.794002341086,
-    "SD_fwd_plus_2": 8821.16303210922
+    "SD_fwd_plus_2": 8821.16303210922,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-04-07",
@@ -40527,7 +41772,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 4694.25140729285,
     "SD_fwd_mean": 6086.389022142644,
     "SD_fwd_plus_1": 7478.526636992437,
-    "SD_fwd_plus_2": 8870.66425184223
+    "SD_fwd_plus_2": 8870.66425184223,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-04-14",
@@ -40557,7 +41803,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 4648.592351413541,
     "SD_fwd_mean": 6027.189215324993,
     "SD_fwd_plus_1": 7405.7860792364445,
-    "SD_fwd_plus_2": 8784.382943147895
+    "SD_fwd_plus_2": 8784.382943147895,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-04-21",
@@ -40587,7 +41834,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 4609.413578307652,
     "SD_fwd_mean": 5976.391498321118,
     "SD_fwd_plus_1": 7343.369418334585,
-    "SD_fwd_plus_2": 8710.34733834805
+    "SD_fwd_plus_2": 8710.34733834805,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-04-28",
@@ -40617,7 +41865,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 4483.157837018502,
     "SD_fwd_mean": 5812.69307420797,
     "SD_fwd_plus_1": 7142.228311397438,
-    "SD_fwd_plus_2": 8471.763548586907
+    "SD_fwd_plus_2": 8471.763548586907,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-05-05",
@@ -40647,7 +41896,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 4477.064747984183,
     "SD_fwd_mean": 5804.793005167824,
     "SD_fwd_plus_1": 7132.521262351465,
-    "SD_fwd_plus_2": 8460.249519535106
+    "SD_fwd_plus_2": 8460.249519535106,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-05-12",
@@ -40677,7 +41927,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 4480.093123137175,
     "SD_fwd_mean": 5808.719481976772,
     "SD_fwd_plus_1": 7137.345840816368,
-    "SD_fwd_plus_2": 8465.972199655964
+    "SD_fwd_plus_2": 8465.972199655964,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-05-19",
@@ -40707,7 +41958,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 4483.071490154293,
     "SD_fwd_mean": 5812.581120126091,
     "SD_fwd_plus_1": 7142.090750097889,
-    "SD_fwd_plus_2": 8471.600380069685
+    "SD_fwd_plus_2": 8471.600380069685,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-05-26",
@@ -40737,7 +41989,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 4516.032183481285,
     "SD_fwd_mean": 5855.316709812648,
     "SD_fwd_plus_1": 7194.601236144012,
-    "SD_fwd_plus_2": 8533.885762475375
+    "SD_fwd_plus_2": 8533.885762475375,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-06-02",
@@ -40767,7 +42020,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 4489.61373859525,
     "SD_fwd_mean": 5821.0635522832845,
     "SD_fwd_plus_1": 7152.513365971318,
-    "SD_fwd_plus_2": 8483.963179659351
+    "SD_fwd_plus_2": 8483.963179659351,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-06-09",
@@ -40797,7 +42051,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 4481.253878929837,
     "SD_fwd_mean": 5810.224474083258,
     "SD_fwd_plus_1": 7139.195069236681,
-    "SD_fwd_plus_2": 8468.165664390102
+    "SD_fwd_plus_2": 8468.165664390102,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-06-16",
@@ -40827,7 +42082,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 4429.881354756784,
     "SD_fwd_mean": 5743.616800135319,
     "SD_fwd_plus_1": 7057.352245513853,
-    "SD_fwd_plus_2": 8371.087690892386
+    "SD_fwd_plus_2": 8371.087690892386,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-06-23",
@@ -40857,7 +42113,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 4481.427498317214,
     "SD_fwd_mean": 5810.449582421453,
     "SD_fwd_plus_1": 7139.471666525692,
-    "SD_fwd_plus_2": 8468.49375062993
+    "SD_fwd_plus_2": 8468.49375062993,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-06-30",
@@ -40887,7 +42144,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 5803.0792577939055,
     "SD_fwd_mean": 7524.053320703853,
     "SD_fwd_plus_1": 9245.027383613802,
-    "SD_fwd_plus_2": 10966.00144652375
+    "SD_fwd_plus_2": 10966.00144652375,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-07-07",
@@ -40917,7 +42175,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 5770.729194245954,
     "SD_fwd_mean": 7482.109450518721,
     "SD_fwd_plus_1": 9193.489706791488,
-    "SD_fwd_plus_2": 10904.869963064251
+    "SD_fwd_plus_2": 10904.869963064251,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-07-14",
@@ -40947,7 +42206,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 6006.588395972632,
     "SD_fwd_mean": 7787.915580529222,
     "SD_fwd_plus_1": 9569.242765085814,
-    "SD_fwd_plus_2": 11350.569949642402
+    "SD_fwd_plus_2": 11350.569949642402,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-07-21",
@@ -40977,7 +42237,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 6066.112792954727,
     "SD_fwd_mean": 7865.092664777127,
     "SD_fwd_plus_1": 9664.072536599528,
-    "SD_fwd_plus_2": 11463.052408421929
+    "SD_fwd_plus_2": 11463.052408421929,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-07-28",
@@ -41007,7 +42268,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 6209.525570052577,
     "SD_fwd_mean": 8051.036253313371,
     "SD_fwd_plus_1": 9892.546936574165,
-    "SD_fwd_plus_2": 11734.057619834955
+    "SD_fwd_plus_2": 11734.057619834955,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-08-04",
@@ -41037,7 +42299,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 6006.9107708126585,
     "SD_fwd_mean": 7788.333559567223,
     "SD_fwd_plus_1": 9569.756348321787,
-    "SD_fwd_plus_2": 11351.179137076351
+    "SD_fwd_plus_2": 11351.179137076351,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-08-11",
@@ -41067,7 +42330,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 6111.627356539455,
     "SD_fwd_mean": 7924.105128344659,
     "SD_fwd_plus_1": 9736.582900149862,
-    "SD_fwd_plus_2": 11549.060671955063
+    "SD_fwd_plus_2": 11549.060671955063,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-08-18",
@@ -41097,7 +42361,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 6228.916106998765,
     "SD_fwd_mean": 8076.177290927884,
     "SD_fwd_plus_1": 9923.438474857005,
-    "SD_fwd_plus_2": 11770.69965878612
+    "SD_fwd_plus_2": 11770.69965878612,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-08-25",
@@ -41127,7 +42392,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 6180.815788716872,
     "SD_fwd_mean": 8013.812235511878,
     "SD_fwd_plus_1": 9846.808682306884,
-    "SD_fwd_plus_2": 11679.80512910189
+    "SD_fwd_plus_2": 11679.80512910189,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-09-01",
@@ -41157,7 +42423,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 6086.775920018388,
     "SD_fwd_mean": 7891.88369465849,
     "SD_fwd_plus_1": 9696.99146929859,
-    "SD_fwd_plus_2": 11502.09924393869
+    "SD_fwd_plus_2": 11502.09924393869,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-09-08",
@@ -41187,7 +42454,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 5845.738823479996,
     "SD_fwd_mean": 7579.364101860103,
     "SD_fwd_plus_1": 9312.989380240211,
-    "SD_fwd_plus_2": 11046.614658620318
+    "SD_fwd_plus_2": 11046.614658620318,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-09-15",
@@ -41217,7 +42485,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 5823.433064665468,
     "SD_fwd_mean": 7550.4432977105025,
     "SD_fwd_plus_1": 9277.453530755538,
-    "SD_fwd_plus_2": 11004.463763800572
+    "SD_fwd_plus_2": 11004.463763800572,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-09-22",
@@ -41247,7 +42516,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 5879.960909935984,
     "SD_fwd_mean": 7623.735166221281,
     "SD_fwd_plus_1": 9367.50942250658,
-    "SD_fwd_plus_2": 11111.283678791877
+    "SD_fwd_plus_2": 11111.283678791877,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-09-29",
@@ -41277,7 +42547,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 7084.857100336455,
     "SD_fwd_mean": 9185.958044757754,
     "SD_fwd_plus_1": 11287.058989179051,
-    "SD_fwd_plus_2": 13388.15993360035
+    "SD_fwd_plus_2": 13388.15993360035,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-10-06",
@@ -41307,7 +42578,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 7185.973884293137,
     "SD_fwd_mean": 9317.062246563431,
     "SD_fwd_plus_1": 11448.15060883373,
-    "SD_fwd_plus_2": 13579.238971104023
+    "SD_fwd_plus_2": 13579.238971104023,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-10-13",
@@ -41337,7 +42609,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 7019.029728645259,
     "SD_fwd_mean": 9100.608761633428,
     "SD_fwd_plus_1": 11182.187794621595,
-    "SD_fwd_plus_2": 13263.766827609765
+    "SD_fwd_plus_2": 13263.766827609765,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-10-20",
@@ -41367,7 +42640,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 7156.854564194437,
     "SD_fwd_mean": 9279.307236274542,
     "SD_fwd_plus_1": 11401.759908354648,
-    "SD_fwd_plus_2": 13524.212580434752
+    "SD_fwd_plus_2": 13524.212580434752,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-10-27",
@@ -41397,7 +42671,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 7811.004295727942,
     "SD_fwd_mean": 10127.453063883537,
     "SD_fwd_plus_1": 12443.901832039131,
-    "SD_fwd_plus_2": 14760.350600194724
+    "SD_fwd_plus_2": 14760.350600194724,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-11-03",
@@ -41427,7 +42702,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 7507.04232362324,
     "SD_fwd_mean": 9733.34745477774,
     "SD_fwd_plus_1": 11959.652585932245,
-    "SD_fwd_plus_2": 14185.95771708674
+    "SD_fwd_plus_2": 14185.95771708674,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-11-10",
@@ -41457,7 +42733,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 7359.913571071602,
     "SD_fwd_mean": 9542.585872860624,
     "SD_fwd_plus_1": 11725.258174649647,
-    "SD_fwd_plus_2": 13907.93047643867
+    "SD_fwd_plus_2": 13907.93047643867,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-11-17",
@@ -41487,7 +42764,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 6922.535095254495,
     "SD_fwd_mean": 8975.497465622992,
     "SD_fwd_plus_1": 11028.459835991487,
-    "SD_fwd_plus_2": 13081.422206359985
+    "SD_fwd_plus_2": 13081.422206359985,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-11-24",
@@ -41517,7 +42795,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 7591.0991635006385,
     "SD_fwd_mean": 9842.332377628483,
     "SD_fwd_plus_1": 12093.565591756327,
-    "SD_fwd_plus_2": 14344.798805884173
+    "SD_fwd_plus_2": 14344.798805884173,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-12-01",
@@ -41547,7 +42826,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 7882.515448857127,
     "SD_fwd_mean": 10220.171723282574,
     "SD_fwd_plus_1": 12557.82799770802,
-    "SD_fwd_plus_2": 14895.484272133464
+    "SD_fwd_plus_2": 14895.484272133464,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-12-08",
@@ -41577,7 +42857,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 7600.197398099266,
     "SD_fwd_mean": 9854.12880487052,
     "SD_fwd_plus_1": 12108.060211641778,
-    "SD_fwd_plus_2": 14361.99161841303
+    "SD_fwd_plus_2": 14361.99161841303,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-12-15",
@@ -41607,7 +42888,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 7637.260938220458,
     "SD_fwd_mean": 9902.183990701624,
     "SD_fwd_plus_1": 12167.107043182788,
-    "SD_fwd_plus_2": 14432.030095663951
+    "SD_fwd_plus_2": 14432.030095663951,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-12-22",
@@ -41637,7 +42919,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 7788.290893893313,
     "SD_fwd_mean": 10098.00372519515,
     "SD_fwd_plus_1": 12407.716556496987,
-    "SD_fwd_plus_2": 14717.429387798824
+    "SD_fwd_plus_2": 14717.429387798824,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2025-12-29",
@@ -41667,7 +42950,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 7960.99695557495,
     "SD_fwd_mean": 10321.927879799134,
     "SD_fwd_plus_1": 12682.858804023315,
-    "SD_fwd_plus_2": 15043.7897282475
+    "SD_fwd_plus_2": 15043.7897282475,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2026-01-05",
@@ -41697,7 +42981,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 8254.163347876676,
     "SD_fwd_mean": 10702.036347997986,
     "SD_fwd_plus_1": 13149.909348119294,
-    "SD_fwd_plus_2": 15597.7823482406
+    "SD_fwd_plus_2": 15597.7823482406,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2026-01-12",
@@ -41727,7 +43012,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 8566.0459125234,
     "SD_fwd_mean": 11106.411498147476,
     "SD_fwd_plus_1": 13646.777083771552,
-    "SD_fwd_plus_2": 16187.142669395627
+    "SD_fwd_plus_2": 16187.142669395627,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2026-01-19",
@@ -41757,7 +43043,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 8599.024638665087,
     "SD_fwd_mean": 11149.170468500275,
     "SD_fwd_plus_1": 13699.31629833546,
-    "SD_fwd_plus_2": 16249.462128170648
+    "SD_fwd_plus_2": 16249.462128170648,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2026-01-26",
@@ -41787,7 +43074,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 8642.830601654283,
     "SD_fwd_mean": 11205.96762508793,
     "SD_fwd_plus_1": 13769.104648521576,
-    "SD_fwd_plus_2": 16332.24167195522
+    "SD_fwd_plus_2": 16332.24167195522,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2026-02-02",
@@ -41817,7 +43105,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 8697.020602867535,
     "SD_fwd_mean": 11276.228333319666,
     "SD_fwd_plus_1": 13855.4360637718,
-    "SD_fwd_plus_2": 16434.64379422393
+    "SD_fwd_plus_2": 16434.64379422393,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2026-02-09",
@@ -41847,7 +43136,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 8793.449543365625,
     "SD_fwd_mean": 11401.254454407392,
     "SD_fwd_plus_1": 14009.059365449162,
-    "SD_fwd_plus_2": 16616.86427649093
+    "SD_fwd_plus_2": 16616.86427649093,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2026-02-16",
@@ -41877,7 +43167,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 8925.883095845296,
     "SD_fwd_mean": 11572.962795107547,
     "SD_fwd_plus_1": 14220.042494369802,
-    "SD_fwd_plus_2": 16867.12219363205
+    "SD_fwd_plus_2": 16867.12219363205,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2026-02-23",
@@ -41907,7 +43198,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 8750.778485422918,
     "SD_fwd_mean": 11345.9287728254,
     "SD_fwd_plus_1": 13941.079060227885,
-    "SD_fwd_plus_2": 16536.229347630364
+    "SD_fwd_plus_2": 16536.229347630364,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2026-03-02",
@@ -41937,7 +43229,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 8120.131114648115,
     "SD_fwd_mean": 10528.25521823825,
     "SD_fwd_plus_1": 12936.379321828384,
-    "SD_fwd_plus_2": 15344.503425418518
+    "SD_fwd_plus_2": 15344.503425418518,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2026-03-09",
@@ -41967,7 +43260,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 8262.656932924734,
     "SD_fwd_mean": 10713.048809476895,
     "SD_fwd_plus_1": 13163.440686029058,
-    "SD_fwd_plus_2": 15613.832562581218
+    "SD_fwd_plus_2": 15613.832562581218,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2026-03-16",
@@ -41997,7 +43291,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 8288.557671526372,
     "SD_fwd_mean": 10746.630728597269,
     "SD_fwd_plus_1": 13204.703785668162,
-    "SD_fwd_plus_2": 15662.776842739057
+    "SD_fwd_plus_2": 15662.776842739057,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2026-03-23",
@@ -42027,7 +43322,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 8058.463191898889,
     "SD_fwd_mean": 10448.298919464793,
     "SD_fwd_plus_1": 12838.134647030696,
-    "SD_fwd_plus_2": 15227.970374596598
+    "SD_fwd_plus_2": 15227.970374596598,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2026-03-30",
@@ -42057,7 +43353,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 8464.45159759243,
     "SD_fwd_mean": 10974.688147722036,
     "SD_fwd_plus_1": 13484.92469785164,
-    "SD_fwd_plus_2": 15995.161247981245
+    "SD_fwd_plus_2": 15995.161247981245,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2026-04-06",
@@ -42087,7 +43384,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 9605.998819641334,
     "SD_fwd_mean": 12454.775147268296,
     "SD_fwd_plus_1": 15303.551474895256,
-    "SD_fwd_plus_2": 18152.327802522217
+    "SD_fwd_plus_2": 18152.327802522217,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2026-04-13",
@@ -42117,7 +43415,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 10325.70589856448,
     "SD_fwd_mean": 13387.920154693951,
     "SD_fwd_plus_1": 16450.134410823423,
-    "SD_fwd_plus_2": 19512.34866695289
+    "SD_fwd_plus_2": 19512.34866695289,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2026-04-20",
@@ -42147,7 +43446,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 11360.645385063292,
     "SD_fwd_mean": 14729.783592051035,
     "SD_fwd_plus_1": 18098.92179903878,
-    "SD_fwd_plus_2": 21468.060006026524
+    "SD_fwd_plus_2": 21468.060006026524,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2026-04-27",
@@ -42177,7 +43477,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 11448.905225219782,
     "SD_fwd_mean": 14844.217966270951,
     "SD_fwd_plus_1": 18239.530707322127,
-    "SD_fwd_plus_2": 21634.843448373296
+    "SD_fwd_plus_2": 21634.843448373296,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2026-05-04",
@@ -42207,7 +43508,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 12724.139618711846,
     "SD_fwd_mean": 16497.638701502707,
     "SD_fwd_plus_1": 20271.137784293565,
-    "SD_fwd_plus_2": 24044.636867084424
+    "SD_fwd_plus_2": 24044.636867084424,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2026-05-11",
@@ -42237,7 +43539,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 12522.03154930328,
     "SD_fwd_mean": 16235.593014511234,
     "SD_fwd_plus_1": 19949.154479719185,
-    "SD_fwd_plus_2": 23662.71594492714
+    "SD_fwd_plus_2": 23662.71594492714,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2026-05-18",
@@ -42267,7 +43570,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 13185.5821969303,
     "SD_fwd_mean": 17095.92771475299,
     "SD_fwd_plus_1": 21006.27323257568,
-    "SD_fwd_plus_2": 24916.618750398367
+    "SD_fwd_plus_2": 24916.618750398367,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2026-05-25",
@@ -42297,7 +43601,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 13862.920542686024,
     "SD_fwd_mean": 17974.139023478216,
     "SD_fwd_plus_1": 22085.35750427041,
-    "SD_fwd_plus_2": 26196.5759850626
+    "SD_fwd_plus_2": 26196.5759850626,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2026-06-01",
@@ -42327,7 +43632,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 13205.269712925035,
     "SD_fwd_mean": 17121.453804181743,
     "SD_fwd_plus_1": 21037.637895438453,
-    "SD_fwd_plus_2": 24953.82198669516
+    "SD_fwd_plus_2": 24953.82198669516,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2026-06-08",
@@ -42357,7 +43663,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 14448.681390018255,
     "SD_fwd_mean": 18733.6144076183,
     "SD_fwd_plus_1": 23018.54742521835,
-    "SD_fwd_plus_2": 27303.480442818392
+    "SD_fwd_plus_2": 27303.480442818392,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2026-06-15",
@@ -42387,7 +43694,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 15497.160594463598,
     "SD_fwd_mean": 20093.03293172354,
     "SD_fwd_plus_1": 24688.905268983483,
-    "SD_fwd_plus_2": 29284.77760624342
+    "SD_fwd_plus_2": 29284.77760624342,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2026-06-22",
@@ -42417,7 +43725,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 14267.25592303756,
     "SD_fwd_mean": 18498.38500152963,
     "SD_fwd_plus_1": 22729.5140800217,
-    "SD_fwd_plus_2": 26960.643158513765
+    "SD_fwd_plus_2": 26960.643158513765,
+    "Source": "YFINANCE"
   },
   {
     "Date": "2026-06-29",
@@ -42447,7 +43756,8 @@ const SOX_YF_DATA = [
     "SD_fwd_minus_1": 13643.393712140884,
     "SD_fwd_mean": 17689.508828891718,
     "SD_fwd_plus_1": 21735.62394564255,
-    "SD_fwd_plus_2": 25781.739062393382
+    "SD_fwd_plus_2": 25781.739062393382,
+    "Source": "YFINANCE"
   }
 ];
 

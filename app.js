@@ -10,6 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- 2. DOM Elements ---
     const valPrice = document.getElementById('val-price');
     const valDate = document.getElementById('val-date');
+    const valSource = document.getElementById('val-source');
     const valPe = document.getElementById('val-pe');
     const valForwardPe = document.getElementById('val-forward-pe');
     const valMeanPe = document.getElementById('val-mean-pe');
@@ -143,6 +144,10 @@ document.addEventListener('DOMContentLoaded', () => {
         // Update Stats Cards
         valPrice.textContent = Number(latestData.Price).toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
         valDate.textContent = `最後更新日期: ${latestData.Date}`;
+        if (valSource) {
+            const source = latestData.Source || (indexName === 'SOX_YF' ? 'YFINANCE' : 'LSEG');
+            valSource.textContent = `Source: ${source}`;
+        }
         valPe.textContent = `${Number(currentPE).toFixed(2)}x`;
         
         // In trailing mode, display forward PE; in forward mode, display trailing PE in footer
