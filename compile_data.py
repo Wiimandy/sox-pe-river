@@ -15,7 +15,6 @@ def main():
 
     datasets = {
         "SOX_DATA":    f"sox_pe_river_data_{FREQ}.csv",
-        "SOX_YF_DATA": f"sox_yf_pe_river_data_{FREQ}.csv",
         "SPX_DATA":    f"spx_pe_river_data_{FREQ}.csv",
         "IXIC_DATA":   f"ixic_pe_river_data_{FREQ}.csv",
         "DJI_DATA":    f"dji_pe_river_data_{FREQ}.csv",
