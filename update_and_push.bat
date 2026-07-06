@@ -1,71 +1,80 @@
 @echo off
+setlocal EnableExtensions
+
+set "PROJECT_DIR=C:\Users\USER\Documents\Analysis\sox-pe-river-latest"
+set "PYTHON_EXE=C:\Users\USER\AppData\Local\Python\pythoncore-3.14-64\python.exe"
+set "GH_EXE=C:\Users\USER\Documents\Analysis\.tools\bin\gh.exe"
+set "REPO=Wiimandy/sox-pe-river"
+set "BRANCH=main"
+
 echo ============================================================
-echo   Valuation River Chart - Auto Update and Publish
+echo   SOX PE River - LSEG/yfinance Proxy Update and Publish
 echo ============================================================
 echo.
-echo [INFO] Please make sure LSEG Workspace desktop app is running.
+echo [INFO] SOX source policy:
+echo [INFO] LSEG through 2026-07-06; yfinance proxy from 2026-07-07 onward.
 echo.
 
-echo [1/4] Querying latest data from LSEG Workspace (query_all.py)...
-python query_all.py
+cd /d "%PROJECT_DIR%"
+if %errorlevel% neq 0 (
+    echo [ERROR] Failed to enter project folder:
+    echo         %PROJECT_DIR%
+    pause
+    exit /b %errorlevel%
+)
+
+echo [1/5] Updating SOX daily tracking log...
+"%PYTHON_EXE%" record_daily_tracking.py
 if %errorlevel% neq 0 (
     echo.
-    echo [ERROR] Failed to fetch data from LSEG Workspace.
-    echo Make sure the LSEG Workspace desktop app is running and logged in.
-    echo.
+    echo [ERROR] Failed to update SOX daily tracking log.
     pause
     exit /b %errorlevel%
 )
 
 echo.
-echo [1.5/4] Querying latest SOX data from yfinance (query_yf_sox.py)...
-python query_yf_sox.py
+echo [2/5] Splicing SOX source series...
+"%PYTHON_EXE%" splice_sox_yfinance_proxy.py
 if %errorlevel% neq 0 (
     echo.
-    echo [ERROR] Failed to fetch data from yfinance.
-    echo.
+    echo [ERROR] Failed to splice SOX yfinance proxy data.
     pause
     exit /b %errorlevel%
 )
 
 echo.
-echo [2/4] Calculating valuation river bands (plot_river.py)...
-python plot_river.py
+echo [3/5] Calculating valuation river bands...
+"%PYTHON_EXE%" plot_river.py
 if %errorlevel% neq 0 (
     echo.
     echo [ERROR] Failed to calculate river bands.
-    echo.
     pause
     exit /b %errorlevel%
 )
 
 echo.
-echo [3/4] Compiling datasets to data.js (compile_data.py)...
-python compile_data.py
+echo [4/5] Compiling datasets to data.js...
+"%PYTHON_EXE%" compile_data.py
 if %errorlevel% neq 0 (
     echo.
     echo [ERROR] Failed to compile data.js.
-    echo.
     pause
     exit /b %errorlevel%
 )
 
 echo.
-echo [4/4] Pushing updated data.js to GitHub...
-git add data.js
-git commit -m "Auto-update valuation data to latest week"
-git push origin main
+echo [5/5] Publishing data.js and scripts to GitHub...
+powershell.exe -NoProfile -ExecutionPolicy Bypass -Command "$ErrorActionPreference='Stop'; $gh=$env:GH_EXE; $repo=$env:REPO; $branch=$env:BRANCH; $files=@('data.js','index.html','app.js','compile_data.py','plot_river.py','splice_sox_yfinance_proxy.py','sox_pe_data_W.csv','sox_pe_river_data_W.csv'); foreach($file in $files){ if(Test-Path $file){ Write-Host \"Uploading $file\"; $sha=& $gh api \"repos/$repo/contents/$file\" --jq '.sha' 2>$null; $content=[Convert]::ToBase64String([IO.File]::ReadAllBytes($file)); $body=@{message='Auto-update SOX LSEG/yfinance proxy data'; content=$content; branch=$branch} ; if($sha){ $body.sha=$sha }; $body=$body | ConvertTo-Json -Compress; $body | & $gh api \"repos/$repo/contents/$file\" -X PUT --input - | Out-Null } }"
 if %errorlevel% neq 0 (
     echo.
-    echo [ERROR] Failed to push data to GitHub.
-    echo.
+    echo [ERROR] Failed to upload files to GitHub.
     pause
     exit /b %errorlevel%
 )
 
 echo.
 echo ============================================================
-echo   Success! Web site will update in 1 minute.
+echo   Success. GitHub Pages should refresh shortly.
 echo ============================================================
 echo.
 pause
