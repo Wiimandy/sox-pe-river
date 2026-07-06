@@ -20,7 +20,7 @@ plt.rcParams['axes.unicode_minus'] = False
 # CJK-capable font for footnote text (Traditional Chinese support on Windows)
 _CJK_FONT = FontProperties(family='Microsoft JhengHei', size=7)
 
-def clean_pe_series(series, dates=None, index_name=None, min_val=9.5, max_deviation=0.35):
+def clean_pe_series(series, dates=None, index_name=None, min_val=9.5, max_deviation=0.35, fill_edges=True):
     s = series.copy()
     if index_name == 'IXIC' and dates is not None:
         # Date-based hybrid filtering for Nasdaq index
@@ -34,7 +34,10 @@ def clean_pe_series(series, dates=None, index_name=None, min_val=9.5, max_deviat
         # Standard absolute lower bound
         s[s < min_val] = np.nan
         
-    s = s.interpolate(method='linear').ffill().bfill()
+    if fill_edges:
+        s = s.interpolate(method='linear').ffill().bfill()
+    else:
+        s = s.interpolate(method='linear', limit_area='inside')
     
     # 2. Rolling median deviation filter (detect sudden spikes or drops)
     rolling_med = s.rolling(window=13, center=True, min_periods=1).median()
@@ -42,13 +45,19 @@ def clean_pe_series(series, dates=None, index_name=None, min_val=9.5, max_deviat
     is_anomaly = deviations > max_deviation
     
     s[is_anomaly] = np.nan
-    s = s.interpolate(method='linear').ffill().bfill()
+    if fill_edges:
+        s = s.interpolate(method='linear').ffill().bfill()
+    else:
+        s = s.interpolate(method='linear', limit_area='inside')
     return s
 
 def calculate_river_bands(df, index_name="SOX", fixed_pe_levels=[15, 20, 25, 30, 35, 40], min_val=12.0):
     # Clean PE and Forward_PE columns using robust anomaly filtering with index-specific min_val and dates
     df['PE'] = clean_pe_series(df['PE'], dates=df['Date'], index_name=index_name, min_val=min_val, max_deviation=0.35)
-    df['Forward_PE'] = clean_pe_series(df['Forward_PE'], dates=df['Date'], index_name=index_name, min_val=min_val, max_deviation=0.35)
+    # SOX_YF now computes live yfinance forward estimates directly; keep the
+    # old edge-filling behavior for LSEG series to preserve existing charts.
+    fill_forward_edges = index_name != "SOX_YF"
+    df['Forward_PE'] = clean_pe_series(df['Forward_PE'], dates=df['Date'], index_name=index_name, min_val=min_val, max_deviation=0.35, fill_edges=fill_forward_edges)
     
     # Implied Trailing EPS = Price / PE
     df['EPS'] = df['Price'] / df['PE']

@@ -5,6 +5,7 @@ import datetime
 import urllib.request
 import json
 import os
+import calendar
 
 def fetch_cathay_weights():
     print("[Cathay API] Fetching current index weights for 00830 (FundCode=BO)...")
@@ -69,10 +70,18 @@ def main():
     # 3. Fetch earnings dates for all components
     print("\n[yfinance] Fetching earnings dates & EPS history for all components...")
     eps_history = {}
+    annual_estimates = {}
     for i, tkr in enumerate(tickers):
         print(f"  [{i+1}/{len(tickers)}] Fetching {tkr} ...")
         try:
             t = yf.Ticker(tkr)
+            estimates = t.earnings_estimate
+            if estimates is not None and not estimates.empty and {'0y', '+1y'}.issubset(estimates.index):
+                eps_0y = estimates.loc['0y', 'avg']
+                eps_1y = estimates.loc['+1y', 'avg']
+                if pd.notna(eps_0y) and pd.notna(eps_1y):
+                    annual_estimates[tkr] = (float(eps_0y), float(eps_1y))
+
             df_earnings = t.earnings_dates
             if df_earnings is not None and not df_earnings.empty:
                 # Reset index to get Earnings Date as a column
@@ -105,7 +114,7 @@ def main():
         sum_fwd_weight = 0.0
         
         for tkr in tickers:
-            if tkr not in eps_history or tkr not in price_df.columns:
+            if tkr not in price_df.columns:
                 continue
                 
             price = price_df.loc[date, tkr]
@@ -113,10 +122,10 @@ def main():
                 continue
                 
             weight = weights[tkr]
-            df_e = eps_history[tkr]
+            df_e = eps_history.get(tkr)
             
             # Trailing EPS: sum of Reported EPS of the last 4 earnings releases before 'date'
-            past_releases = df_e[df_e['Earnings Date'] <= date].tail(4)
+            past_releases = df_e[df_e['Earnings Date'] <= date].tail(4) if df_e is not None else pd.DataFrame()
             if len(past_releases) == 4 and past_releases['Reported EPS'].notna().all():
                 trail_eps = past_releases['Reported EPS'].sum()
                 if price > 0:
@@ -124,10 +133,18 @@ def main():
                     sum_trail_weight += weight
                 
             # Forward EPS: sum of EPS Estimate of the next 4 earnings releases after/on 'date'
-            fwd_releases = df_e[df_e['Earnings Date'] > date].head(4)
+            fwd_releases = df_e[df_e['Earnings Date'] > date].head(4) if df_e is not None else pd.DataFrame()
             if len(fwd_releases) == 4 and fwd_releases['EPS Estimate'].notna().all():
                 fwd_eps = fwd_releases['EPS Estimate'].sum()
                 if price > 0:
+                    sum_fwd_yield += weight * (fwd_eps / price)
+                    sum_fwd_weight += weight
+            elif tkr in annual_estimates:
+                eps_0y, eps_1y = annual_estimates[tkr]
+                days_in_year = 366 if calendar.isleap(date.year) else 365
+                year_progress = (date.dayofyear - 1) / days_in_year
+                fwd_eps = eps_0y * (1 - year_progress) + eps_1y * year_progress
+                if fwd_eps > 0 and price > 0:
                     sum_fwd_yield += weight * (fwd_eps / price)
                     sum_fwd_weight += weight
                     
