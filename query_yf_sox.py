@@ -48,19 +48,22 @@ def main():
         
     tickers = list(weights.keys())
     
-    # 2. Fetch weekly historical prices for all components + ^SOX (last 5 years)
-    print("\n[yfinance] Fetching weekly price history for 30 components + ^SOX...")
+    # 2. Fetch daily historical prices, then keep the final trading day per week.
+    # Yahoo's native 1wk interval labels each bar with the week-start date
+    # (usually Monday), which makes a fresh week-end close look stale.
+    print("\n[yfinance] Fetching daily price history for 30 components + ^SOX...")
     start_date = (datetime.date.today() - datetime.timedelta(days=5*365)).strftime('%Y-%m-%d')
-    end_date = datetime.date.today().strftime('%Y-%m-%d')
+    end_date = (datetime.date.today() + datetime.timedelta(days=1)).strftime('%Y-%m-%d')
     
     all_tickers = tickers + ['^SOX']
-    price_df = yf.download(all_tickers, start=start_date, end=end_date, interval="1wk")
+    price_df = yf.download(all_tickers, start=start_date, end=end_date, interval="1d")
     if 'Close' in price_df.columns:
         price_df = price_df['Close']
     
     # Fill missing prices
     price_df = price_df.ffill().bfill()
     price_df.index = pd.to_datetime(price_df.index).tz_localize(None)
+    price_df = price_df.groupby(pd.Grouper(freq='W-FRI')).tail(1)
     
     # Check if ^SOX is present
     if '^SOX' not in price_df.columns:
