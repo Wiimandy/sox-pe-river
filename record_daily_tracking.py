@@ -167,6 +167,16 @@ def fetch_yfinance_bottomup():
         
     tickers = list(weights.keys())
     print(f"[yfinance] Fetching data for {len(tickers)} component stocks...")
+    yf_index_price = None
+    try:
+        sox_info = yf.Ticker("^SOX").info
+        yf_index_price = sox_info.get("currentPrice") or sox_info.get("regularMarketPrice")
+        if yf_index_price is None:
+            sox_history = yf.Ticker("^SOX").history(period="5d")
+            if sox_history is not None and not sox_history.empty:
+                yf_index_price = float(sox_history["Close"].dropna().iloc[-1])
+    except Exception as e:
+        print(f"[yfinance] Warning: Could not fetch ^SOX index price: {e}")
     
     rows = []
     missing_fwd = []
@@ -222,7 +232,7 @@ def fetch_yfinance_bottomup():
     df = pd.DataFrame(rows).dropna(subset=['Price'])
     if df.empty:
         print("[yfinance] Error: Could not fetch data for any components.")
-        return None, None, [], []
+        return None, None, yf_index_price, [], []
         
     # Trailing PE: weighted harmonic mean
     df_trail = df.dropna(subset=['Trail_EPS'])
@@ -251,7 +261,7 @@ def fetch_yfinance_bottomup():
     else:
         yf_fwd_pe = None
         
-    return yf_trail_pe, yf_fwd_pe, missing_trail, missing_fwd
+    return yf_trail_pe, yf_fwd_pe, yf_index_price, missing_trail, missing_fwd
 
 
 def fetch_soxx_pe_web():
@@ -332,10 +342,10 @@ def main():
         print(f"[LSEG] Error processing LSEG data: {e}. Logging as N/A.")
         
     # 2. Fetch yfinance
-    yf_pe, yf_fwd_pe = None, None
+    yf_pe, yf_fwd_pe, yf_index_price = None, None, None
     missing_t, missing_f = [], []
     try:
-        yf_pe, yf_fwd_pe, missing_t, missing_f = fetch_yfinance_bottomup()
+        yf_pe, yf_fwd_pe, yf_index_price, missing_t, missing_f = fetch_yfinance_bottomup()
         if yf_pe is not None:
             print(f"[yfinance] Calculated PE={yf_pe:.2f}x, FwdPE={yf_fwd_pe:.2f}x")
         else:
@@ -363,6 +373,7 @@ def main():
         'LSEG_Price': lseg_price,
         'LSEG_PE': lseg_pe,
         'LSEG_FwdPE': lseg_fwd_pe,
+        'YF_Index_Price': yf_index_price,
         'YF_PE': yf_pe,
         'YF_FwdPE': yf_fwd_pe,
         'SOXX_AsOfDate': soxx_date,
