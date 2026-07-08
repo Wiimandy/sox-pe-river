@@ -55,9 +55,6 @@
                     <span class="control-label">選擇指數：</span>
                     <div class="toggle-container">
                     <button class="toggle-btn active" id="btn-sox">費城半導體 (SOX)</button>
-                        <button class="toggle-btn" id="btn-spx">標普 500 (S&P 500)</button>
-                        <button class="toggle-btn" id="btn-ixic">納斯達克 (NASDAQ)</button>
-                        <button class="toggle-btn" id="btn-dji">道瓊工業 (DJI)</button>
                     </div>
                 </div>
                 <div class="control-group">
@@ -157,10 +154,6 @@
                 <div class="chart-container" style="height: 300px;">
                     <canvas id="peTrendChart"></canvas>
                 </div>
-            </div>
-            <!-- IXIC Data Correction Notice (visible only when IXIC is selected) -->
-            <div id="ixic-data-notice">
-                <strong>※ 數據修正說明</strong>｜LSEG 資料庫於 2024 年 1 月至 2025 年 6 月間，多次回傳 Nasdaq Composite 本益比異常低值（最低達 8～14 倍），與市場實況（正常應在 25～35 倍）嚴重背離，為資料庫計算錯誤所致。本圖採「絕對下限過濾（min P/E = 21x）」剔除異常值後，以<strong>線性插補（Linear Interpolation）</strong>進行平滑填補。與常見的前值沿用（Forward Fill）相比，線性插補可在修正邊界避免階梯狀跳躍，使河流帶型連貫平滑。插補區間內之數值為估算值，非實際觀測數據。
             </div>
         </main>
 
