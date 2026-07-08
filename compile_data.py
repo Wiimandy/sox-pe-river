@@ -15,9 +15,6 @@ def main():
 
     datasets = {
         "SOX_DATA":    f"sox_pe_river_data_{FREQ}.csv",
-        "SPX_DATA":    f"spx_pe_river_data_{FREQ}.csv",
-        "IXIC_DATA":   f"ixic_pe_river_data_{FREQ}.csv",
-        "DJI_DATA":    f"dji_pe_river_data_{FREQ}.csv",
     }
 
     with open("data.js", "w", encoding="utf-8") as f:
@@ -29,7 +26,7 @@ def main():
             f.write(";\n\n")
             print(f"  {var_name:<12} ← {csv_file}  ({len(records)} rows)")
 
-    print(f"\nSuccessfully compiled all 4 datasets into data.js!")
+    print(f"\nSuccessfully compiled SOX dataset into data.js!")
     print(f"(Frequency: {FREQ} — {freq_label})")
 
 
