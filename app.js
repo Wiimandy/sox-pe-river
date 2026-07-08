@@ -2,8 +2,8 @@
 
 document.addEventListener('DOMContentLoaded', () => {
     // --- 1. Validate Data Load ---
-    if (typeof SOX_DATA === 'undefined' || typeof SPX_DATA === 'undefined' || typeof IXIC_DATA === 'undefined' || typeof DJI_DATA === 'undefined') {
-        console.error("Error: SOX_DATA, SPX_DATA, IXIC_DATA, or DJI_DATA is not loaded. Please ensure data.js exists and is populated.");
+    if (typeof SOX_DATA === 'undefined') {
+        console.error("Error: SOX_DATA is not loaded. Please ensure data.js exists and is populated.");
         return;
     }
 
@@ -23,9 +23,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const btnResetZoom = document.getElementById('btn-reset-zoom');
     
     const btnSOX = document.getElementById('btn-sox');
-    const btnSPX = document.getElementById('btn-spx');
-    const btnIXIC = document.getElementById('btn-ixic');
-    const btnDJI = document.getElementById('btn-dji');
     
     const btnTrailing = document.getElementById('btn-trailing');
     const btnForward = document.getElementById('btn-forward');
@@ -46,7 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const loadingText = document.getElementById('loading-text');
     
     // --- 3. State Management ---
-    let activeIndexName = 'SOX'; // 'SOX', 'SPX', 'IXIC', 'DJI'
+    let activeIndexName = 'SOX';
     let activeDataset = SOX_DATA;
     let currentMode = 'sd'; // 'sd' or 'fixed'
     let currentMetric = 'trailing'; // 'trailing' or 'forward'
@@ -60,10 +57,7 @@ document.addEventListener('DOMContentLoaded', () => {
         currentMetric = metricName;
         
         const datasetMap = {
-            'SOX': SOX_DATA,
-            'SPX': SPX_DATA,
-            'IXIC': IXIC_DATA,
-            'DJI': DJI_DATA
+            'SOX': SOX_DATA
         };
         activeDataset = datasetMap[indexName];
         
@@ -752,34 +746,7 @@ document.addEventListener('DOMContentLoaded', () => {
     
     btnSOX.addEventListener('click', () => {
         btnSOX.classList.add('active');
-        btnSPX.classList.remove('active');
-        btnIXIC.classList.remove('active');
-        btnDJI.classList.remove('active');
         updateDashboard('SOX');
-    });
-    
-    btnSPX.addEventListener('click', () => {
-        btnSPX.classList.add('active');
-        btnSOX.classList.remove('active');
-        btnIXIC.classList.remove('active');
-        btnDJI.classList.remove('active');
-        updateDashboard('SPX');
-    });
-    
-    btnIXIC.addEventListener('click', () => {
-        btnIXIC.classList.add('active');
-        btnSOX.classList.remove('active');
-        btnSPX.classList.remove('active');
-        btnDJI.classList.remove('active');
-        updateDashboard('IXIC');
-    });
-    
-    btnDJI.addEventListener('click', () => {
-        btnDJI.classList.add('active');
-        btnSOX.classList.remove('active');
-        btnSPX.classList.remove('active');
-        btnIXIC.classList.remove('active');
-        updateDashboard('DJI');
     });
     
     btnTrailing.addEventListener('click', () => {
