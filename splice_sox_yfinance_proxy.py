@@ -8,12 +8,12 @@ TRACKING_FILE = "sox_daily_tracking_log.csv"
 
 def main():
     sox = pd.read_csv(SOX_WEEKLY_FILE)
-    sox["Date"] = pd.to_datetime(sox["Date"], errors="coerce")
+    sox["Date"] = pd.to_datetime(sox["Date"], errors="coerce", format="mixed")
 
     lseg = sox[sox["Date"] <= CUTOFF_DATE].copy()
 
     tracking = pd.read_csv(TRACKING_FILE)
-    tracking["Date"] = pd.to_datetime(tracking["Date"], errors="coerce")
+    tracking["Date"] = pd.to_datetime(tracking["Date"], errors="coerce", format="mixed")
     tracking = tracking[tracking["Date"] > CUTOFF_DATE].copy()
     tracking = tracking.dropna(subset=["Date", "YF_PE", "YF_FwdPE"])
 
