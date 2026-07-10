@@ -350,6 +350,12 @@ body {
     height: 550px;
 }
 
+.chart-container canvas {
+    display: block;
+    width: 100% !important;
+    height: 100% !important;
+}
+
 
 
 /* Footer Styling */
