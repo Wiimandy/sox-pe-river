@@ -189,6 +189,8 @@ document.addEventListener('DOMContentLoaded', () => {
     
     // --- 5. Chart rendering ---
     function renderCharts(prices, pes, dates, meanPE, stdPE) {
+        const mobilePortrait = isMobilePortrait();
+
         if (currentChart) {
             currentChart.destroy();
         }
