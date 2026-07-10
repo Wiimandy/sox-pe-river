@@ -54,6 +54,10 @@ document.addEventListener('DOMContentLoaded', () => {
     function isMobilePortrait() {
         return window.matchMedia('(max-width: 600px) and (orientation: portrait)').matches;
     }
+
+    if (window.Chart) {
+        Chart.defaults.devicePixelRatio = Math.min(window.devicePixelRatio || 1, 2);
+    }
     
     // --- 4. Dashboard Update Logic ---
     function updateDashboard(indexName, metricName = currentMetric) {
@@ -486,7 +490,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             }
                         }
                     },
-                    zoom: {
+                    zoom: mobilePortrait ? false : {
                         zoom: {
                             wheel: {
                                 enabled: true,
@@ -690,7 +694,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             }
                         }
                     },
-                    zoom: {
+                    zoom: mobilePortrait ? false : {
                         zoom: {
                             wheel: {
                                 enabled: true,
