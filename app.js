@@ -50,11 +50,16 @@ document.addEventListener('DOMContentLoaded', () => {
     
     let currentChart = null;
     let peChart = null;
+
+    function isMobilePortrait() {
+        return window.matchMedia('(max-width: 600px) and (orientation: portrait)').matches;
+    }
     
     // --- 4. Dashboard Update Logic ---
     function updateDashboard(indexName, metricName = currentMetric) {
         activeIndexName = indexName;
         currentMetric = metricName;
+        const mobilePortrait = isMobilePortrait();
         
         const datasetMap = {
             'SOX': SOX_DATA
@@ -424,12 +429,12 @@ document.addEventListener('DOMContentLoaded', () => {
                         labels: {
                             color: '#e2e8f0',
                             font: {
-                                size: 11,
+                                size: mobilePortrait ? 9 : 11,
                                 family: 'Inter'
                             },
-                            padding: 15,
+                            padding: mobilePortrait ? 8 : 15,
                             usePointStyle: true,
-                            boxWidth: 8
+                            boxWidth: mobilePortrait ? 6 : 8
                         },
                         filter: function(item) {
                             if (currentMode === 'sd') {
@@ -646,12 +651,12 @@ document.addEventListener('DOMContentLoaded', () => {
                         labels: {
                             color: '#e2e8f0',
                             font: {
-                                size: 10,
+                                size: mobilePortrait ? 9 : 10,
                                 family: 'Inter'
                             },
-                            padding: 10,
+                            padding: mobilePortrait ? 7 : 10,
                             usePointStyle: true,
-                            boxWidth: 6
+                            boxWidth: mobilePortrait ? 5 : 6
                         }
                     },
                     tooltip: {
@@ -770,6 +775,14 @@ document.addEventListener('DOMContentLoaded', () => {
         if (peChart) {
             peChart.resetZoom();
         }
+    });
+
+    let resizeTimer = null;
+    window.addEventListener('resize', () => {
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(() => {
+            updateDashboard(activeIndexName);
+        }, 180);
     });
     
     // Refresh Data click listener
