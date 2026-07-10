@@ -490,14 +490,14 @@ document.addEventListener('DOMContentLoaded', () => {
                             }
                         }
                     },
-                    zoom: mobilePortrait ? false : {
+                    zoom: {
                         zoom: {
                             wheel: {
-                                enabled: true,
+                                enabled: !mobilePortrait,
                                 speed: 0.08
                             },
                             pinch: {
-                                enabled: true
+                                enabled: !mobilePortrait
                             },
                             mode: 'x',
                             drag: {
@@ -512,7 +512,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             }
                         },
                         pan: {
-                            enabled: true,
+                            enabled: !mobilePortrait,
                             mode: 'x',
                             threshold: 10,
                             onPan: function({chart}) {
@@ -694,14 +694,14 @@ document.addEventListener('DOMContentLoaded', () => {
                             }
                         }
                     },
-                    zoom: mobilePortrait ? false : {
+                    zoom: {
                         zoom: {
                             wheel: {
-                                enabled: true,
+                                enabled: !mobilePortrait,
                                 speed: 0.08
                             },
                             pinch: {
-                                enabled: true
+                                enabled: !mobilePortrait
                             },
                             mode: 'x',
                             drag: {
@@ -716,7 +716,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             }
                         },
                         pan: {
-                            enabled: true,
+                            enabled: !mobilePortrait,
                             mode: 'x',
                             threshold: 10,
                             onPan: function({chart}) {
