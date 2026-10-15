@@ -44,8 +44,6 @@
             <div class="title-section">
                 <div style="display: flex; align-items: center; gap: 0.75rem;">
                     <span class="badge">LSEG Workspace Live Data</span>
-                    <button class="refresh-btn" id="btn-refresh-data" title="從 LSEG Workspace 重新抓取並編譯最新數據">🔄 重新整理數據</button>
-                    <button class="refresh-btn" id="btn-export-charts" style="background: rgba(99, 102, 241, 0.15); color: #a5b4fc; border: 1px solid rgba(99, 102, 241, 0.35);" title="產出並匯出近五年估值折線圖至 OneDrive">📊 匯出估值圖 (近5年)</button>
                 </div>
                 <h1><span id="app-title-index">SOX</span> Index P/E River Chart</h1>
                 <p class="subtitle" id="app-subtitle-desc">費城半導體指數 20 年本益比河流圖及估值分析儀表板</p>
@@ -172,6 +170,6 @@
 
     <!-- Data and Application Script -->
     <script src="data.js?v=20260710-chart-scope-fix"></script>
-    <script src="app.js?v=20260710-chart-scope-fix"></script>
+    <script src="app.js?v=20261015-remove-header-actions"></script>
 </body>
 </html>
